@@ -8,6 +8,7 @@ World Happiness Report - https://www.kaggle.com/datasets/unsdsn/world-happiness?
 City Quality of Life Dataset - https://www.kaggle.com/datasets/orhankaramancode/city-quality-of-life-dataset
 
 World cities database - https://www.kaggle.com/datasets/juanmah/world-cities
+    - for this cite as source: https://simplemaps.com/data/world-cities 
 
 Google Places API- Tourism/geographical-beaches-ski resorts-
 
