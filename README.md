@@ -16,3 +16,7 @@ OpenWeatherAPI - Solar Days, Ave Temp, Precipitation
 
 - Load into the NoSQL- MongoDB-
 
+
+## PROPOSAL
+Crowlugi Resorts are looking for the ideal location for their next luxury property investment. We in the property acquisitions department have been tasked with creating a database of weather data and nearby tourist attractions in the countries that received high World Happiness scores. The database will then be used to find the top 10 potential locations for the new resort. 
+
