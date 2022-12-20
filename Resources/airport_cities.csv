@@ -1,6 +1,7 @@
+column 1,column 2,column 3,column 4,column 5,column 6,column 7,column 8
 city_ID,city,lat,lng,country,airport_name,airport_address,airport_rating
 0,Sydney,-33.865,151.2094,Australia,Sydney Airport,Sydney,3.7
-1,Melbourne,-37.8136,144.9631,Australia,,,
+1,Melbourne,-37.8136,144.9631,Australia,Melbourne Airport,Melbourne Airport VIC 3045,3.8
 2,Brisbane,-27.4678,153.0281,Australia,Brisbane Airport,"Airport Dr, Brisbane Airport",4.0
 3,Perth,-31.9522,115.8589,Australia,Perth Airport,Perth Airport,3.6
 4,Adelaide,-34.9275,138.6,Australia,Adelaide Airport,"Adelaide Airport Terminal, Sir Richard Williams Ave, Adelaide Airport",4.2
