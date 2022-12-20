@@ -10,14 +10,17 @@ CREATE DATABASE resorts_db
     CONNECTION LIMIT = -1
     IS_TEMPLATE = False;
 
--- Make Tables to import data from csv files using pandas:
+-- Make Tables to import data from csv files using sqlalchemy:
 -- Create country table:
-CREATE TABLE departments (
-    dept_no VARCHAR(255),
-    dept_name VARCHAR(255),
-    PRIMARY KEY (dept_no)
+CREATE TABLE country (
+    city_ID INTEGER NOT NULL,
+    city VARCHAR(255),
+    country_ID INTEGER NOT NULL,
+    PRIMARY KEY (city_ID)
 );
--- Import department.csv using pgAdmin GUI.
+-- Import data from country_df using sqlalchemy.
+-----------------------***************
+
 
 -- Create dept_emp table with both columns as pk:
 CREATE TABLE dept_emp (
