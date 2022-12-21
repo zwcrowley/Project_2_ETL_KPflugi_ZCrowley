@@ -84,3 +84,18 @@ CREATE TABLE weather (
         PRIMARY KEY (city_ID)
 );
 -- Import data from new_weather_df using sqlalchemy.
+
+
+--sample query - locations with the best beaches:
+select 
+	b.beach_name as "Beach Name"
+	, b.beach_address as "Beach Address"
+	, b.beach_rating as "Beach Rating"
+	, c.city as "City"
+
+from beaches as b
+    inner join cities x on b.city_ID=x.city_ID
+    inner join city c on x.city_ID=c.city_ID
+
+		
+order by "Beach Rating" DESC
