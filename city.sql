@@ -97,5 +97,4 @@ from beaches as b
     inner join cities x on b.city_ID=x.city_ID
     inner join city c on x.city_ID=c.city_ID
 
-		
 order by "Beach Rating" DESC
