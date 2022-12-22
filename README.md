@@ -7,9 +7,12 @@ Crowlugi Resorts are looking for the ideal location for their next luxury proper
 ## Sources
 World Happiness Report - https://www.kaggle.com/datasets/unsdsn/world-happiness?resource=download&select=2019.csv 
 -	(Gallup World Poll: https://www.gallup.com/analytics/349487/gallup-global-happiness-center.aspx; World Happiness Report: https://worldhappiness.report/?utm_source=link_wwwv9&utm_campaign=item_394172&utm_medium=copy) 
+
 World cities database - https://www.kaggle.com/datasets/juanmah/world-cities
 -	(Simple Maps: “World Cities Database” https://simplemaps.com/data/world-cities)
+
 Google Places API (https://developers.google.com/maps/documentation/places/web-service)
+
 OpenWeatherAPI (https://openweathermap.org/current)
 
 ## Step 1
@@ -47,13 +50,13 @@ Having obtained our desired datasets and APIs, we began the process of transform
 
 ## Step 3
 We have seven tables to load into Postgres
- - Happiness 
- - Country (junction table)
- - City (junction table)
- - Cities
- - Airport Data
- - Beaches Data
- - Weather Data
+   - Happiness 
+   - Country (junction table)
+   - City (junction table)
+   - Cities
+   - Airport Data
+   - Beaches Data
+   - Weather Data
 
 - First Normal Form: there are no duplicate rows and each cell contains a single value. 
 - Second and Third Normal Form: During the loading process, we’ve eliminated any columns that contained non partial and non-mutually exclusive data. For example, originally our Top Cities table contained city_ID and city (name) however you would still be able to determine the latitude and longitude of a city either by its city_ID or its city. We then created another junction table that contained the city_IDs and the city (name). This eliminates transitive dependencies as all attributes within each table is dependent on the table’s unique primary key. 
