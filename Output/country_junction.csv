@@ -1,0 +1,1524 @@
+country_ID,city
+10,Sydney
+10,Melbourne
+10,Brisbane
+10,Perth
+10,Adelaide
+10,Gold Coast
+10,Cranbourne
+10,Canberra
+10,Central Coast
+10,Wollongong
+10,Hobart
+10,Geelong
+10,Townsville
+10,Ipswich
+10,Newcastle
+10,Cairns
+10,Darwin
+10,Toowoomba
+10,Launceston
+10,Ballarat
+10,Bendigo
+10,Bunbury
+10,Bundaberg
+10,Wagga Wagga
+10,Melton
+10,Hervey Bay
+10,Pakenham
+10,Port Macquarie
+10,Caloundra
+10,Dubbo
+10,Orange
+10,Frankston
+10,Sunbury
+10,Bathurst
+10,Gladstone
+10,Mildura
+10,Geraldton
+10,Southport
+10,Shepparton
+10,Kalgoorlie
+10,Dandenong
+10,Warrnambool
+10,Albany
+10,Burnie
+10,Quakers Hill
+10,Caboolture
+10,Coffs Harbour
+10,Mount Gambier
+10,Busselton
+10,Traralgon
+9,Vienna
+9,Graz
+9,Linz
+9,Salzburg
+9,Innsbruck
+9,Klagenfurt
+9,Villach
+9,Wels
+9,Sankt Pölten
+9,Dornbirn
+9,Wiener Neustadt
+9,Steyr
+9,Bregenz
+9,Leonding
+9,Klosterneuburg
+9,Wolfsberg
+9,Leoben
+9,Krems an der Donau
+9,Traun
+9,Amstetten
+9,Lustenau
+9,Kapfenberg
+9,Hallein
+9,Mödling
+9,Kufstein
+9,Traiskirchen
+9,Schwechat
+9,Braunau am Inn
+9,Stockerau
+9,Saalfelden am Steinernen Meer
+9,Hohenems
+9,Ansfelden
+9,Bruck an der Mur
+9,Telfs
+9,Spittal an der Drau
+9,Perchtoldsdorf
+9,Ternitz
+9,Bludenz
+9,Eisenstadt
+9,Feldkirchen
+9,Bad Ischl
+9,Hall in Tirol
+9,Wörgl
+9,Schwaz
+9,Marchtrenk
+9,Hard
+9,Feldbach
+9,Gmunden
+9,Korneuburg
+9,Neunkirchen
+36,Manama
+36,Al Muḩarraq
+36,Madīnat Ḩamad
+36,Madīnat ‘Īsá
+17,Brussels
+17,Antwerp
+17,Gent
+17,Charleroi
+17,Liège
+17,Bruges
+17,Anderlecht
+17,Namur
+17,Leuven
+17,Moortebeek
+17,Mons
+17,Mechelen
+17,Aalst
+17,La Louvière
+17,Hasselt
+17,Sint-Niklaas
+17,Kortrijk
+17,Ostend
+17,Tournai
+17,Genk
+17,Seraing
+17,Roeselare
+17,Mouscron
+17,Forest
+17,Verviers
+17,Beveren
+17,Etterbeek
+17,Beringen
+17,Dendermonde
+17,Turnhout
+17,Vilvoorde
+17,Jette
+17,Heist-op-den-Berg
+17,Dilbeek
+17,Lokeren
+17,Evere
+17,Geel
+17,Sint-Truiden
+17,Herstal
+17,Braine-l’Alleud
+17,Halle
+17,Ninove
+17,Waregem
+17,Wilrijk
+17,Mechelen-aan-de-Maas
+17,Brasschaat
+17,Grimbergen
+17,Lierre
+17,Mol
+17,Châtelet
+31,São Paulo
+31,Rio de Janeiro
+31,Belo Horizonte
+31,Brasília
+31,Salvador
+31,Fortaleza
+31,Curitiba
+31,Manaus
+31,Recife
+31,Belém
+31,Porto Alegre
+31,Goiânia
+31,Guarulhos
+31,Vila Velha
+31,Campinas
+31,São Gonçalo
+31,São Luís
+31,Maceió
+31,Natal
+31,Campo Grande
+31,Natal
+31,Teresina
+31,Iguaçu
+31,São Bernardo do Campo
+31,João Pessoa
+31,Abaeté
+31,Santo André
+31,Jaboatão
+31,Osasco
+31,São José dos Campos
+31,Ribeirão Prêto
+31,Contagem
+31,Sorocaba
+31,Aracaju
+31,Feira de Santana
+31,Uberlândia
+31,Cuiabá
+31,Juiz de Fora
+31,Londrina
+31,Joinvile
+31,Ananindeua
+31,Niterói
+31,Serra
+31,Florianópolis
+31,Macapá
+31,Vila Velha
+31,Campos
+31,Mauá
+31,São José do Rio Prêto
+31,Caxias do Sul
+8,Toronto
+8,Montréal
+8,Vancouver
+8,Calgary
+8,Edmonton
+8,Ottawa
+8,Mississauga
+8,Winnipeg
+8,Quebec City
+8,Hamilton
+8,Brampton
+8,Surrey
+8,Kitchener
+8,Laval
+8,Halifax
+8,London
+8,Victoria
+8,Markham
+8,St. Catharines
+8,Niagara Falls
+8,Vaughan
+8,Gatineau
+8,Windsor
+8,Saskatoon
+8,Longueuil
+8,Burnaby
+8,Regina
+8,Richmond
+8,Richmond Hill
+8,Oakville
+8,Burlington
+8,Barrie
+8,Oshawa
+8,Sherbrooke
+8,Saguenay
+8,Lévis
+8,Kelowna
+8,Abbotsford
+8,Coquitlam
+8,Trois-Rivières
+8,Guelph
+8,Cambridge
+8,Whitby
+8,Ajax
+8,Langley
+8,Saanich
+8,Terrebonne
+8,Milton
+8,St. John's
+8,Moncton
+25,Santiago
+25,Puente Alto
+25,Maipú
+25,La Florida
+25,Antofagasta
+25,Viña del Mar
+25,San Bernardo
+25,Valparaíso
+25,Temuco
+25,Las Condes
+25,Rancagua
+25,Concepción
+25,Talca
+25,Coquimbo
+25,Arica
+25,La Serena
+25,Iquique
+25,Puerto Montt
+25,Chillán
+25,Calama
+25,Copiapó
+25,Valdivia
+25,Quilpué
+25,Talcahuano
+25,Osorno
+25,Colina
+25,Los Ángeles
+25,Curicó
+25,Villa Alemana
+25,Melipilla
+25,Punta Arenas
+25,La Granja
+25,Coronel
+25,Alto Hospicio
+25,Lo Barnechea
+25,Espejo
+25,Buin
+25,San Joaquín
+25,La Reina
+25,Peñaflor
+25,San Antonio
+25,Chiguayante
+25,Ovalle
+25,Linares
+25,Quillota
+25,San Felipe
+25,Coyhaique
+25,Los Andes
+25,San Fernando
+25,Talagante
+11,San José
+11,Puerto Limón
+11,Alajuela
+11,Liberia
+11,Puntarenas
+11,Quesada
+11,Buenos Aires
+11,San Juan
+11,Cartago
+11,Cañas
+11,Heredia
+11,Colón
+11,Santa Ana
+11,Santiago
+11,Sixaola
+11,Golfito
+11,La Cruz
+11,Ciudad Cortés
+1,Copenhagen
+1,Aarhus
+1,Odense
+1,Aalborg
+1,Esbjerg
+1,Vejle
+1,Roskilde
+1,Viborg
+1,Svendborg
+1,Hillerød
+1,Frederikshavn
+1,Sorø
+34,San Salvador
+34,Usulután
+34,Santa Ana
+34,San Miguel
+34,Mejicanos
+34,Santa Tecla
+34,Apopa
+34,Delgado
+34,Ahuachapán
+34,Sonsonate
+34,Colón
+34,Acajutla
+34,Chalchuapa
+34,Zacatecoluca
+34,Cuscatancingo
+34,Quezaltepeque
+34,San Vicente
+34,Nahuizalco
+34,Cojutepeque
+34,Jiquilisco
+34,San Pedro Perulapán
+34,Panchimalco
+34,Ciudad Barrios
+34,Santiago Nonualco
+34,Armenia
+34,Atiquizaya
+34,Tacuba
+34,La Unión
+34,Chalatenango
+34,Sensuntepeque
+34,Sonzacate
+34,Juayúa
+34,San Francisco
+34,Guaymango
+34,Puerto El Triunfo
+34,Santiago de María
+34,Concepción de Ataco
+34,San Alejo
+34,Metapán
+34,Anamorós
+34,El Paisnal
+34,Tepecoyo
+34,Cuisnahuat
+34,Teotepeque
+34,Jocoro
+34,Caluco
+34,Estanzuelas
+34,Nueva Guadalupe
+34,Agua Caliente
+34,El Porvenir
+0,Helsinki
+0,Espoo
+0,Tampere
+0,Vantaa
+0,Oulu
+0,Turku
+0,Jyväskylä
+0,Kuopio
+0,Lahti
+0,Kouvola
+0,Pori
+0,Joensuu
+0,Lappeenranta
+0,Hämeenlinna
+0,Vaasa
+0,Rovaniemi
+0,Seinäjoki
+0,Mikkeli
+0,Kotka
+0,Salo
+0,Porvoo
+0,Kokkola
+0,Lohja
+0,Hyvinkää
+0,Nurmijärvi
+0,Järvenpää
+0,Rauma
+0,Kirkkonummi
+0,Tuusula
+0,Kajaani
+0,Savonlinna
+0,Kerava
+0,Nokia
+0,Ylöjärvi
+0,Kaarina
+0,Kangasala
+0,Jyväskylän Maalaiskunta
+0,Riihimäki
+0,Vihti
+0,Raseborg
+0,Imatra
+0,Sastamala
+0,Raahe
+0,Raisio
+0,Hollola
+0,Lempäälä
+0,Iisalmi
+0,Tornio
+0,Siilinjärvi
+0,Kemi
+23,Paris
+23,Marseille
+23,Lyon
+23,Toulouse
+23,Nice
+23,Nantes
+23,Montpellier
+23,Strasbourg
+23,Bordeaux
+23,Lille
+23,Rennes
+23,Reims
+23,Toulon
+23,Saint-Étienne
+23,Le Havre
+23,Grenoble
+23,Dijon
+23,Angers
+23,Villeurbanne
+23,Nîmes
+23,Clermont-Ferrand
+23,Le Mans
+23,Aix-en-Provence
+23,Brest
+23,Tours
+23,Amiens
+23,Limoges
+23,Annecy
+23,Boulogne-Billancourt
+23,Perpignan
+23,Besançon
+23,Metz
+23,Orléans
+23,Saint-Denis
+23,Rouen
+23,Argenteuil
+23,Montreuil
+23,Mulhouse
+23,Caen
+23,Nancy
+23,Roubaix
+23,Tourcoing
+23,Nanterre
+23,Vitry-sur-Seine
+23,Créteil
+23,Avignon
+23,Poitiers
+23,Aubervilliers
+23,Dunkerque
+23,Aulnay-sous-Bois
+16,Berlin
+16,Hamburg
+16,Munich
+16,Cologne
+16,Frankfurt
+16,Düsseldorf
+16,Stuttgart
+16,Leipzig
+16,Dortmund
+16,Essen
+16,Bremen
+16,Dresden
+16,Hannover
+16,Nuremberg
+16,Duisburg
+16,Bochum
+16,Wuppertal
+16,Bielefeld
+16,Bonn
+16,Münster
+16,Mannheim
+16,Karlsruhe
+16,Augsburg
+16,Wiesbaden
+16,Mönchengladbach
+16,Gelsenkirchen
+16,Aachen
+16,Braunschweig
+16,Kiel
+16,Chemnitz
+16,Halle
+16,Magdeburg
+16,Freiburg im Breisgau
+16,Krefeld
+16,Mainz
+16,Lübeck
+16,Erfurt
+16,Oberhausen
+16,Rostock
+16,Kassel
+16,Hagen
+16,Potsdam
+16,Saarbrücken
+16,Hamm
+16,Ludwigshafen
+16,Mülheim
+16,Oldenburg
+16,Osnabrück
+16,Leverkusen
+16,Solingen
+26,Guatemala City
+26,Villa Nueva
+26,Coatepeque
+26,San Pedro Carchá
+26,Cobán
+26,Quetzaltenango
+26,San Juan Sacatepéquez
+26,Jutiapa
+26,Flores
+26,Momostenango
+26,San Luis
+26,Nueva Concepción
+26,Santa Lucía Cotzumalguapa
+26,Amatitlán
+26,Jalapa
+26,Totonicapán
+26,Puerto Barrios
+26,Escuintla
+26,Morales
+26,Chichicastenango
+26,Malacatán
+26,Mazatenango
+26,Senahú
+26,Petapa
+26,Tacaná
+26,El Estor
+26,Panzos
+26,San Cristóbal Verapaz
+26,Lívingston
+26,Chiquimula
+26,Fray Bartolomé de Las Casas
+26,Villa Canales
+26,Chinautla
+26,Salamá
+26,Santa María La Pila
+26,Chisec
+26,San Pedro Sacatepéquez
+26,Zacapa
+26,San Marcos
+26,San Francisco El Alto
+26,Los Amates
+26,Purulhá
+26,Esquipulas
+26,Sololá
+26,Santa Catarina Pinula
+26,Palín
+26,Nahualá
+26,San Juan Chamelco
+26,Iztapa
+26,Cubulco
+3,Reykjavík
+3,Kópavogur
+3,Hafnarfjörður
+3,Akureyri
+3,Keflavík
+3,Garðabær
+3,Akranes
+3,Selfoss
+3,Sauðárkrókur
+3,Ísafjörður
+3,Höfn
+3,Egilsstaðir
+3,Borgarnes
+15,Dublin
+15,Cork
+15,Galway
+15,Limerick
+15,Waterford
+15,Drogheda
+15,Dún Dealgan
+15,Swords
+15,Blackrock
+15,Tralee
+15,Carlow
+15,Ennis
+15,Dunleary
+15,Kilkenny
+15,Naas
+15,Wexford
+15,Sligo
+15,Leixlip
+15,Cobh
+15,Killarney
+15,Shannon
+15,Dungarvan
+15,Kildare
+15,Carrigtohill
+15,Monaghan
+15,Dunboyne
+15,Ros Comáin
+15,Donegal
+15,Tallaght
+15,Wicklow
+15,Clonmel
+15,Trim
+15,Carrick on Shannon
+15,Tullamore
+15,Castlebar
+15,Mullingar
+15,Longford
+15,Nenagh
+15,Port Laoise
+15,An Cabhán
+15,Lifford
+12,Jerusalem
+12,Tel Aviv-Yafo
+12,Haifa
+12,Rishon LeẔiyyon
+12,Petaẖ Tiqwa
+12,Ashdod
+12,Netanya
+12,Beersheba
+12,Bené Beraq
+12,Holon
+12,Ramat Gan
+12,Ashqelon
+12,Reẖovot
+12,Bat Yam
+12,Bet Shemesh
+12,Kefar Sava
+12,Herẕliyya
+12,Hadera
+12,Modi‘in Makkabbim Re‘ut
+12,Nazareth
+12,Lod
+12,Ramla
+12,Ra‘ananna
+12,Rahat
+12,Nahariyya
+12,Givatayim
+12,Hod HaSharon
+12,Rosh Ha‘Ayin
+12,Qiryat Ata
+12,Umm el Faḥm
+12,Eilat
+12,Nes Ẕiyyona
+12,‘Akko
+12,El‘ad
+12,Ramat HaSharon
+12,Karmiel
+12,Afula
+12,Tiberias
+12,Eṭ Ṭaiyiba
+12,Ben Zakkay
+12,Pardés H̱anna Karkur
+12,Shefar‘am
+12,Qiryat Moẕqin
+12,Qiryat Bialik
+12,Qiryat Yam
+12,Qiryat Ono
+12,Or Yehuda
+12,Ma‘alot Tarshīḥā
+12,Ẕefat
+12,Dimona
+35,Rome
+35,Milan
+35,Naples
+35,Turin
+35,Palermo
+35,Genoa
+35,Bologna
+35,Florence
+35,Bari
+35,Catania
+35,Venice
+35,Verona
+35,Messina
+35,Padova
+35,Trieste
+35,Taranto
+35,Brescia
+35,Parma
+35,Prato
+35,Modena
+35,Reggio di Calabria
+35,Reggio Emilia
+35,Perugia
+35,Ravenna
+35,Livorno
+35,Cagliari
+35,Foggia
+35,Rimini
+35,Salerno
+35,Ferrara
+35,Latina
+35,Giugliano in Campania
+35,Monza
+35,Siracusa
+35,Bergamo
+35,Pescara
+35,Trento
+35,Forlì
+35,Sassari
+35,Vicenza
+35,Terni
+35,Bolzano
+35,Novara
+35,Piacenza
+35,Ancona
+35,Andria
+35,Udine
+35,Arezzo
+35,Cesena
+35,Lecce
+13,Luxembourg
+13,Esch-sur-Alzette
+13,Dudelange
+13,Differdange
+13,Belvaux
+13,Rodange
+13,Niedercorn
+13,Diekirch
+13,Soleuvre
+13,Bascharage
+13,Kayl
+13,Echternach
+13,Steinfort
+13,Rumelange
+13,Wiltz
+13,Mondorf-les-Bains
+13,Grevenmacher
+13,Remich
+13,Vianden
+13,Capellen
+13,Clervaux
+13,Mersch
+13,Redange-sur-Attert
+21,Birkirkara
+21,Saint Paul’s Bay
+21,Mosta
+21,Sliema
+21,Qormi
+21,Żabbar
+21,Naxxar
+21,San Ġwann
+21,Marsaskala
+21,Żebbuġ
+21,Fgura
+21,Żejtun
+21,Rabat
+21,Attard
+21,Żurrieq
+21,Mellieħa
+21,Swieqi
+21,Birżebbuġa
+21,Ħamrun
+21,Tarxien
+21,Imsida
+21,Siġġiewi
+21,Gżira
+21,Paola
+21,San Ġiljan
+21,Santa Venera
+21,Victoria
+21,Valletta
+21,Luqa
+21,Cospicua
+21,Xagħra
+21,Għaxaq
+21,Nadur
+21,Marsa
+21,Pietà
+21,Balzan
+21,Pembroke
+21,Imġarr
+21,Dingli
+21,Marsaxlokk
+21,Imqabba
+21,Xewkija
+21,Għajnsielem
+21,Iklin
+21,Lija
+21,Kalkara
+21,Gudja
+21,Senglea
+21,Għargħur
+21,Qrendi
+22,Mexico City
+22,Guadalajara
+22,Tijuana
+22,Ecatepec
+22,León de los Aldama
+22,Puebla
+22,Zapopan
+22,Juárez
+22,Monterrey
+22,Ciudad Nezahualcóyotl
+22,Nezahualcóyotl
+22,Mexicali
+22,Villahermosa
+22,Morelia
+22,Aguascalientes
+22,Naucalpan de Juárez
+22,Mérida
+22,Cancún
+22,Chihuahua
+22,Saltillo
+22,Hermosillo
+22,Culiacán
+22,Querétaro
+22,San Luis Potosí
+22,Tlajomulco de Zúñiga
+22,Torreón
+22,Guadalupe
+22,Acapulco de Juárez
+22,Tlaquepaque
+22,Mazatlán
+22,Durango
+22,Tlalnepantla
+22,Chimalhuacán
+22,Tuxtla
+22,Irapuato
+22,Reynosa
+22,Tonalá
+22,Ensenada
+22,Heroica Matamoros
+22,Ciudad Apodaca
+22,Tultitlán de Mariano Escobedo
+22,Ixtapaluca
+22,Celaya
+22,Los Mochis
+22,Ciudad López Mateos
+22,San Nicolás de los Garza
+22,Veracruz
+22,Xalapa
+22,Nuevo Laredo
+22,Tecámac
+4,Amsterdam
+4,Rotterdam
+4,The Hague
+4,Utrecht
+4,Eindhoven
+4,Tilburg
+4,Almere
+4,Groningen
+4,Breda
+4,Nijmegen
+4,Haarlem
+4,Apeldoorn
+4,Enschede
+4,Amersfoort
+4,Hoofddorp
+4,Zaanstad
+4,Arnhem
+4,’s-Hertogenbosch
+4,Zoetermeer
+4,Zwolle
+4,Leiden
+4,Maastricht
+4,Dordrecht
+4,Alphen aan den Rijn
+4,Alkmaar
+4,Emmen
+4,Delft
+4,Deventer
+4,Amstelveen
+4,Helmond
+4,Oss
+4,Hilversum
+4,Heerlen
+4,Hengelo
+4,Purmerend
+4,Schiedam
+4,Lelystad
+4,Roosendaal
+4,Hoorn
+4,Spijkenisse
+4,Ede
+4,Almelo
+4,Vlaardingen
+4,Gouda
+4,Zaandam
+4,Velsen-Zuid
+4,Assen
+4,Bergen op Zoom
+4,Capelle aan den IJssel
+4,Veenendaal
+7,Auckland
+7,Wellington
+7,Christchurch
+7,Manukau City
+7,Waitakere
+7,Northcote
+7,Hamilton
+7,Tauranga
+7,Lower Hutt
+7,Dunedin
+7,Palmerston North
+7,Napier
+7,Porirua
+7,Rotorua
+7,New Plymouth
+7,Whangarei
+7,Nelson
+7,Invercargill
+7,Upper Hutt
+7,Whanganui
+7,Gisborne
+7,Paraparaumu
+7,Timaru
+7,Blenheim
+7,Pukekohe East
+7,Taupo
+7,Masterton
+7,Cambridge
+7,Ashton
+7,Levin
+7,Macetown
+7,Rolleston
+7,Feilding
+7,Whakatane
+7,Richmond
+7,Havelock North
+7,Tokoroa
+7,Mosgiel
+7,Te Awamutu
+7,Waikanae
+7,Hawera
+7,Glencoe
+7,Waiuku
+7,Wanaka
+7,Te Puke
+7,Greymouth
+7,Matamata
+7,Thames
+7,Kawerau
+7,Kerikeri
+2,Oslo
+2,Bergen
+2,Trondheim
+2,Stavanger
+2,Kristiansand
+2,Drammen
+2,Fredrikstad
+2,Sandefjord
+2,Asker
+2,Nordre Fåle
+2,Sandnes
+2,Tønsberg
+2,Skien
+2,Sarpsborg
+2,Bodø
+2,Ålesund
+2,Moss
+2,Arendal
+2,Lørenskog
+2,Tromsø
+2,Haugesund
+2,Porsgrunn
+2,Ringsaker
+2,Molde
+2,Halden
+2,Ski
+2,Askøy
+2,Lillehammer
+2,Hamar
+2,Kongsberg
+2,Sola
+2,Oppegård
+2,Lier
+2,Eidsvoll
+2,Nedre Eiker
+2,Sand
+2,Harstad
+2,Larvik
+2,Nittedal
+2,Stjørdal
+2,Borre
+2,Røyken
+2,Sem
+2,Nøtterøy
+2,Elverum
+2,Stange
+2,Gjøvik
+2,Horten
+2,Ås
+2,Kleppe
+30,Panama City
+30,San Miguelito
+30,Colón
+30,David
+30,La Chorrera
+30,Balboa Heights
+30,Pacora
+30,Chitré
+30,Santiago
+30,Penonomé
+30,Puerto Armuelles
+30,Bocas del Toro
+30,Las Tablas
+30,Guararé
+30,Guabito
+30,Almirante
+30,La Palma
+30,Jaqué
+30,Gaigirgordub
+30,Buabidi
+30,Sieyik
+30,Unión Chocó
+39,Warsaw
+39,Kraków
+39,Łódź
+39,Wrocław
+39,Poznań
+39,Gdańsk
+39,Szczecin
+39,Bydgoszcz
+39,Lublin
+39,Białystok
+39,Katowice
+39,Gdynia
+39,Częstochowa
+39,Radom
+39,Toruń
+39,Sosnowiec
+39,Kielce
+39,Rzeszów
+39,Gliwice
+39,Zabrze
+39,Olsztyn
+39,Bielsko-Biała
+39,Bytom
+39,Rybnik
+39,Ruda Śląska
+39,Zielona Góra
+39,Tychy
+39,Opole
+39,Gorzów Wielkopolski
+39,Dąbrowa Górnicza
+39,Płock
+39,Elbląg
+39,Wałbrzych
+39,Tarnów
+39,Koszalin
+39,Chorzów
+39,Kalisz
+39,Legnica
+39,Włocławek
+39,Grudziądz
+39,Jaworzno
+39,Jelenia Góra
+39,Siedlce
+39,Mysłowice
+39,Piotrków Trybunalski
+39,Konin
+39,Inowrocław
+39,Ostrowiec Świętokrzyski
+39,Suwałki
+39,Gniezno
+28,Doha
+28,Al Wakrah
+28,Ar Rayyān
+28,Al Khawr
+28,Umm Şalāl ‘Alī
+28,Ash Shīḩānīyah
+28,Az̧ Z̧a‘āyin
+28,Madīnat ash Shamāl
+27,Riyadh
+27,Jeddah
+27,Mecca
+27,Medina
+27,Ad Dammām
+27,Al Hufūf
+27,Al Ḩillah
+27,Aţ Ţā’if
+27,Tabūk
+27,Buraydah
+27,Ḩā’il
+27,Al Qaţīf
+27,Al Mubarraz
+27,Al Kharj
+27,Yanbu‘
+27,Ḩafr al Bāţin
+27,Al Jubayl
+27,Abhā
+27,Al Khubar
+27,Sakākā
+27,Jāzān
+27,Khamīs Mushayţ
+27,Qal‘at Bīshah
+27,Najrān
+27,Rafḩā
+27,Al Wajh
+27,Dhahran
+27,Arar
+27,As Sulayyil
+27,Dawmat al Jandal
+27,Al Bāḩah
+27,Ad Dir‘īyah
+27,Al Ḩawīyah
+27,Al Majma‘ah
+27,Ḑurumā
+27,Al Qurayyāt
+27,Al Quway‘īyah
+27,Laylá
+27,Turabah
+27,Al Qunfudhah
+33,Singapore
+37,Bratislava
+37,Košice
+37,Petržalka
+37,Prešov
+37,Žilina
+37,Banská Bystrica
+37,Nitra
+37,Trnava
+37,Trenčín
+37,Martin
+37,Poprad
+37,Prievidza
+37,Zvolen
+37,Považská Bystrica
+37,Michalovce
+37,Nové Zámky
+37,Spišská Nová Ves
+37,Komárno
+37,Humenné
+37,Liptovský Mikuláš
+37,Bardejov
+37,Levice
+37,Lučenec
+37,Piešťany
+37,Ružomberok
+37,Topoľčany
+37,Pezinok
+37,Trebišov
+37,Čadca
+37,Dubnica nad Váhom
+37,Rimavská Sobota
+37,Partizánske
+37,Dunajská Streda
+37,Vranov nad Topľou
+37,Šaľa
+37,Hlohovec
+37,Brezno
+37,Senica
+37,Senec
+37,Nové Mesto nad Váhom
+37,Snina
+37,Rožňava
+37,Žiar nad Hronom
+37,Malacky
+37,Dolný Kubín
+37,Bánovce nad Bebravou
+37,Púchov
+37,Handlová
+37,Kežmarok
+37,Stará Ľubovňa
+29,Madrid
+29,Barcelona
+29,Valencia
+29,Sevilla
+29,Zaragoza
+29,Málaga
+29,Murcia
+29,Palma
+29,Las Palmas
+29,Bilbao
+29,Alicante
+29,Córdoba
+29,Valladolid
+29,Vigo
+29,Gijón
+29,Vitoria-Gasteiz
+29,A Coruña
+29,Elche
+29,Granada
+29,Tarrasa
+29,Badalona
+29,Oviedo
+29,Cartagena
+29,Sabadell
+29,Jerez de la Frontera
+29,Móstoles
+29,Santa Cruz
+29,Pamplona
+29,Almería
+29,Alcalá de Henares
+29,Fuenlabrada
+29,Donostia
+29,Leganés
+29,Getafe
+29,Burgos
+29,Albacete
+29,Castellón de la Plana
+29,Santander
+29,Alcorcón
+29,La Laguna
+29,Logroño
+29,Badajoz
+29,Marbella
+29,Salamanca
+29,Huelva
+29,Lleida
+29,Dos Hermanas
+29,Tarragona
+29,Torrejón de Ardoz
+29,Parla
+6,Stockholm
+6,Gothenburg
+6,Malmö
+6,Uppsala
+6,Uppsala
+6,Västerås
+6,Örebro
+6,Linköping
+6,Helsingborg
+6,Umeå
+6,Jönköping
+6,Norrköping
+6,Gävle
+6,Karlstad
+6,Sundsvall
+6,Borås
+6,Växjö
+6,Halmstad
+6,Luleå
+6,Östersund
+6,Trollhättan
+6,Kalmar
+6,Skövde
+6,Borlänge
+6,Mölndal
+6,Falun
+6,Karlskrona
+6,Nyköping
+6,Kristianstad
+6,Skellefteå
+6,Örnsköldsvik
+6,Kiruna
+6,Visby
+6,Huskvarna
+6,Vänersborg
+6,Härnösand
+6,Höganäs
+6,Kinna
+6,Mariestad
+6,Mjölby
+6,Bollnäs
+6,Mora
+6,Ulricehamn
+6,Tibro
+6,Habo
+6,Tidaholm
+6,Strömstad
+6,Haparanda
+6,Hjo
+6,Kungsör
+5,Zürich
+5,Geneva
+5,Basel
+5,Lausanne
+5,Bern
+5,Winterthur
+5,Lucerne
+5,Sankt Gallen
+5,Lugano
+5,Biel/Bienne
+5,Thun
+5,Bellinzona
+5,Köniz
+5,La Chaux-de-Fonds
+5,Fribourg
+5,Schaffhausen
+5,Vernier
+5,Chur
+5,Sion
+5,Uster
+5,Neuchâtel
+5,Landecy
+5,Zug
+5,Yverdon-les-Bains
+5,Emmen
+5,Dübendorf
+5,Kriens
+5,Rapperswil-Jona
+5,Dietikon
+5,Montreux
+5,Frauenfeld
+5,Wetzikon
+5,Baar
+5,Meyrin
+5,Wil
+5,Bulle
+5,Horgen
+5,Carouge
+5,Kreuzlingen
+5,Wädenswil
+5,Riehen
+5,Aarau
+5,Allschwil
+5,Renens
+5,Wettingen
+5,Nyon
+5,Bülach
+5,Vevey
+5,Opfikon
+5,Kloten
+24,Taichung
+24,Kaohsiung
+24,Taipei
+24,Tainan
+24,Zhongli
+24,Changhua
+24,Pingtung
+24,Hsinchu
+24,Taoyuan District
+24,Keelung
+24,Chiayi
+24,Pingzhen
+24,Zhubei
+24,Yangmei
+24,Bade
+24,Yilan
+24,Hualien
+24,Taitung
+24,Douliu
+24,Nantou
+24,Miaoli
+24,Magong
+24,Zhushan
+24,Pozi
+24,Huatan
+24,Beigang
+24,Taibao
+24,Yuanchang
+24,Ershui
+24,Nangan
+24,Banqiao
+24,Jincheng
+20,Dubai
+20,Abu Dhabi
+20,Sharjah
+20,Al ‘Ayn
+20,‘Ajmān
+20,Ra’s al Khaymah
+20,Al Fujayrah
+20,Umm al Qaywayn
+20,Madīnat Zāyid
+14,London
+14,Birmingham
+14,Leeds
+14,Glasgow
+14,Bristol
+14,Manchester
+14,Sheffield
+14,Liverpool
+14,Edinburgh
+14,Leicester
+14,Coventry
+14,Caerdydd
+14,Belfast
+14,Newcastle
+14,Bradford
+14,Ipswich
+14,Nottingham
+14,Bolton
+14,Sunderland
+14,Southampton
+14,Plymouth
+14,Kingston upon Hull
+14,Derby
+14,Westminster
+14,Wolverhampton
+14,Stoke-on-Trent
+14,Portsmouth
+14,Abertawe
+14,Barnsley
+14,Swindon
+14,Luton
+14,Northampton
+14,Milton Keynes
+14,Solihull
+14,Aberdeen
+14,Norwich
+14,Peterborough
+14,Bournemouth
+14,Basildon
+14,York
+14,Warrington
+14,Huddersfield
+14,Reading
+14,Southend
+14,Oxford
+14,Dundee
+14,West Bromwich
+14,Newport
+14,Gloucester
+14,Poole
+18,New York
+18,Los Angeles
+18,Chicago
+18,Miami
+18,Dallas
+18,Philadelphia
+18,Houston
+18,Atlanta
+18,Washington
+18,Boston
+18,Phoenix
+18,Seattle
+18,San Francisco
+18,Detroit
+18,San Diego
+18,Minneapolis
+18,Tampa
+18,Denver
+18,Brooklyn
+18,Queens
+18,Riverside
+18,Baltimore
+18,Las Vegas
+18,Portland
+18,San Antonio
+18,St. Louis
+18,Sacramento
+18,Orlando
+18,San Jose
+18,Cleveland
+18,Pittsburgh
+18,Austin
+18,Cincinnati
+18,Kansas City
+18,Manhattan
+18,Indianapolis
+18,Columbus
+18,Charlotte
+18,Virginia Beach
+18,Bronx
+18,Milwaukee
+18,Providence
+18,Jacksonville
+18,Salt Lake City
+18,Nashville
+18,Richmond
+18,Memphis
+18,Raleigh
+18,New Orleans
+18,Louisville
+32,Montevideo
+32,Salto
+32,Ciudad de la Costa
+32,Maldonado
+32,Paysandú
+32,Las Piedras
+32,Rivera
+32,Tacuarembó
+32,Melo
+32,Mercedes
+32,Artigas
+32,Minas
+32,San José
+32,Durazno
+32,Florida
+32,Colonia del Sacramento
+32,Pando
+32,Treinta y Tres
+32,Rocha
+32,Fray Bentos
+32,Trinidad
+32,Canelones
+32,Bella Unión
+32,Carmelo
+32,Santa Lucía
+32,Progreso
+32,Dolores
+32,Río Branco
+32,Paso de los Toros
+32,Libertad
+32,Nueva Helvecia
+32,Nueva Palmira
+32,Chuy
+32,Rosario
+32,Punta del Este
+32,Piriápolis
+32,Salinas
+32,Parque del Plata
+32,Lascano
+32,Castillos
+32,Tranqueras
+32,Sarandí del Yi
+32,San Ramón
+32,San Jacinto
+32,Pan de Azúcar
+32,Joaquín Suárez
+32,Sauce
+32,Sarandí Grande
+32,Atlántida
+32,José Pedro Varela

@@ -11,14 +11,32 @@ CREATE DATABASE resorts_db
     IS_TEMPLATE = False;
 
 -- Make Tables to import data from csv files using sqlalchemy:
--- Create country table:
-CREATE TABLE country (
+-- Create country_junction table:
+CREATE TABLE country_junction (
+    country_ID INTEGER NOT NULL,
+    city VARCHAR(255),
+    PRIMARY KEY (country_ID, city)
+);
+-- Import data from new_country_junction_df using sqlalchemy.
+
+-- Create city_junction table:
+CREATE TABLE city_junction (
     city_ID INTEGER NOT NULL,
     city VARCHAR(255),
-    country_ID INTEGER NOT NULL,
-    PRIMARY KEY (city_ID, country_ID)
+    PRIMARY KEY (city_ID, city)
 );
--- Import data from new_country_df using sqlalchemy.
+-- Import data from new_city_junction_df using sqlalchemy.
+
+-- Create cities table:
+CREATE TABLE cities (
+    city_ID INTEGER NOT NULL,
+    city_country_ID INTEGER NOT NULL,
+    lat FLOAT NOT NULL,
+    lng FLOAT NOT NULL,
+    population FLOAT NOT NULL,
+    PRIMARY KEY (city_ID)
+);  
+-- Import data from new_cities_df using sqlalchemy.
 
 -- Create happiness table:
 CREATE TABLE happiness (
@@ -32,15 +50,6 @@ CREATE TABLE happiness (
 );
 -- Import data from new_happiness_df using sqlalchemy.
 
--- Create cities table:
-CREATE TABLE cities (
-    city_ID INTEGER NOT NULL,
-    city VARCHAR(255),
-    lat FLOAT NOT NULL,
-    lng FLOAT NOT NULL,
-    population  FLOAT NOT NULL,
-    PRIMARY KEY (city_ID)
-);
 
 -- Create airport table:
 CREATE TABLE airport (
@@ -76,13 +85,48 @@ CREATE TABLE weather (
 -----------
 **************** NEED TO FINISH ADDING FOREIGN KEYS
 -- Add foreign keys to all of the tables now that all the tables are added:
-ALTER TABLE country ADD CONSTRAINT fk_country_happiness FOREIGN KEY (country_ID)
+--country_junction - 2 Foreign Keys
+ALTER TABLE country_junction ADD CONSTRAINT fk_country_junction_happiness FOREIGN KEY (country_ID)
 REFERENCES happiness (country_ID);
-****************
+
+ALTER TABLE country_junction ADD CONSTRAINT fk_country_junction_city_junction FOREIGN KEY (city)
+REFERENCES happiness (city);
+
+--country_junction
+ALTER TABLE city_junction ADD CONSTRAINT fk_city_junction_country_junction FOREIGN KEY (city)
+REFERENCES country_junction (city);
+
+ALTER TABLE city_junction ADD CONSTRAINT fk_country_junction_cities FOREIGN KEY (city_ID)
+REFERENCES cities (city_ID);
+
+-- cities
+ALTER TABLE cities ADD CONSTRAINT fk_cities_happiness FOREIGN KEY (city_country_ID)
+REFERENCES happiness  (city_country_ID);
+
+ALTER TABLE cities ADD CONSTRAINT fk_cities_airport FOREIGN KEY (city_ID)
+REFERENCES airport   (city_ID);
+
+ALTER TABLE cities ADD CONSTRAINT fk_cities_beaches FOREIGN KEY (city_ID)
+REFERENCES beaches (city_ID);
+
+ALTER TABLE cities ADD CONSTRAINT fk_cities_weather
+FOREIGN KEY (city_ID)
+REFERENCES weather (city_ID);
+
+-- happiness 
+ALTER TABLE happiness  ADD CONSTRAINT fk_happiness_cities FOREIGN KEY (country_ID)
+REFERENCES cities (city_country_ID);
+
+ALTER TABLE happiness  ADD CONSTRAINT fk_happiness_country_junction FOREIGN KEY (country_ID)
+REFERENCES country_junction (country_ID);
+
+
 -----------
 
 --Check all tables:
-SELECT * FROM country;
+SELECT * FROM country_junction;
+
+SELECT * FROM city_junction;
 
 SELECT * FROM happiness;
 
