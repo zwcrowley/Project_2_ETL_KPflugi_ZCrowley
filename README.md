@@ -9,8 +9,8 @@ World Happiness Report - https://www.kaggle.com/datasets/unsdsn/world-happiness?
 -	(Gallup World Poll: https://www.gallup.com/analytics/349487/gallup-global-happiness-center.aspx; World Happiness Report: https://worldhappiness.report/?utm_source=link_wwwv9&utm_campaign=item_394172&utm_medium=copy) 
 World cities database - https://www.kaggle.com/datasets/juanmah/world-cities
 -	(Simple Maps: “World Cities Database” https://simplemaps.com/data/world-cities)
-- Google Places API (https://developers.google.com/maps/documentation/places/web-service)
-- OpenWeatherAPI (https://openweathermap.org/current)
+Google Places API (https://developers.google.com/maps/documentation/places/web-service)
+OpenWeatherAPI (https://openweathermap.org/current)
 
 ## Step 1
 We identified a dataset we wanted to focus on, The World Happiness Score dataset. From there we came up with the question: how can we use this dataset to decide where to build a fictional resort. From here we decided important factors in determining where to build a resort would be proximity to airports and tourist attractions, as well as the typical weather. We noted that the World Happiness Score dataset only rates countries whereas the OpenWeatherAPI and Google Places API can drill down to cities. We then decided we needed to find another dataset that drilled down into city level data to maximize our search for the best location to build a resort. 
