@@ -1,0 +1,1524 @@
+city_ID,city,lat,lng,country,airport_name,airport_address,airport_rating
+0,Sydney,-33.865,151.2094,Australia,Sydney Airport,Sydney,3.7
+1,Melbourne,-37.8136,144.9631,Australia,Melbourne Airport,Melbourne Airport VIC 3045,3.8
+2,Brisbane,-27.4678,153.0281,Australia,Brisbane Airport,"Airport Dr, Brisbane Airport",4.0
+3,Perth,-31.9522,115.8589,Australia,Perth Airport,Perth Airport,3.6
+4,Adelaide,-34.9275,138.6,Australia,Adelaide Airport,"Adelaide Airport Terminal, Sir Richard Williams Ave, Adelaide Airport",4.2
+5,Gold Coast,-28.0167,153.4,Australia,Gold Coast Airport,"Eastern Ave, Bilinga",3.8
+6,Cranbourne,-38.0996,145.2834,Australia,Melbourne Airport,Melbourne Airport,3.8
+7,Canberra,-35.2931,149.1269,Australia,Canberra Airport,Terminal Cct,4.1
+8,Central Coast,-33.3,151.2,Australia,Lake Macquarie Airport,"864 Pacific Hwy, Marks Point",4.8
+9,Wollongong,-34.4331,150.8831,Australia,Shellharbour Airport,"Airport Rd, Albion Park Rail",4.7
+10,Hobart,-42.8806,147.325,Australia,Hobart International Airport,"Strachan St, Cambridge",3.9
+11,Geelong,-38.15,144.35,Australia,Essendon Fields Airport,"72 Hargrave Ave, Essendon Fields",3.8
+12,Townsville,-19.25,146.8167,Australia,,,
+13,Ipswich,-27.6167,152.7667,Australia,Brisbane Airport,"Airport Dr, Brisbane Airport",4.0
+14,Newcastle,-32.9167,151.75,Australia,Newcastle Airport,"1 Williamtown Dr, Williamtown",4.1
+15,Cairns,-16.92,145.78,Australia,Cairns Airport,"Airport Ave, Cairns City",4.0
+16,Darwin,-12.4381,130.8411,Australia,Darwin International Airport,"Henry Wrigley Dr, Eaton",3.8
+17,Toowoomba,-27.5667,151.95,Australia,,,
+18,Launceston,-41.4419,147.145,Australia,George Town Airport,George Town,4.8
+19,Ballarat,-37.5608,143.8475,Australia,Ballarat Airport Terminal,"Airport Rd, Mitchell Park",0.0
+20,Bendigo,-36.75,144.2667,Australia,Bendigo Airport,"35 Victa Rd, East Bendigo",4.3
+21,Bunbury,-33.3272,115.6369,Australia,Busselton Margaret River Airport,"86 Neville Hyder Dr, Yalyalup",4.2
+22,Bundaberg,-24.8661,152.3494,Australia,Bundaberg Regional Airport,"Airport Dr, Bundaberg",4.3
+23,Wagga Wagga,-35.1189,147.3689,Australia,Wagga Wagga Airport,"Don Kendall Dr, Forest Hill",4.3
+24,Melton,-37.6833,144.5833,Australia,Melbourne Airport,Melbourne Airport,3.8
+25,Hervey Bay,-25.29,152.84,Australia,Maryborough Airport,Maryborough,3.9
+26,Pakenham,-38.0712,145.4878,Australia,Aeropuerto Internacional Comandante Armando Tola de El Calafate,"14 The Link, Mill Park",0.0
+27,Port Macquarie,-31.4333,152.9,Australia,,,
+28,Caloundra,-26.7986,153.1289,Australia,Sunshine Coast Airport,"Friendship Ave, Marcoola",3.7
+29,Dubbo,-32.2569,148.6011,Australia,Dubbo City Regional Airport,"Cooreena Rd, Dubbo",4.5
+30,Orange,-33.2833,149.1,Australia,Orange Regional Airport,"136 Aerodrome Road, Orange",4.2
+31,Frankston,-38.158,145.135,Australia,Essendon Fields Airport,"72 Hargrave Ave, Essendon Fields",3.8
+32,Sunbury,-37.5811,144.7139,Australia,Melbourne Airport,Melbourne Airport,3.8
+33,Bathurst,-33.42,149.5778,Australia,Orange Regional Airport,"136 Aerodrome Road, Orange",4.2
+34,Gladstone,-23.8427,151.2555,Australia,Gladstone Airport,"31 Aerodrome Rd, Gladstone",4.0
+35,Mildura,-34.1889,142.1583,Australia,Wentworth Airfield,"160B Renmark Rd, Wentworth",0.0
+36,Geraldton,-28.7744,114.6089,Australia,,,
+37,Southport,-27.9667,153.4,Australia,Gold Coast Airport,"Eastern Ave, Bilinga",3.8
+38,Shepparton,-36.3833,145.4,Australia,Shepparton Aerodrome,Kialla,4.5
+39,Kalgoorlie,-30.7489,121.4658,Australia,Kambalda Airport,Kambalda West,5.0
+40,Dandenong,-37.981,145.215,Australia,,,
+41,Warrnambool,-38.3833,142.4833,Australia,Warrnambool Airport,"146 Mailors Flat-Koroit Rd, Mailors Flat",4.2
+42,Albany,-35.0228,117.8814,Australia,,,
+43,Burnie,-41.0636,145.8753,Australia,,,
+44,Quakers Hill,-33.7344,150.8789,Australia,Sydney Airport,Sydney,3.7
+45,Caboolture,-27.0667,152.967,Australia,Brisbane Airport,"Airport Dr, Brisbane Airport",4.0
+46,Coffs Harbour,-30.3022,153.1189,Australia,Coffs Harbour Airport,"Airport Dr, Coffs Harbour",4.2
+47,Mount Gambier,-37.8294,140.7828,Australia,,,
+48,Busselton,-33.6478,115.3458,Australia,Busselton Margaret River Airport,"86 Neville Hyder Dr, Yalyalup",4.2
+49,Traralgon,-38.1958,146.5403,Australia,West Sale Airport,"Princes Hwy, Fulham",4.3
+50,Vienna,48.2083,16.3725,Austria,Vienna International Airport,Schwechat,4.1
+51,Graz,47.0708,15.4386,Austria,Graz Airport,Feldkirchen bei Graz,4.4
+52,Linz,48.3,14.2833,Austria,Linz Airport,"Flughafenstraße 1, Hörsching",4.3
+53,Salzburg,47.7972,13.0477,Austria,Salzburg Airport,"Innsbrucker Bundesstraße 95, Salzburg",4.1
+54,Innsbruck,47.2683,11.3933,Austria,Innsbruck Airport,"Fürstenweg 180, Innsbruck",4.2
+55,Klagenfurt,46.6167,14.3,Austria,Klagenfurt Airport,"Flughafenstraße 60-64, Klagenfurt am Wörthersee",4.1
+56,Villach,46.6167,13.8333,Austria,Klagenfurt Airport,"Flughafenstraße 60-64, Klagenfurt am Wörthersee",4.1
+57,Wels,48.15,14.0167,Austria,Linz Airport,"Flughafenstraße 1, Hörsching",4.3
+58,Sankt Pölten,48.2,15.6167,Austria,Krems Airport,"Flughafenstraße 15, Krems an der Donau",4.8
+59,Dornbirn,47.4167,9.75,Austria,Bodensee Airport Friedrichshafen,"Am Flugpl. 64, Friedrichshafen",4.3
+60,Wiener Neustadt,47.8167,16.25,Austria,Vienna International Airport,Schwechat,4.1
+61,Steyr,48.05,14.4167,Austria,Linz Airport,"Flughafenstraße 1, Hörsching",4.3
+62,Bregenz,47.505,9.7492,Austria,Bodensee Airport Friedrichshafen,"Am Flugpl. 64, Friedrichshafen",4.3
+63,Leonding,48.2792,14.2528,Austria,Linz Airport,"Flughafenstraße 1, Hörsching",4.3
+64,Klosterneuburg,48.3042,16.3167,Austria,Vienna International Airport,Schwechat,4.1
+65,Wolfsberg,46.8419,14.8408,Austria,Klagenfurt Airport,"Flughafenstraße 60-64, Klagenfurt am Wörthersee",4.1
+66,Leoben,47.3817,15.0972,Austria,Graz Airport,Feldkirchen bei Graz,4.4
+67,Krems an der Donau,48.4167,15.6167,Austria,Krems Airport,"Flughafenstraße 15, Krems an der Donau",4.8
+68,Traun,48.2217,14.2397,Austria,Linz Airport,"Flughafenstraße 1, Hörsching",4.3
+69,Amstetten,48.1167,14.8667,Austria,Linz Airport,"Flughafenstraße 1, Hörsching",4.3
+70,Lustenau,47.4271,9.6711,Austria,Bodensee Airport Friedrichshafen,"Am Flugpl. 64, Friedrichshafen",4.3
+71,Kapfenberg,47.4394,15.2894,Austria,Graz Airport,Feldkirchen bei Graz,4.4
+72,Hallein,47.6667,13.0833,Austria,Salzburg Airport,"Innsbrucker Bundesstraße 95, Salzburg",4.1
+73,Mödling,48.0856,16.2831,Austria,Vienna International Airport,Schwechat,4.1
+74,Kufstein,47.5833,12.1667,Austria,Zell am See Airport,"Kaprunerstraße 15, Zell am See",4.5
+75,Traiskirchen,48.0189,16.2922,Austria,Vienna International Airport,Schwechat,4.1
+76,Schwechat,48.1411,16.4786,Austria,Vienna International Airport,Schwechat,4.1
+77,Braunau am Inn,48.2583,13.0333,Austria,Vilshofen Airport,"Am Flugpl. 1, Vilshofen an der Donau",4.6
+78,Stockerau,48.3858,16.2108,Austria,Vienna International Airport,Schwechat,4.1
+79,Saalfelden am Steinernen Meer,47.4269,12.8483,Austria,Salzburg Airport,"Innsbrucker Bundesstraße 95, Salzburg",4.1
+80,Hohenems,47.3667,9.6667,Austria,Bodensee Airport Friedrichshafen,"Am Flugpl. 64, Friedrichshafen",4.3
+81,Ansfelden,48.2083,14.2889,Austria,Linz Airport,"Flughafenstraße 1, Hörsching",4.3
+82,Bruck an der Mur,47.4106,15.2686,Austria,Graz Airport,Feldkirchen bei Graz,4.4
+83,Telfs,47.3069,11.0722,Austria,Innsbruck Airport,"Fürstenweg 180, Innsbruck",4.2
+84,Spittal an der Drau,46.7917,13.4958,Austria,Airport Mauterndorf,"Flugplatzstraße 458, Mauterndorf",4.6
+85,Perchtoldsdorf,48.1167,16.2667,Austria,Vienna International Airport,Schwechat,4.1
+86,Ternitz,47.7167,16.0333,Austria,Vienna International Airport,Schwechat,4.1
+87,Bludenz,47.1533,9.8219,Austria,St. Gallen–Altenrhein Airport,"Flughafenstrasse 11, Thal",4.5
+88,Eisenstadt,47.8456,16.5189,Austria,Vienna International Airport,Schwechat,4.1
+89,Feldkirchen,46.7236,14.0919,Austria,Klagenfurt Airport,"Flughafenstraße 60-64, Klagenfurt am Wörthersee",4.1
+90,Bad Ischl,47.7115,13.6239,Austria,Salzburg Airport,"Innsbrucker Bundesstraße 95, Salzburg",4.1
+91,Hall in Tirol,47.2833,11.5,Austria,Innsbruck Airport,"Fürstenweg 180, Innsbruck",4.2
+92,Wörgl,47.4831,12.0664,Austria,Kufstein-Langkampfen Airport,"Kufsteiner Str. 42, Langkampfen",4.9
+93,Schwaz,47.35,11.7,Austria,Innsbruck Airport,"Fürstenweg 180, Innsbruck",4.2
+94,Marchtrenk,48.1917,14.1106,Austria,Linz Airport,"Flughafenstraße 1, Hörsching",4.3
+95,Hard,47.4892,9.69,Austria,Bodensee Airport Friedrichshafen,"Am Flugpl. 64, Friedrichshafen",4.3
+96,Feldbach,46.955,15.8883,Austria,Graz Airport,Feldkirchen bei Graz,4.4
+97,Gmunden,47.9181,13.7994,Austria,Linz Airport,"Flughafenstraße 1, Hörsching",4.3
+98,Korneuburg,48.3453,16.3331,Austria,Vienna International Airport,Schwechat,4.1
+99,Neunkirchen,47.7269,16.0817,Austria,Vienna International Airport,Schwechat,4.1
+100,Manama,26.225,50.5775,Bahrain,Bahrain International Airport,"Rd 2404, Muharraq",4.5
+101,Al Muḩarraq,26.25,50.6167,Bahrain,Bahrain International Airport,"Rd 2404, Muharraq",4.5
+102,Madīnat Ḩamad,26.1128,50.5139,Bahrain,Bahrain International Airport,"Rd 2404, Muharraq",4.5
+103,Madīnat ‘Īsá,26.1736,50.5478,Bahrain,Bahrain International Airport,"Rd 2404, Muharraq",4.5
+104,Brussels,50.8353,4.3314,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+105,Antwerp,51.2211,4.3997,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+106,Gent,51.0536,3.7253,Belgium,Flanders International Airport Kortrijk-Courtrai,"Luchthavenstraat 1, Wevelgem",4.5
+107,Charleroi,50.4167,4.4442,Belgium,Brussels South Charleroi Airport,"Rue des Frères Wright 8, Charleroi",3.3
+108,Liège,50.6397,5.5706,Belgium,Maastricht Aachen Airport B.V.,"Horsterweg 5, Maastricht Airport",4.1
+109,Bruges,51.2089,3.2242,Belgium,Flanders International Airport Kortrijk-Courtrai,"Luchthavenstraat 1, Wevelgem",4.5
+110,Anderlecht,50.8392,4.3297,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+111,Namur,50.4667,4.8667,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+112,Leuven,50.8775,4.7044,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+113,Moortebeek,50.8547,4.3386,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+114,Mons,50.455,3.952,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+115,Mechelen,51.0281,4.4803,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+116,Aalst,50.9383,4.0392,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+117,La Louvière,50.4778,4.1881,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+118,Hasselt,50.9305,5.3385,Belgium,Maastricht Aachen Airport B.V.,"Horsterweg 5, Maastricht Airport",4.1
+119,Sint-Niklaas,51.1644,4.1392,Belgium,,,
+120,Kortrijk,50.8333,3.2667,Belgium,Lille Airport,"Rte de l'Aéroport, Lesquin",3.8
+121,Ostend,51.2333,2.9333,Belgium,Flanders International Airport Kortrijk-Courtrai,"Luchthavenstraat 1, Wevelgem",4.5
+122,Tournai,50.6,3.3833,Belgium,Lille Airport,"Rte de l'Aéroport, Lesquin",3.8
+123,Genk,50.95,5.5,Belgium,Maastricht Aachen Airport B.V.,"Horsterweg 5, Maastricht Airport",4.1
+124,Seraing,50.5986,5.5122,Belgium,Maastricht Aachen Airport B.V.,"Horsterweg 5, Maastricht Airport",4.1
+125,Roeselare,50.9447,3.1233,Belgium,Lille Airport,"Rte de l'Aéroport, Lesquin",3.8
+126,Mouscron,50.7444,3.2156,Belgium,Lille Airport,"Rte de l'Aéroport, Lesquin",3.8
+127,Forest,50.8117,4.3181,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+128,Verviers,50.5833,5.85,Belgium,Liège Airport,"Rue de l’Aéroport, Grâce-Hollogne",3.7
+129,Beveren,51.2,4.25,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+130,Etterbeek,50.8361,4.3861,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+131,Beringen,51.0333,5.2167,Belgium,Eindhoven Airport,"Luchthavenweg 25, Eindhoven",3.7
+132,Dendermonde,51.0167,4.1,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+133,Turnhout,51.3167,4.9333,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+134,Vilvoorde,50.9281,4.4245,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+135,Jette,50.8758,4.3244,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+136,Heist-op-den-Berg,51.0758,4.7286,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+137,Dilbeek,50.8333,4.25,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+138,Lokeren,51.1,3.9833,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+139,Evere,50.8719,4.4033,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+140,Geel,51.1611,4.9903,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+141,Sint-Truiden,50.8167,5.1833,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+142,Herstal,50.6644,5.63,Belgium,Maastricht Aachen Airport B.V.,"Horsterweg 5, Maastricht Airport",4.1
+143,Braine-l’Alleud,50.6806,4.3717,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+144,Halle,50.7361,4.2372,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+145,Ninove,50.8333,4.0167,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+146,Waregem,50.8811,3.4001,Belgium,Lille Airport,"Rte de l'Aéroport, Lesquin",3.8
+147,Wilrijk,51.1667,4.3833,Belgium,,,
+148,Mechelen-aan-de-Maas,50.9967,5.7025,Belgium,Maastricht Aachen Airport B.V.,"Horsterweg 5, Maastricht Airport",4.1
+149,Brasschaat,51.2931,4.4894,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+150,Grimbergen,50.9333,4.3833,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+151,Lierre,51.1311,4.5697,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+152,Mol,51.1842,5.1156,Belgium,Brussels Airport,"Leopoldlaan, Zaventem",4.0
+153,Châtelet,50.4,4.5167,Belgium,Brussels South Charleroi Airport,"Rue des Frères Wright 8, Charleroi",3.3
+154,São Paulo,-23.5504,-46.6339,Brazil,GRU Airport,"Rod. Hélio Smidt, s/nº - Aeroporto, Guarulhos",4.4
+155,Rio de Janeiro,-22.9083,-43.1964,Brazil,RIOgaleão - Tom Jobim International Airport,"Av. Vinte de Janeiro, s/nº - Ilha do Governador, Rio de Janeiro",4.3
+156,Belo Horizonte,-19.9281,-43.9419,Brazil,Tancredo Neves International Airport,"LMG-800 Km 7,9 s/n, Confins",4.6
+157,Brasília,-15.7939,-47.8828,Brazil,International Airport of Brasilia,"Lago Sul, Brasilia",4.6
+158,Salvador,-12.9708,-38.5108,Brazil,Salvador International Airport - Deputado Luís Eduardo Magalhães,"Praça Gago Coutinho, S/N - São Cristóvão, Salvador",4.4
+159,Fortaleza,-3.7275,-38.5275,Brazil,Pinto Martins – Fortaleza International Airport,"Av. Senador Carlos Jereissati, 3000 - Serrinha, Fortaleza",4.5
+160,Curitiba,-25.4297,-49.2719,Brazil,Afonso Pena International Airport,"Av. Rocha Pombo - Águas Belas, São José dos Pinhais",4.7
+161,Manaus,-3.1,-60.0167,Brazil,International Airport of Manaus,"Tarumã, Manaus",4.5
+162,Recife,-8.0539,-34.8808,Brazil,Recife/Guararapes–Gilberto Freyre International Airport,"Praça Min. Salgado Filho, s/n - Imbiribeira, Recife",4.3
+163,Belém,-1.4558,-48.5039,Brazil,Val de Cans International Airport,"Av. Júlio César, s/n - Val-de-Cans, Belém",4.3
+164,Porto Alegre,-30.0328,-51.23,Brazil,Porto Alegre International Airport Salgado Filho,"Av. Severo Dullius, 90.010 - Anchieta, Porto Alegre",4.5
+165,Goiânia,-16.6806,-49.2564,Brazil,Goiânia Airport,"Alameda 4, s/n - Santa Genoveva, Goiânia",4.3
+166,Guarulhos,-23.4667,-46.5333,Brazil,GRU Airport,"Rod. Hélio Smidt, s/nº - Aeroporto, Guarulhos",4.4
+167,Vila Velha,3.2167,-51.2167,Brazil,,,
+168,Campinas,-22.9009,-47.0573,Brazil,Viracopos International Airport,"Rodovia Santos Dumont, km 66 - Parque Viracopos, Campinas",4.6
+169,São Gonçalo,-22.8269,-43.0539,Brazil,RIOgaleão - Tom Jobim International Airport,"Av. Vinte de Janeiro, s/nº - Ilha do Governador, Rio de Janeiro",4.3
+170,São Luís,-2.53,-44.3028,Brazil,São Luís International Airport (SLZ) - Marechal Cunha Machado,"Av. dos Libaneses, 3503 - Tirirical, São Luís",4.0
+171,Maceió,-9.6658,-35.735,Brazil,Maceió International Airport - Zumbi dos Palmares,"Tabuleiro do Pinto, Rio Largo",4.4
+172,Natal,-6.9838,-60.2699,Brazil,,,
+173,Campo Grande,-20.4686,-54.6222,Brazil,Campo Grande International Airport,"Av. Duque de Caxias, s/n - Vila Serradinho, Campo Grande",4.0
+174,Natal,-5.795,-35.2089,Brazil,Aeroporto Internacional de Natal,"Av. Dr. Ruy Pereira dos Santos, 3100 - Aeroporto, São Gonçalo do Amarante",4.1
+175,Teresina,-5.0949,-42.8042,Brazil,Teresina Airport,"Av. Centenário - Aeroporto, Teresina",3.8
+176,Iguaçu,-22.74,-43.47,Brazil,RIOgaleão - Tom Jobim International Airport,"Av. Vinte de Janeiro, s/nº - Ilha do Governador, Rio de Janeiro",4.3
+177,São Bernardo do Campo,-23.6939,-46.565,Brazil,GRU Airport,"Rod. Hélio Smidt, s/nº - Aeroporto, Guarulhos",4.4
+178,João Pessoa,-7.12,-34.88,Brazil,João Pessoa/Presidente Castro Pinto International Airport (JPA),"Av. Mal. Rondon, s/n, Bayeux",4.1
+179,Abaeté,-19.1583,-45.4522,Brazil,Aeroporto Municipal de Pompéu,Pompéu,3.8
+180,Santo André,-23.6572,-46.5333,Brazil,GRU Airport,"Rod. Hélio Smidt, s/nº - Aeroporto, Guarulhos",4.4
+181,Jaboatão,-8.1803,-35.0014,Brazil,Recife/Guararapes–Gilberto Freyre International Airport,"Praça Min. Salgado Filho, s/n - Imbiribeira, Recife",4.3
+182,Osasco,-23.5328,-46.7919,Brazil,GRU Airport,"Rod. Hélio Smidt, s/nº - Aeroporto, Guarulhos",4.4
+183,São José dos Campos,-23.1789,-45.8869,Brazil,São José dos Campos Airport,"R. Dra. Tânia Lis Tizzoni Nogueira, S/N - Parque Martin Cerere, São José dos Campos",4.3
+184,Ribeirão Prêto,-21.1783,-47.8067,Brazil,Aeroporto Estadual Dr. Leite Lopes,"Av. Thomaz Alberto Whately - Parque Industrial Cel. Quito Junqueira, Ribeirão Preto",3.9
+185,Contagem,-19.9319,-44.0539,Brazil,Tancredo Neves International Airport,"LMG-800 Km 7,9 s/n, Confins",4.6
+186,Sorocaba,-23.5019,-47.4578,Brazil,São Paulo Catarina Aeroporto Executivo Internacional,"Rod. Pres. Castello Branco, km 62 - São Roque",4.8
+187,Aracaju,-10.9167,-37.05,Brazil,Aeroporto Internacional de Aracaju - Santa María,"Av. Sen. Júlio César Leite, 1440 - Aeroporto, Aracaju",4.2
+188,Feira de Santana,-12.2669,-38.9669,Brazil,Feira de Santana Airport,"Av. Antônio Sérgio Carneiro, 167 - Aeroporto, Feira de Santana",3.7
+189,Uberlândia,-18.9189,-48.2769,Brazil,Uberlândia Airport,"Praça José Alves dos Santos, 100 - Jardim Ipanema I, Uberlândia",4.0
+190,Cuiabá,-15.5958,-56.0969,Brazil,Cuiabá International Airport - Marechal Rondon,"Av. João Ponce de Arruda, s/n - Vila Pirineu, Várzea Grande",4.2
+191,Juiz de Fora,-21.75,-43.35,Brazil,Juiz de Fora AAirclub,"Av. Pref. Mello Reis - Aeroporto, Juiz de Fora",4.2
+192,Londrina,-23.31,-51.1628,Brazil,Arapongas Airport,"AEROPORTO MUNICIPAL ALBERTO BERTELLI - CAMPINHO, Arapongas",4.7
+193,Joinvile,-26.3039,-48.8458,Brazil,Lauro Carneiro de Loyola,"Av. Santos Dumont, 9000 - Aventureiro, Joinville",4.2
+194,Ananindeua,-1.3658,-48.3719,Brazil,Val de Cans International Airport,"Av. Júlio César, s/n - Val-de-Cans, Belém",4.3
+195,Niterói,-22.8833,-43.1036,Brazil,RIOgaleão - Tom Jobim International Airport,"Av. Vinte de Janeiro, s/nº - Ilha do Governador, Rio de Janeiro",4.3
+196,Serra,-20.1289,-40.3078,Brazil,Eurico de Aguiar Salles Airport,"Av. Roza Helena Schorling Albuquerque, S/N - Aeroporto, Vitória",4.5
+197,Florianópolis,-27.5933,-48.553000000000004,Brazil,Florianópolis International Airport – Hercílio Luz,"Rod. Ac. ao Aeroporto, 6.200 - Carianos, Florianópolis",4.6
+198,Macapá,0.033,-51.0653,Brazil,Macapa International Airport - Alberto Alcolumbre,"R. Hildemar Maia, S/N - Jesus de Nazaré, Macapá",4.3
+199,Vila Velha,-20.3364,-40.2936,Brazil,Eurico de Aguiar Salles Airport,"Av. Roza Helena Schorling Albuquerque, S/N - Aeroporto, Vitória",4.5
+200,Campos,-21.7539,-41.3239,Brazil,Aeroporto Bartolomeu Lisandro,"Estr. Brejo Grande - Parque Aeroporto, Campos dos Goytacazes",4.2
+201,Mauá,-23.6678,-46.4608,Brazil,GRU Airport,"Rod. Hélio Smidt, s/nº - Aeroporto, Guarulhos",4.4
+202,São José do Rio Prêto,-20.82,-49.3789,Brazil,Aeroporto Estadual de São José do Rio Preto,"Av. dos Estudantes, 3505 - Vila Aeroporto, São José do Rio Preto",4.4
+203,Caxias do Sul,-29.1678,-51.1789,Brazil,Aeroporto de Bento Gonçalves,"São Vendelino, Bento Gonçalves",4.5
+204,Toronto,43.7417,-79.3733,Canada,Toronto Pearson International Airport,"6301 Silver Dart Dr, Mississauga",3.7
+205,Montréal,45.5089,-73.5617,Canada,Montréal-Pierre Elliott Trudeau International Airport,"Romeo-Vachon Blvd N, Dorval",4.0
+206,Vancouver,49.25,-123.1,Canada,Vancouver International Airport,"3211 Grant McConachie Way, Richmond",4.2
+207,Calgary,51.05,-114.0667,Canada,Calgary International Airport,"2000 Airport Rd NE, Calgary",4.0
+208,Edmonton,53.5344,-113.4903,Canada,YEG Edmonton International Airport,"1000 Airport Rd, Edmonton International Airport",4.1
+209,Ottawa,45.4247,-75.695,Canada,Ottawa International Airport,"1000 Airport Parkway Private, Ottawa",4.3
+210,Mississauga,43.6,-79.65,Canada,Toronto Pearson International Airport,"6301 Silver Dart Dr, Mississauga",3.7
+211,Winnipeg,49.8844,-97.1464,Canada,Winnipeg James Armstrong Richardson International Airport,"2000 Wellington Ave, Winnipeg",4.3
+212,Quebec City,46.8139,-71.2081,Canada,Québec City Jean Lesage International Airport,"505 Rue Principale, Québec",4.0
+213,Hamilton,43.2567,-79.8692,Canada,,,
+214,Brampton,43.6833,-79.7667,Canada,,,
+215,Surrey,49.19,-122.8489,Canada,Bellingham International Airport,"4255 Mitchell Way, Bellingham",4.4
+216,Kitchener,43.4186,-80.4728,Canada,Region of Waterloo International Airport,"4881 Fountain St N #1, Breslau",4.2
+217,Laval,45.5833,-73.75,Canada,Montréal-Pierre Elliott Trudeau International Airport,"Romeo-Vachon Blvd N, Dorval",4.0
+218,Halifax,44.6475,-63.5906,Canada,Halifax Stanfield International Airport,"747 Bell Blvd, Goffs",4.3
+219,London,42.9836,-81.2497,Canada,London International Airport,"10 Seabrook Way, London",4.4
+220,Victoria,48.4283,-123.3647,Canada,William R Fairchild International Airport,"1402 Fairchild Airport Rd, Port Angeles",3.9
+221,Markham,43.8767,-79.2633,Canada,Toronto Pearson International Airport,"6301 Silver Dart Dr, Mississauga",3.7
+222,St. Catharines,43.1833,-79.2333,Canada,Buffalo Niagara International Airport,"4200 Genesee St, Buffalo",4.4
+223,Niagara Falls,43.06,-79.1067,Canada,Buffalo Niagara International Airport,"4200 Genesee St, Buffalo",4.4
+224,Vaughan,43.8333,-79.5,Canada,Toronto Pearson International Airport,"6301 Silver Dart Dr, Mississauga",3.7
+225,Gatineau,45.4833,-75.65,Canada,Ottawa International Airport,"1000 Airport Parkway Private, Ottawa",4.3
+226,Windsor,42.2833,-83.0,Canada,Oakland County International Airport,"6500 Highland Rd, Waterford Twp",4.6
+227,Saskatoon,52.1333,-106.6833,Canada,Saskatoon John G. Diefenbaker International Airport,"2625 Airport Dr, Saskatoon",4.2
+228,Longueuil,45.5333,-73.5167,Canada,Montréal-Pierre Elliott Trudeau International Airport,"Romeo-Vachon Blvd N, Dorval",4.0
+229,Burnaby,49.2667,-122.9667,Canada,Abbotsford International Airport,"30440 Liberator Ave, Abbotsford",4.0
+230,Regina,50.4547,-104.6067,Canada,Regina International Airport,"5201 Regina Ave, Regina",4.2
+231,Richmond,49.1667,-123.1333,Canada,Bellingham International Airport,"4255 Mitchell Way, Bellingham",4.4
+232,Richmond Hill,43.8667,-79.4333,Canada,Toronto Pearson International Airport,"6301 Silver Dart Dr, Mississauga",3.7
+233,Oakville,43.45,-79.6833,Canada,Toronto Pearson International Airport,"6301 Silver Dart Dr, Mississauga",3.7
+234,Burlington,43.3167,-79.8,Canada,Toronto Pearson International Airport,"6301 Silver Dart Dr, Mississauga",3.7
+235,Barrie,44.3711,-79.6769,Canada,Lake Simcoe Regional Airport,"30 Airport Rd, Oro Station",4.6
+236,Oshawa,43.9,-78.85,Canada,Peterborough Airport,"590A Skyway Dr, Peterborough",4.6
+237,Sherbrooke,45.4,-71.9,Canada,,,
+238,Saguenay,48.4167,-71.0667,Canada,,,
+239,Lévis,46.8,-71.1833,Canada,Québec City Jean Lesage International Airport,"505 Rue Principale, Québec",4.0
+240,Kelowna,49.8881,-119.4956,Canada,Kelowna International Airport,"5533 Airport Way, Kelowna",4.1
+241,Abbotsford,49.05,-122.3167,Canada,Bellingham International Airport,"4255 Mitchell Way, Bellingham",4.4
+242,Coquitlam,49.2839,-122.7919,Canada,Abbotsford International Airport,"30440 Liberator Ave, Abbotsford",4.0
+243,Trois-Rivières,46.35,-72.55,Canada,Aéroport de Trois-Rivières (YRQ),"3500 Chem. de l'Aéroport, Trois-Rivières",4.5
+244,Guelph,43.55,-80.25,Canada,Region of Waterloo International Airport,"4881 Fountain St N #1, Breslau",4.2
+245,Cambridge,43.3972,-80.3114,Canada,Region of Waterloo International Airport,"4881 Fountain St N #1, Breslau",4.2
+246,Whitby,43.8833,-78.9417,Canada,Peterborough Airport,"590A Skyway Dr, Peterborough",4.6
+247,Ajax,43.8583,-79.0364,Canada,Toronto Pearson International Airport,"6301 Silver Dart Dr, Mississauga",3.7
+248,Langley,49.1044,-122.5827,Canada,Bellingham International Airport,"4255 Mitchell Way, Bellingham",4.4
+249,Saanich,48.483999999999995,-123.381,Canada,Victoria International Airport,"1640 Electra Blvd, Sidney",4.2
+250,Terrebonne,45.7,-73.6333,Canada,Montréal-Pierre Elliott Trudeau International Airport,"Romeo-Vachon Blvd N, Dorval",4.0
+251,Milton,43.5083,-79.8833,Canada,Toronto Pearson International Airport,"6301 Silver Dart Dr, Mississauga",3.7
+252,St. John's,47.4817,-52.7971,Canada,St. John's International Airport,"100 World Pkwy, St. John's",4.1
+253,Moncton,46.1328,-64.7714,Canada,Greater Moncton Roméo LeBlanc International Airport,"777 Aviation Ave #12, Dieppe",4.1
+254,Santiago,-33.45,-70.6667,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+255,Puente Alto,-33.6167,-70.5833,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+256,Maipú,-33.5167,-70.7667,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+257,La Florida,-33.55,-70.5667,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+258,Antofagasta,-23.6464,-70.398,Chile,FBOANTOFAGASTA,"Camino a mejillones s/numero, Antofagasta",4.3
+259,Viña del Mar,-33.0245,-71.5518,Chile,Aeropuerto de Concon,"Ruta 64, Concón",4.7
+260,San Bernardo,-33.6,-70.7167,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+261,Valparaíso,-33.0458,-71.6197,Chile,Aeropuerto de Concon,"Ruta 64, Concón",4.7
+262,Temuco,-38.7399,-72.5901,Chile,Araucanía Airport (Temuco),"Longitudinal Sur km 692, Freire",4.6
+263,Las Condes,-33.4167,-70.5833,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+264,Rancagua,-34.1654,-70.7398,Chile,Isla Picton Airport,Quinta de Tilcoco,0.0
+265,Concepción,-36.8271,-73.0503,Chile,Carriel Sur International Airport,"Av. Pdte. Jorge Alessandri Rodriguez 5001, Talcahuano",4.3
+266,Talca,-35.4269,-71.6656,Chile,Colorado Airport,San Clemente,0.0
+267,Coquimbo,-29.9532,-71.33800000000001,Chile,La Florida International Airport,"Aeropuerto La Florida - Coquimbo, La Serena",4.2
+268,Arica,-18.4784,-70.3211,Chile,Aeropuerto Tacna,"WPXF+W3Q, Tacna",4.3
+269,La Serena,-29.9027,-71.252,Chile,La Florida International Airport,"Aeropuerto La Florida - Coquimbo, La Serena",4.2
+270,Iquique,-20.2141,-70.1524,Chile,Diego Aracena International Airport,"1, Iquique",3.9
+271,Puerto Montt,-41.4718,-72.9396,Chile,El Tepual Airport,"Aeropuerto El Tepual - Puerto Montt Aeropuerto, Puerto Montt",4.2
+272,Chillán,-36.6067,-72.1033,Chile,San Carlos Santa Marta Airport,"Mutupin, San Carlos",5.0
+273,Calama,-22.4624,-68.9272,Chile,Airport El Loa Calama (CJC),Calama,4.2
+274,Copiapó,-27.3665,-70.3323,Chile,Aeropuerto Desierto de Atacama,Caldera,4.2
+275,Valdivia,-39.8142,-73.2459,Chile,Aeródromo Pichoy,"San José de Mariquina, Mariquina",4.0
+276,Quilpué,-33.0498,-71.4415,Chile,Aeropuerto de Concon,"Ruta 64, Concón",4.7
+277,Talcahuano,-36.7145,-73.1141,Chile,Carriel Sur International Airport,"Av. Pdte. Jorge Alessandri Rodriguez 5001, Talcahuano",4.3
+278,Osorno,-40.5667,-73.15,Chile,Canal Bajo Carlos Hott Siebert Airport,"Aeropuerto de Osorno s/n, Osorno",4.1
+279,Colina,-33.2,-70.6833,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+280,Los Ángeles,-37.4707,-72.3517,Chile,Maria Dolores Airport,"Los Ángeles, Los Angeles",4.2
+281,Curicó,-34.9854,-71.2394,Chile,Teno Airport,Teno,0.0
+282,Villa Alemana,-33.0428,-71.3744,Chile,,,
+283,Melipilla,-33.7,-71.2167,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+284,Punta Arenas,-53.1627,-70.9081,Chile,Presidente Carlos Ibáñez del Campo International Airport,"KM 20.5, RN9 Norte, Punta Arenas",4.3
+285,La Granja,-33.5431,-70.6319,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+286,Coronel,-37.0167,-73.1333,Chile,Carriel Sur International Airport,"Av. Pdte. Jorge Alessandri Rodriguez 5001, Talcahuano",4.3
+287,Alto Hospicio,-20.25,-70.1167,Chile,Diego Aracena International Airport,"1, Iquique",3.9
+288,Lo Barnechea,-33.35,-70.5167,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+289,Espejo,-33.5333,-70.7167,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+290,Buin,-33.7333,-70.75,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+291,San Joaquín,-33.5,-70.6167,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+292,La Reina,-33.45,-70.55,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+293,Peñaflor,-33.6167,-70.9167,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+294,San Antonio,-33.5809,-71.6132,Chile,,,
+295,Chiguayante,-36.9167,-73.0167,Chile,Carriel Sur International Airport,"Av. Pdte. Jorge Alessandri Rodriguez 5001, Talcahuano",4.3
+296,Ovalle,-30.6031,-71.203,Chile,El Tuqui Airport,"43, Guamalata, Ovalle",4.0
+297,Linares,-35.8454,-71.5979,Chile,Retiro San Guillermo Airport,"San Ramón, Retiro",0.0
+298,Quillota,-32.8799,-71.2474,Chile,Aeropuerto de Concon,"Ruta 64, Concón",4.7
+299,San Felipe,-32.7507,-70.7251,Chile,,,
+300,Coyhaique,-45.5712,-72.0685,Chile,Coihaique Airport,"Coyhaique, Coihaique",4.3
+301,Los Andes,-32.8337,-70.5982,Chile,,,
+302,San Fernando,-34.5839,-70.9891,Chile,Viñasutil Airport,Peralillo,5.0
+303,Talagante,-33.6667,-70.9333,Chile,Santiago Airport,"Armando Cortinez Ote. 1704, Pudahuel",4.4
+304,San José,9.9333,-84.0833,Costa Rica,Juan Santamaría International Airport (SJO),"XQXW+43V, Alajuela",4.4
+305,Puerto Limón,10.0022,-83.084,Costa Rica,Limon International Airport,"XX7F+6VX, Limon",4.3
+306,Alajuela,10.0311,-84.2041,Costa Rica,Juan Santamaría International Airport (SJO),"XQXW+43V, Alajuela",4.4
+307,Liberia,10.6338,-85.4333,Costa Rica,Aeropuerto Internacional Daniel Oduber Quirós,Blvd. Aeropuerto,4.4
+308,Puntarenas,9.9764,-84.8339,Costa Rica,Aeropuerto Las Piedras,"9Q4W+64P, Bagaces",0.0
+309,Quesada,10.3305,-84.44,Costa Rica,Juan Santamaría International Airport (SJO),"XQXW+43V, Alajuela",4.4
+310,Buenos Aires,9.1985,-83.2816,Costa Rica,San Vito de Java Airport,"R2GR+WM2, San Vito",4.0
+311,San Juan,9.9609,-84.0731,Costa Rica,Juan Santamaría International Airport (SJO),"XQXW+43V, Alajuela",4.4
+312,Cartago,9.8667,-83.9167,Costa Rica,Juan Santamaría International Airport (SJO),"XQXW+43V, Alajuela",4.4
+313,Cañas,10.43,-85.1,Costa Rica,Aeropuerto Internacional Daniel Oduber Quirós,Blvd. Aeropuerto,4.4
+314,Heredia,9.9985,-84.1169,Costa Rica,Juan Santamaría International Airport (SJO),"XQXW+43V, Alajuela",4.4
+315,Colón,9.9096,-84.262,Costa Rica,Juan Santamaría International Airport (SJO),"XQXW+43V, Alajuela",4.4
+316,Santa Ana,9.932,-84.176,Costa Rica,Juan Santamaría International Airport (SJO),"XQXW+43V, Alajuela",4.4
+317,Santiago,9.8291,-84.3044,Costa Rica,Juan Santamaría International Airport (SJO),"XQXW+43V, Alajuela",4.4
+318,Sixaola,9.5579,-82.6698,Costa Rica,Limon International Airport,"XX7F+6VX, Limon",4.3
+319,Golfito,8.65,-83.15,Costa Rica,San Vito de Java Airport,"R2GR+WM2, San Vito",4.0
+320,La Cruz,11.0704,-85.63,Costa Rica,Costa Esmeralda International Airport,"Km 16, Carretera Tola, Las Salinas Zipcode: 48500",4.3
+321,Ciudad Cortés,8.96,-83.5239,Costa Rica,Palmar Sur Airport,"XG3M+QMC, Palmar Sur",4.2
+322,Copenhagen,55.6805,12.5615,Denmark,Copenhagen Airport,"Lufthavnsboulevarden 6, Kastrup",4.1
+323,Aarhus,56.1572,10.2107,Denmark,Aarhus Airport,"Ny Lufthavnsvej 24, Kolind",4.0
+324,Odense,55.4004,10.3833,Denmark,Hans Christian Andersen Airport,"Lufthavnvej 131, Odense N",4.6
+325,Aalborg,57.0337,9.9166,Denmark,Aalborg Airport,"Ny Lufthavnsvej 100, Nørresundby",4.5
+326,Esbjerg,55.467,8.45,Denmark,Billund Lufthavn,"Passagerterminalen 10, Billund",4.4
+327,Vejle,55.708999999999996,9.535,Denmark,Hans Christian Andersen Airport,"Lufthavnvej 131, Odense N",4.6
+328,Roskilde,55.65,12.0833,Denmark,Copenhagen Airport,"Lufthavnsboulevarden 6, Kastrup",4.1
+329,Viborg,56.4333,9.4,Denmark,Midtjyllands Airport,"N. O. Hansens Vej 4, Karup J",4.3
+330,Svendborg,55.0704,10.6167,Denmark,Hans Christian Andersen Airport,"Lufthavnvej 131, Odense N",4.6
+331,Hillerød,55.9333,12.3167,Denmark,Copenhagen Airport,"Lufthavnsboulevarden 6, Kastrup",4.1
+332,Frederikshavn,57.4337,10.5333,Denmark,Aalborg Airport,"Ny Lufthavnsvej 100, Nørresundby",4.5
+333,Sorø,55.433,11.5667,Denmark,Roskilde Airport,"Lufthavnsvej 20, Roskilde",4.5
+334,San Salvador,13.6989,-89.1914,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+335,Usulután,13.35,-88.45,El Salvador,Barrillas Airport,"7G82+33C, Usulután",5.0
+336,Santa Ana,13.9833,-89.5333,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+337,San Miguel,13.4833,-88.1833,El Salvador,Santa Rosa de Lima Airport,"J48P+CWQ, Santa Rosa de Lima",4.0
+338,Mejicanos,13.7403,-89.2131,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+339,Santa Tecla,13.6742,-89.2899,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+340,Apopa,13.8,-89.1833,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+341,Delgado,13.7167,-89.1667,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+342,Ahuachapán,13.9214,-89.845,El Salvador,,,
+343,Sonsonate,13.7167,-89.7167,El Salvador,Aerodromo CAS,"PJWG+3M2, Lourdes",4.4
+344,Colón,13.7167,-89.3667,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+345,Acajutla,13.5928,-89.8275,El Salvador,Aerodromo CAS,"PJWG+3M2, Lourdes",4.4
+346,Chalchuapa,13.9833,-89.6833,El Salvador,Zona hostal Colonia San Benito,"MQR4+3R3, San Salvador",0.0
+347,Zacatecoluca,13.5,-88.8667,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+348,Cuscatancingo,13.7333,-89.1833,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+349,Quezaltepeque,13.8312,-89.2722,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+350,San Vicente,13.6333,-88.8,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+351,Nahuizalco,13.7833,-89.7333,El Salvador,,,
+352,Cojutepeque,13.7167,-88.9333,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+353,Jiquilisco,13.3167,-88.5833,El Salvador,Barrillas Airport,"7G82+33C, Usulután",5.0
+354,San Pedro Perulapán,13.7667,-89.0333,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+355,Panchimalco,13.6094,-89.1792,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+356,Ciudad Barrios,13.7667,-88.2667,El Salvador,Santa Rosa de Lima Airport,"J48P+CWQ, Santa Rosa de Lima",4.0
+357,Santiago Nonualco,13.5167,-88.95,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+358,Armenia,13.75,-89.5,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+359,Atiquizaya,13.9667,-89.75,El Salvador,,,
+360,Tacuba,13.9,-89.9333,El Salvador,,,
+361,La Unión,13.3369,-87.8439,El Salvador,Santa Rosa de Lima Airport,"J48P+CWQ, Santa Rosa de Lima",4.0
+362,Chalatenango,14.0333,-88.9333,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+363,Sensuntepeque,13.8667,-88.6333,El Salvador,El Salvador International Airport,"CWVV+V5Q, Autop. Comalapa, San Salvador",4.4
+364,Sonzacate,13.7342,-89.7147,El Salvador,Aerodromo CAS,"PJWG+3M2, Lourdes",4.4
+365,Juayúa,13.8436,-89.74600000000001,El Salvador,,,
+366,San Francisco,13.7,-88.1,El Salvador,Santa Rosa de Lima Airport,"J48P+CWQ, Santa Rosa de Lima",4.0
+367,Guaymango,13.75,-89.8333,El Salvador,,,
+368,Puerto El Triunfo,13.2833,-88.55,El Salvador,Barrillas Airport,"7G82+33C, Usulután",5.0
+369,Santiago de María,13.4833,-88.4667,El Salvador,Barrillas Airport,"7G82+33C, Usulután",5.0
+370,Concepción de Ataco,13.8667,-89.85,El Salvador,,,
+371,San Alejo,13.4333,-87.9667,El Salvador,Santa Rosa de Lima Airport,"J48P+CWQ, Santa Rosa de Lima",4.0
+372,Metapán,14.3333,-89.45,El Salvador,Guatemala,"F8XX+8H8, Agua Blanca",0.0
+373,Anamorós,13.7333,-87.8667,El Salvador,Santa Rosa de Lima Airport,"J48P+CWQ, Santa Rosa de Lima",4.0
+374,El Paisnal,13.9667,-89.2167,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+375,Tepecoyo,13.7003,-89.4678,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+376,Cuisnahuat,13.6333,-89.6,El Salvador,Zona hostal Colonia San Benito,"MQR4+3R3, San Salvador",0.0
+377,Teotepeque,13.5853,-89.5183,El Salvador,Ilopango International Airport,"MVWP+843, Ilopango",4.5
+378,Jocoro,13.6167,-88.0167,El Salvador,Santa Rosa de Lima Airport,"J48P+CWQ, Santa Rosa de Lima",4.0
+379,Caluco,13.7167,-89.6667,El Salvador,Zona hostal Colonia San Benito,"MQR4+3R3, San Salvador",0.0
+380,Estanzuelas,13.65,-88.5,El Salvador,Barrillas Airport,"7G82+33C, Usulután",5.0
+381,Nueva Guadalupe,13.5333,-88.35,El Salvador,El Tamarindo Airport,"537V+3X2, El Tamarindo",5.0
+382,Agua Caliente,14.1667,-89.2167,El Salvador,Guatemala,"F8XX+8H8, Agua Blanca",0.0
+383,El Porvenir,14.0207,-89.6471,El Salvador,Zona hostal Colonia San Benito,"MQR4+3R3, San Salvador",0.0
+384,Helsinki,60.1756,24.9342,Finland,Helsinki Airport,Vantaa,4.3
+385,Espoo,60.21,24.66,Finland,Helsinki Airport,Vantaa,4.3
+386,Tampere,61.4981,23.76,Finland,Tampere–Pirkkala Airport,"Tornikaari 50, Pirkkala",4.0
+387,Vantaa,60.3,25.0333,Finland,Helsinki Airport,Vantaa,4.3
+388,Oulu,65.0142,25.4719,Finland,Hailuodon Kansainvälinen Lentoasema,"Unnamed Road, 90480, Hailuoto",0.0
+389,Turku,60.4517,22.27,Finland,,,
+390,Jyväskylä,62.2333,25.7333,Finland,Jyväskylä Airport,"Lentoasemantie 70, Tikkakoski",4.3
+391,Kuopio,62.8925,27.6783,Finland,Kuopio Airport,"Lentokentäntie 275, Toivala",4.2
+392,Lahti,60.9804,25.655,Finland,,,
+393,Kouvola,60.8681,26.7042,Finland,,,
+394,Pori,61.4847,21.7972,Finland,Pori Airport,"Lentoasemantie 1, Pori",4.2
+395,Joensuu,62.6,29.7639,Finland,Joensuu Airport,"Lentoasemantie 30, Joensuu",4.2
+396,Lappeenranta,61.0583,28.1861,Finland,,,
+397,Hämeenlinna,61.0,24.4414,Finland,Tampere–Pirkkala Airport,"Tornikaari 50, Pirkkala",4.0
+398,Vaasa,63.1,21.6167,Finland,,,
+399,Rovaniemi,66.5028,25.7285,Finland,,,
+400,Seinäjoki,62.7903,22.8403,Finland,,,
+401,Mikkeli,61.6875,27.2736,Finland,,,
+402,Kotka,60.4667,26.9458,Finland,,,
+403,Salo,60.3831,23.1331,Finland,,,
+404,Porvoo,60.3931,25.6639,Finland,Helsinki Airport,Vantaa,4.3
+405,Kokkola,63.8376,23.131999999999998,Finland,,,
+406,Lohja,60.25,24.0667,Finland,Helsinki Airport,Vantaa,4.3
+407,Hyvinkää,60.6306,24.8597,Finland,Helsinki Airport,Vantaa,4.3
+408,Nurmijärvi,60.4667,24.8083,Finland,Helsinki Airport,Vantaa,4.3
+409,Järvenpää,60.4722,25.0889,Finland,Helsinki Airport,Vantaa,4.3
+410,Rauma,61.1167,21.5,Finland,Pori Airport,"Lentoasemantie 1, Pori",4.2
+411,Kirkkonummi,60.1167,24.4167,Finland,Helsinki Airport,Vantaa,4.3
+412,Tuusula,60.4028,25.0292,Finland,Helsinki Airport,Vantaa,4.3
+413,Kajaani,64.225,27.7333,Finland,,,
+414,Savonlinna,61.8667,28.8831,Finland,,,
+415,Kerava,60.4028,25.1,Finland,Helsinki Airport,Vantaa,4.3
+416,Nokia,61.4767,23.5053,Finland,Tampere–Pirkkala Airport,"Tornikaari 50, Pirkkala",4.0
+417,Ylöjärvi,61.55,23.5833,Finland,Tampere–Pirkkala Airport,"Tornikaari 50, Pirkkala",4.0
+418,Kaarina,60.4069,22.3722,Finland,,,
+419,Kangasala,61.4639,24.065,Finland,Tampere–Pirkkala Airport,"Tornikaari 50, Pirkkala",4.0
+420,Jyväskylän Maalaiskunta,62.2889,25.7417,Finland,,,
+421,Riihimäki,60.7333,24.7667,Finland,Helsinki Airport,Vantaa,4.3
+422,Vihti,60.4167,24.3331,Finland,Helsinki Airport,Vantaa,4.3
+423,Raseborg,59.975,23.4361,Finland,,,
+424,Imatra,61.1931,28.7764,Finland,,,
+425,Sastamala,61.3417,22.9083,Finland,Tampere–Pirkkala Airport,"Tornikaari 50, Pirkkala",4.0
+426,Raahe,64.6847,24.4792,Finland,Hailuodon Kansainvälinen Lentoasema,"Unnamed Road, 90480, Hailuoto",0.0
+427,Raisio,60.4861,22.1694,Finland,,,
+428,Hollola,60.9886,25.5128,Finland,,,
+429,Lempäälä,61.3139,23.7528,Finland,Tampere–Pirkkala Airport,"Tornikaari 50, Pirkkala",4.0
+430,Iisalmi,63.5611,27.1889,Finland,,,
+431,Tornio,65.8497,24.1441,Finland,,,
+432,Siilinjärvi,63.075,27.66,Finland,Kuopio Airport,"Lentokentäntie 275, Toivala",4.2
+433,Kemi,65.7336,24.5634,Finland,,,
+434,Paris,48.8566,2.3522,France,Paris Charles de Gaulle Airport,Roissy-en-France,3.7
+435,Marseille,43.2964,5.37,France,Marseille Provence Airport,Marignane,3.4
+436,Lyon,45.76,4.84,France,Lyon-Saint Exupéry Airport,Colombier-Saugnieu,3.4
+437,Toulouse,43.6045,1.444,France,Toulouse-Blagnac Airport,"J9H9+Q3, Blagnac",3.9
+438,Nice,43.7034,7.2663,France,Nice Côte d'Azur Airport,"Rue Costes et Bellonte, Nice",3.9
+439,Nantes,47.2181,-1.5528,France,Nantes Atlantique Airport,Bouguenais,3.3
+440,Montpellier,43.6119,3.8772,France,Montpellier-Méditerranée Airport,"D172, Mauguio",4.1
+441,Strasbourg,48.5833,7.7458,France,Strasbourg Airport,"RM 221 /Route de l'Aéroport, Entzheim",3.7
+442,Bordeaux,44.84,-0.58,France,Bordeaux Airport,Mérignac,2.6
+443,Lille,50.6278,3.0583,France,Lille Airport,"Rte de l'Aéroport, Lesquin",3.8
+444,Rennes,48.1147,-1.6794,France,Airport Rennes Bretagne,"1 Av. de l'Aéroport Joseph le Brix, Saint-Jacques-de-la-Lande",3.8
+445,Reims,49.2628,4.0347,France,Laon - Chambry Airport,"Rue de Crécy Aviation, Laon",4.8
+446,Toulon,43.1258,5.9306,France,Toulon Hyères Airport,"Bd de la Marine, Hyères",4.1
+447,Saint-Étienne,45.4347,4.3903,France,Saint-Étienne–Loire Airport,Andrézieux-Bouthéon,3.5
+448,Le Havre,49.49,0.1,France,Saint-Gatien Airport,Saint-Gatien-des-Bois,3.5
+449,Grenoble,45.1715,5.7224,France,Grenoble Alpes Isère Airport,"Terrain d'Aviation, Saint-Étienne-de-Saint-Geoirs",2.3
+450,Dijon,47.3167,5.0167,France,Dole–Jura Airport,"Rue de Dole, Tavaux",3.5
+451,Angers,47.4736,-0.5542,France,Angers – Loire Airport,"Angers Loire Aéroport, Marcé",4.3
+452,Villeurbanne,45.7667,4.8803,France,Lyon-Saint Exupéry Airport,Colombier-Saugnieu,3.4
+453,Nîmes,43.838,4.361000000000001,France,Montpellier-Méditerranée Airport,"D172, Mauguio",4.1
+454,Clermont-Ferrand,45.7831,3.0824,France,Clermont-Ferrand Auvergne Airport,"1 Rue Adrienne Bolland, Aulnat",3.7
+455,Le Mans,48.0077,0.1984,France,Angers – Loire Airport,"Angers Loire Aéroport, Marcé",4.3
+456,Aix-en-Provence,43.5263,5.4454,France,Marseille Provence Airport,Marignane,3.4
+457,Brest,48.39,-4.49,France,Brest Bretagne Airport,"Aéroport Brest, Guipavas",4.0
+458,Tours,47.3936,0.6892,France,Tours Val de Loire Airport,"40 Rue de l'Aéroport, Tours",3.4
+459,Amiens,49.891999999999996,2.299,France,Albert – Picardie Airport,"1 Rue Henry Potez, Méaulte",4.6
+460,Limoges,45.8353,1.2625,France,Limoges Airport,"81 Av. de l'Aéroport, Limoges",3.8
+461,Annecy,45.916000000000004,6.132999999999999,France,Geneva Airport,"Rte de l'Aéroport 21, Le Grand-Saconnex",3.7
+462,Boulogne-Billancourt,48.8352,2.2409,France,Paris Charles de Gaulle Airport,Roissy-en-France,3.7
+463,Perpignan,42.6986,2.8956,France,Aéroport Sud de France Perpignan,"Av. Maurice Bellonte, Perpignan",4.0
+464,Besançon,47.24,6.02,France,Dole–Jura Airport,"Rue de Dole, Tavaux",3.5
+465,Metz,49.1203,6.1778,France,Lorraine Airport (Nancy/Metz),"Rte de Vigny, Goin",3.3
+466,Orléans,47.9025,1.909,France,Aéroport Orléans Loire-Valley,"Zone des, Rue des Quatre Vents, Saint-Denis-de-l'Hôtel",4.5
+467,Saint-Denis,48.9356,2.3539,France,Paris Charles de Gaulle Airport,Roissy-en-France,3.7
+468,Rouen,49.4428,1.0886,France,Aéroport de Rouen-Vallée de Seine,"Rue Maryse Bastié BP 87, Boos",3.7
+469,Argenteuil,48.95,2.25,France,Paris Charles de Gaulle Airport,Roissy-en-France,3.7
+470,Montreuil,48.8611,2.4436,France,Paris Charles de Gaulle Airport,Roissy-en-France,3.7
+471,Mulhouse,47.75,7.34,France,EuroAirport Basel-Mulhouse-Freiburg,Saint-Louis,3.8
+472,Caen,49.18,-0.37,France,Saint-Gatien Airport,Saint-Gatien-des-Bois,3.5
+473,Nancy,48.6936,6.1846,France,Lorraine Airport (Nancy/Metz),"Rte de Vigny, Goin",3.3
+474,Roubaix,50.6901,3.1817,France,Lille Airport,"Rte de l'Aéroport, Lesquin",3.8
+475,Tourcoing,50.7239,3.1612,France,Lille Airport,"Rte de l'Aéroport, Lesquin",3.8
+476,Nanterre,48.8988,2.1969,France,Paris Charles de Gaulle Airport,Roissy-en-France,3.7
+477,Vitry-sur-Seine,48.7875,2.3928,France,Paris Charles de Gaulle Airport,Roissy-en-France,3.7
+478,Créteil,48.7911,2.4628,France,Paris Charles de Gaulle Airport,Roissy-en-France,3.7
+479,Avignon,43.95,4.8075,France,Avignon – Provence Airport,"335 Av. Clément Ader, Avignon",4.1
+480,Poitiers,46.58,0.34,France,Aéroport de Poitiers-Biard,"Rue S Lieut Raymond Collard 5, Biard",3.4
+481,Aubervilliers,48.9131,2.3831,France,Paris Charles de Gaulle Airport,Roissy-en-France,3.7
+482,Dunkerque,51.0383,2.3775,France,Aérodrome du Grand Calais,"230 Av. Henri Sainsard, Marck",4.5
+483,Aulnay-sous-Bois,48.9386,2.4906,France,Paris Charles de Gaulle Airport,Roissy-en-France,3.7
+484,Berlin,52.5167,13.3833,Germany,"Berlin Brandenburg Airport (BER) ""Willy Brandt""","Willy-Brandt-Platz 2, Schönefeld",3.3
+485,Hamburg,53.55,10.0,Germany,Hamburg Airport,"Flughafenstr. 1-3, Hamburg",3.7
+486,Munich,48.1375,11.575,Germany,Munich International Airport,"Nordallee 25, München-Flughafen",4.2
+487,Cologne,50.9422,6.9578,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+488,Frankfurt,50.1136,8.6797,Germany,Frankfurt Airport,Frankfurt,3.9
+489,Düsseldorf,51.2311,6.7724,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+490,Stuttgart,48.7761,9.1775,Germany,Stuttgart Airport,"Flughafenstraße 32, Stuttgart",4.0
+491,Leipzig,51.3333,12.3833,Germany,Leipzig/Halle Airport,"Terminalring 11, Schkeuditz",4.2
+492,Dortmund,51.5139,7.4653,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+493,Essen,51.4508,7.0131,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+494,Bremen,53.0769,8.8089,Germany,Bremen Airport,"Flughafenallee 20, Bremen",4.1
+495,Dresden,51.05,13.74,Germany,Dresden Airport,"Flughafenstraße, Dresden",4.0
+496,Hannover,52.3744,9.7386,Germany,Hannover Airport,"Flughafenstraße 4, Langenhagen",3.6
+497,Nuremberg,49.4539,11.0775,Germany,Airport Nürnberg,"Flughafenstraße 100, Nürnberg",4.3
+498,Duisburg,51.4322,6.7611,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+499,Bochum,51.4833,7.2167,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+500,Wuppertal,51.2667,7.1833,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+501,Bielefeld,52.0167,8.5333,Germany,Bielefeld Airport,"Am Flugpl. 1, Bielefeld",4.5
+502,Bonn,50.7339,7.0997,Germany,Cologne Bonn Airport,"Kennedystraße, Köln",3.5
+503,Münster,51.9625,7.6256,Germany,Dortmund Airport,"Flughafenring 2, Dortmund",3.6
+504,Mannheim,49.4878,8.4661,Germany,City Airport Mannheim,"Seckenheimer Landstraße 172, Mannheim",4.6
+505,Karlsruhe,49.0167,8.4,Germany,Flughafen Karlsruhe / Baden-Baden,"Halifax Avenue B420 (Terminal, Rheinmünster",3.9
+506,Augsburg,48.3717,10.8983,Germany,Memmingen Airport,"Am Flughafen 42, Memmingerberg",3.7
+507,Wiesbaden,50.0825,8.24,Germany,Frankfurt Airport,Frankfurt,3.9
+508,Mönchengladbach,51.2,6.4333,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+509,Gelsenkirchen,51.5167,7.1,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+510,Aachen,50.7762,6.0838,Germany,Maastricht Aachen Airport B.V.,"Horsterweg 5, Maastricht Airport",4.1
+511,Braunschweig,52.2692,10.5211,Germany,Braunschweig Wolfsburg Airport GmbH,"Lilienthalpl. 5, Braunschweig",4.2
+512,Kiel,54.3233,10.1394,Germany,Kiel Airport,"Boelckestraße 100, Kiel",4.5
+513,Chemnitz,50.8333,12.9167,Germany,Leipzig–Altenburg Airport,"Flugpl., Nobitz",4.6
+514,Halle,51.4828,11.9697,Germany,Leipzig/Halle Airport,"Terminalring 11, Schkeuditz",4.2
+515,Magdeburg,52.1317,11.6392,Germany,Flughafen Magdeburg GmbH,"Ottersleber Ch 91, Magdeburg",4.2
+516,Freiburg im Breisgau,47.995,7.85,Germany,EuroAirport Basel-Mulhouse-Freiburg,Saint-Louis,3.8
+517,Krefeld,51.3333,6.5667,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+518,Mainz,50.0,8.2667,Germany,Frankfurt Airport,Frankfurt,3.9
+519,Lübeck,53.8697,10.6864,Germany,Hamburg Airport,"Flughafenstr. 1-3, Hamburg",3.7
+520,Erfurt,50.9781,11.0292,Germany,Erfurt Weimar Airport,"Binderslebener Landstraße 100, Erfurt",4.1
+521,Oberhausen,51.4699,6.8514,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+522,Rostock,54.0833,12.1333,Germany,Rostock–Laage Airport,"Flughafenstraße 1, Laage",4.3
+523,Kassel,51.3158,9.4979,Germany,Flughafen Kassel,"Fieseler-Storch-Straße 40, Calden",4.2
+524,Hagen,51.3594,7.475,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+525,Potsdam,52.4,13.0667,Germany,"Berlin Brandenburg Airport (BER) ""Willy Brandt""","Willy-Brandt-Platz 2, Schönefeld",3.3
+526,Saarbrücken,49.2333,7.0,Germany,Saarbrücken Airport,"Balthasar-Goldstein-Straße, Saarbrücken",4.2
+527,Hamm,51.6667,7.8167,Germany,Dortmund Airport,"Flughafenring 2, Dortmund",3.6
+528,Ludwigshafen,49.4811,8.4353,Germany,City Airport Mannheim,"Seckenheimer Landstraße 172, Mannheim",4.6
+529,Mülheim,51.4275,6.8825,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+530,Oldenburg,53.1439,8.2139,Germany,Bremen Airport,"Flughafenallee 20, Bremen",4.1
+531,Osnabrück,52.2789,8.0431,Germany,Münster Osnabrück International Airport,"Airportallee 1, Greven",4.4
+532,Leverkusen,51.0333,6.9833,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+533,Solingen,51.1667,7.0833,Germany,Düsseldorf International Airport,"Flughafenstraße 105, Düsseldorf",3.5
+534,Guatemala City,14.6099,-90.5252,Guatemala,La Aurora (Guatemala City) International Airport (GUA),"Ciudad de, 9 Avenida 14-75, Cdad. de Guatemala",4.1
+535,Villa Nueva,14.5314,-90.5964,Guatemala,La Aurora (Guatemala City) International Airport (GUA),"Ciudad de, 9 Avenida 14-75, Cdad. de Guatemala",4.1
+536,Coatepeque,14.7,-91.8667,Guatemala,Quetzaltenango Airport,"10, 13-81 09001, Diagonal 15 6 avenida, Quezaltenango",4.2
+537,San Pedro Carchá,15.4768,-90.31200000000001,Guatemala,Cobán Airport,"FH9V+M96, Cobán",4.2
+538,Cobán,15.4833,-90.3667,Guatemala,Cobán Airport,"FH9V+M96, Cobán",4.2
+539,Quetzaltenango,14.8333,-91.5167,Guatemala,Quetzaltenango Airport,"10, 13-81 09001, Diagonal 15 6 avenida, Quezaltenango",4.2
+540,San Juan Sacatepéquez,14.7189,-90.6442,Guatemala,La Aurora (Guatemala City) International Airport (GUA),"Ciudad de, 9 Avenida 14-75, Cdad. de Guatemala",4.1
+541,Jutiapa,14.2917,-89.8958,Guatemala,Guatemala,"F8XX+8H8, Agua Blanca",0.0
+542,Flores,16.9333,-89.8833,Guatemala,Mundo Maya International Airport,"W47C+XV8 Aeropuerto Mundo Maya, Flores",4.3
+543,Momostenango,15.0444,-91.4083,Guatemala,Quetzaltenango Airport,"10, 13-81 09001, Diagonal 15 6 avenida, Quezaltenango",4.2
+544,San Luis,16.2,-89.44,Guatemala,Pista de Poptún,"8HGR+H8R La Pista, Calzada, Poptún",4.3
+545,Nueva Concepción,14.1997,-91.2997,Guatemala,Retalhuleu Airport,"G8F4+M2P, Retalhuleu",4.5
+546,Santa Lucía Cotzumalguapa,14.3333,-91.0167,Guatemala,Travesías,"Calz. Aguilar Batres 35, Cdad. de Guatemala",3.0
+547,Amatitlán,14.4741,-90.6247,Guatemala,La Aurora (Guatemala City) International Airport (GUA),"Ciudad de, 9 Avenida 14-75, Cdad. de Guatemala",4.1
+548,Jalapa,14.6379,-89.9904,Guatemala,Guatemala,"F8XX+8H8, Agua Blanca",0.0
+549,Totonicapán,14.9108,-91.3606,Guatemala,Quetzaltenango Airport,"10, 13-81 09001, Diagonal 15 6 avenida, Quezaltenango",4.2
+550,Puerto Barrios,15.73,-88.6,Guatemala,Puerto Barrios Airport (PBR),"PCP7+686, C. del Aeropuerto, Puerto Barrios",4.2
+551,Escuintla,14.3004,-90.78,Guatemala,La Aurora (Guatemala City) International Airport (GUA),"Ciudad de, 9 Avenida 14-75, Cdad. de Guatemala",4.1
+552,Morales,15.4725,-88.8414,Guatemala,Puerto Barrios Airport (PBR),"PCP7+686, C. del Aeropuerto, Puerto Barrios",4.2
+553,Chichicastenango,14.9442,-91.1105,Guatemala,Quetzaltenango Airport,"10, 13-81 09001, Diagonal 15 6 avenida, Quezaltenango",4.2
+554,Malacatán,14.9106,-92.0581,Guatemala,Tapachula International Airport (TAP),"Aeropuerto Internacional de Tapachula. Puerto Madero Km 18.5 Morelos MX, Tapachula de Córdova y Ordoñez",4.2
+555,Mazatenango,14.5333,-91.5,Guatemala,Quetzaltenango Airport,"10, 13-81 09001, Diagonal 15 6 avenida, Quezaltenango",4.2
+556,Senahú,15.4164,-89.8203,Guatemala,Port lotniczy Los Tablones,"XR8M+J8X, El Tablón",0.0
+557,Petapa,14.4962,-90.5525,Guatemala,La Aurora (Guatemala City) International Airport (GUA),"Ciudad de, 9 Avenida 14-75, Cdad. de Guatemala",4.1
+558,Tacaná,15.2415,-92.0684,Guatemala,Tapachula International Airport (TAP),"Aeropuerto Internacional de Tapachula. Puerto Madero Km 18.5 Morelos MX, Tapachula de Córdova y Ordoñez",4.2
+559,El Estor,15.5333,-89.35,Guatemala,,,
+560,Panzos,15.3986,-89.6408,Guatemala,,,
+561,San Cristóbal Verapaz,15.365,-90.4792,Guatemala,Cobán Airport,"FH9V+M96, Cobán",4.2
+562,Lívingston,15.83,-88.75,Guatemala,Puerto Barrios Airport (PBR),"PCP7+686, C. del Aeropuerto, Puerto Barrios",4.2
+563,Chiquimula,14.7833,-89.5333,Guatemala,Guatemala,"F8XX+8H8, Agua Blanca",0.0
+564,Fray Bartolomé de Las Casas,15.8456,-89.8658,Guatemala,,,
+565,Villa Canales,14.4816,-90.53399999999999,Guatemala,La Aurora (Guatemala City) International Airport (GUA),"Ciudad de, 9 Avenida 14-75, Cdad. de Guatemala",4.1
+566,Chinautla,14.7029,-90.5,Guatemala,La Aurora (Guatemala City) International Airport (GUA),"Ciudad de, 9 Avenida 14-75, Cdad. de Guatemala",4.1
+567,Salamá,15.1052,-90.316,Guatemala,Cobán Airport,"FH9V+M96, Cobán",4.2
+568,Santa María La Pila,15.6056,-89.8125,Guatemala,,,
+569,Chisec,15.8125,-90.3217,Guatemala,Rubelsanto Airport,"XHR3+Q4M, Rubelsanto",3.7
+570,San Pedro Sacatepéquez,14.9664,-91.7775,Guatemala,Quetzaltenango Airport,"10, 13-81 09001, Diagonal 15 6 avenida, Quezaltenango",4.2
+571,Zacapa,14.9667,-89.5333,Guatemala,Chiquimula Airport,"RFJH+9H9, El Ingeniero",4.3
+572,San Marcos,14.9653,-91.7958,Guatemala,Quetzaltenango Airport,"10, 13-81 09001, Diagonal 15 6 avenida, Quezaltenango",4.2
+573,San Francisco El Alto,14.95,-91.45,Guatemala,Quetzaltenango Airport,"10, 13-81 09001, Diagonal 15 6 avenida, Quezaltenango",4.2
+574,Los Amates,15.2667,-89.1,Guatemala,Chiquimula Airport,"RFJH+9H9, El Ingeniero",4.3
+575,Purulhá,15.2353,-90.235,Guatemala,Cobán Airport,"FH9V+M96, Cobán",4.2
+576,Esquipulas,14.6167,-89.2,Guatemala,Guatemala,"F8XX+8H8, Agua Blanca",0.0
+577,Sololá,14.7667,-91.1833,Guatemala,Quetzaltenango Airport,"10, 13-81 09001, Diagonal 15 6 avenida, Quezaltenango",4.2
+578,Santa Catarina Pinula,14.5644,-90.488,Guatemala,La Aurora (Guatemala City) International Airport (GUA),"Ciudad de, 9 Avenida 14-75, Cdad. de Guatemala",4.1
+579,Palín,14.4039,-90.6986,Guatemala,La Aurora (Guatemala City) International Airport (GUA),"Ciudad de, 9 Avenida 14-75, Cdad. de Guatemala",4.1
+580,Nahualá,14.8429,-91.31700000000001,Guatemala,Quetzaltenango Airport,"10, 13-81 09001, Diagonal 15 6 avenida, Quezaltenango",4.2
+581,San Juan Chamelco,15.4257,-90.3263,Guatemala,Cobán Airport,"FH9V+M96, Cobán",4.2
+582,Iztapa,13.9331,-90.7075,Guatemala,San Jose Airport,"W5V6+FXV, Puerto San José",4.4
+583,Cubulco,15.1083,-90.6306,Guatemala,Cobán Airport,"FH9V+M96, Cobán",4.2
+584,Reykjavík,64.1475,-21.935,Iceland,Keflavík International Airport,"235 KEFLAVÍKURFLUGVÖLLUR, Keflavík",3.9
+585,Kópavogur,64.1119,-21.9,Iceland,Keflavík International Airport,"235 KEFLAVÍKURFLUGVÖLLUR, Keflavík",3.9
+586,Hafnarfjörður,64.0667,-21.95,Iceland,Keflavík International Airport,"235 KEFLAVÍKURFLUGVÖLLUR, Keflavík",3.9
+587,Akureyri,65.6833,-18.1,Iceland,Akureyri International Airport,"Urðargil 15, Akureyri",4.5
+588,Keflavík,64.0,-22.5819,Iceland,Keflavík International Airport,"235 KEFLAVÍKURFLUGVÖLLUR, Keflavík",3.9
+589,Garðabær,64.0833,-22.0,Iceland,Keflavík International Airport,"235 KEFLAVÍKURFLUGVÖLLUR, Keflavík",3.9
+590,Akranes,64.3167,-22.1,Iceland,Keflavík International Airport,"235 KEFLAVÍKURFLUGVÖLLUR, Keflavík",3.9
+591,Selfoss,63.9322,-21.0002,Iceland,Reykjavík Airport,"Vatnsmýri, Reykjavík",3.9
+592,Sauðárkrókur,65.7464,-19.639,Iceland,Siglufjörður Airport,"43MM+WVH, Siglufjörður",1.0
+593,Ísafjörður,66.0738,-23.1417,Iceland,Ísafjörður Airport,"Ísafjarðarflugvelli 400, Ísafjörður",4.7
+594,Höfn,64.25,-15.2167,Iceland,Djúpivogur Airport,"JPVF+32F, Djúpivogur",5.0
+595,Egilsstaðir,65.2667,-14.4,Iceland,Egilsstaðir Airport,"Miðvangur 2, Egilsstaðir",4.7
+596,Borgarnes,64.5333,-21.9167,Iceland,Reykjavík Airport,"Vatnsmýri, Reykjavík",3.9
+597,Dublin,53.3497,-6.2603,Ireland,Dublin Airport,Dublin,3.9
+598,Cork,51.9,-8.4731,Ireland,Cork Airport,"Kinsale Rd, Cork",4.3
+599,Galway,53.2729,-9.0418,Ireland,Galway Airport,Carnmore East,4.2
+600,Limerick,52.6653,-8.6238,Ireland,Shannon Airport,Co. Clare,4.6
+601,Waterford,52.2583,-7.119,Ireland,Waterford Airport,"Ballygarran, Waterford Regional Airport",4.4
+602,Drogheda,53.7139,-6.3503,Ireland,Dublin Airport,Dublin,3.9
+603,Dún Dealgan,54.00899999999999,-6.4049,Ireland,Derryogue Airport,Newry,5.0
+604,Swords,53.4597,-6.2181,Ireland,Dublin Airport,Dublin,3.9
+605,Blackrock,53.3015,-6.1778,Ireland,Dublin Airport,Dublin,3.9
+606,Tralee,52.2675,-9.6962,Ireland,Kerry Airport,"Kerry Airport, Farranfore, Kerry",4.6
+607,Carlow,52.8306,-6.9317,Ireland,Kilkenny Airport,"kilkenny airport, Holdensrath, Kilkenny",4.1
+608,Ennis,52.8463,-8.9807,Ireland,Shannon Airport,Co. Clare,4.6
+609,Dunleary,53.3,-6.14,Ireland,Dublin Airport,Dublin,3.9
+610,Kilkenny,52.6477,-7.2561,Ireland,Kilkenny Airport,"kilkenny airport, Holdensrath, Kilkenny",4.1
+611,Naas,53.2158,-6.6669,Ireland,Dublin Airport,Dublin,3.9
+612,Wexford,52.3342,-6.4575,Ireland,Waterford Airport,"Ballygarran, Waterford Regional Airport",4.4
+613,Sligo,54.2667,-8.4833,Ireland,Ireland West Airport Knock,"Kilgariff, Charlestown",3.9
+614,Leixlip,53.3636,-6.4864,Ireland,Dublin Airport,Dublin,3.9
+615,Cobh,51.851000000000006,-8.2967,Ireland,Cork Airport,"Kinsale Rd, Cork",4.3
+616,Killarney,52.0588,-9.5072,Ireland,Kerry Airport,"Kerry Airport, Farranfore, Kerry",4.6
+617,Shannon,52.7137,-8.8686,Ireland,Shannon Airport,Co. Clare,4.6
+618,Dungarvan,52.0845,-7.6397,Ireland,Waterford Airport,"Ballygarran, Waterford Regional Airport",4.4
+619,Kildare,53.1569,-6.909,Ireland,Dublin Airport,Dublin,3.9
+620,Carrigtohill,51.9,-8.2667,Ireland,Cork Airport,"Kinsale Rd, Cork",4.3
+621,Monaghan,54.2479,-6.9708,Ireland,Belfast International Airport,"Airport Rd, Belfast, Crumlin",3.4
+622,Dunboyne,53.4199,-6.4751,Ireland,Dublin Airport,Dublin,3.9
+623,Ros Comáin,53.6333,-8.1833,Ireland,Ireland West Airport Knock,"Kilgariff, Charlestown",3.9
+624,Donegal,54.65,-8.117,Ireland,Donegal Airport (Aerphort Dhún Na nGall),"Braade, Carrickfinn",4.7
+625,Tallaght,53.2878,-6.3411,Ireland,Dublin Airport,Dublin,3.9
+626,Wicklow,52.9779,-6.0329999999999995,Ireland,Dublin Airport,Dublin,3.9
+627,Clonmel,52.355,-7.7039,Ireland,Waterford Airport,"Ballygarran, Waterford Regional Airport",4.4
+628,Trim,53.555,-6.7917,Ireland,Dublin Airport,Dublin,3.9
+629,Carrick on Shannon,53.9469,-8.09,Ireland,Ireland West Airport Knock,"Kilgariff, Charlestown",3.9
+630,Tullamore,53.2667,-7.5,Ireland,Birr Airfield,Ballinree,4.8
+631,Castlebar,53.85,-9.3,Ireland,Ireland West Airport Knock,"Kilgariff, Charlestown",3.9
+632,Mullingar,53.5333,-7.35,Ireland,Naas Airfield,Bawnoge,5.0
+633,Longford,53.727,-7.7998,Ireland,Abbeyshrule Airport,"Abbeyshrule Aiport, Abbeyshrule",5.0
+634,Nenagh,52.8619,-8.1967,Ireland,Shannon Airport,Co. Clare,4.6
+635,Port Laoise,53.0309,-7.3008,Ireland,Kilkenny Airport,"kilkenny airport, Holdensrath, Kilkenny",4.1
+636,An Cabhán,53.9908,-7.3606,Ireland,,,
+637,Lifford,54.8356,-7.4779,Ireland,City of Derry Airport,"Airport Roundabout, Eglinton, Londonderry",4.5
+638,Jerusalem,31.7833,35.2167,Israel,Ben Gurion Airport,"7015001, Israel",4.1
+639,Tel Aviv-Yafo,32.08,34.78,Israel,Ben Gurion Airport,7015001,4.1
+640,Haifa,32.8,34.9833,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+641,Rishon LeẔiyyon,31.9711,34.7894,Israel,Ben Gurion Airport,7015001,4.1
+642,Petaẖ Tiqwa,32.0833,34.8833,Israel,Ben Gurion Airport,7015001,4.1
+643,Ashdod,31.7978,34.6503,Israel,Ben Gurion Airport,7015001,4.1
+644,Netanya,32.3328,34.86,Israel,Ben Gurion Airport,7015001,4.1
+645,Beersheba,31.2589,34.7978,Israel,Lapangan Terbang Nizzana West,"Nizzana, West",5.0
+646,Bené Beraq,32.0807,34.8338,Israel,Ben Gurion Airport,7015001,4.1
+647,Holon,32.0167,34.7667,Israel,Ben Gurion Airport,"7015001, Israel",4.1
+648,Ramat Gan,32.07,34.8235,Israel,Ben Gurion Airport,7015001,4.1
+649,Ashqelon,31.6658,34.5664,Israel,Ben Gurion Airport,7015001,4.1
+650,Reẖovot,31.8914,34.8078,Israel,Ben Gurion Airport,7015001,4.1
+651,Bat Yam,32.0231,34.7503,Israel,Ben Gurion Airport,"7015001, Israel",4.1
+652,Bet Shemesh,31.7514,34.9886,Israel,Ben Gurion Airport,7015001,4.1
+653,Kefar Sava,32.1858,34.9077,Israel,Ben Gurion Airport,7015001,4.1
+654,Herẕliyya,32.1556,34.8422,Israel,Ben Gurion Airport,7015001,4.1
+655,Hadera,32.45,34.9167,Israel,Ben Gurion Airport,7015001,4.1
+656,Modi‘in Makkabbim Re‘ut,31.9339,34.9856,Israel,Ben Gurion Airport,7015001,4.1
+657,Nazareth,32.7021,35.2978,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+658,Lod,31.95,34.9,Israel,Ben Gurion Airport,7015001,4.1
+659,Ramla,31.9275,34.8625,Israel,Ben Gurion Airport,7015001,4.1
+660,Ra‘ananna,32.1833,34.8667,Israel,Ben Gurion Airport,7015001,4.1
+661,Rahat,31.3925,34.7544,Israel,Taxis shoval haosher מוניות שובל האושר,"bolevy, Jerusalem",0.0
+662,Nahariyya,33.0036,35.0925,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+663,Givatayim,32.0697,34.8117,Israel,Ben Gurion Airport,7015001,4.1
+664,Hod HaSharon,32.15,34.8833,Israel,Ben Gurion Airport,7015001,4.1
+665,Rosh Ha‘Ayin,32.0833,34.95,Israel,Ben Gurion Airport,7015001,4.1
+666,Qiryat Ata,32.8,35.1,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+667,Umm el Faḥm,32.5158,35.1525,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+668,Eilat,29.55,34.95,Israel,Taba International Airport,"HQVG+Q7X، راس النقب, Nuweiba",3.9
+669,Nes Ẕiyyona,31.9333,34.8,Israel,Ben Gurion Airport,7015001,4.1
+670,‘Akko,32.9261,35.0839,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+671,El‘ad,32.0523,34.9512,Israel,Ben Gurion Airport,7015001,4.1
+672,Ramat HaSharon,32.15,34.8333,Israel,Ben Gurion Airport,7015001,4.1
+673,Karmiel,32.9,35.2833,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+674,Afula,32.6078,35.2897,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+675,Tiberias,32.7897,35.5247,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+676,Eṭ Ṭaiyiba,32.2667,35.0,Israel,Ben Gurion Airport,7015001,4.1
+677,Ben Zakkay,31.8833,34.7333,Israel,Ben Gurion Airport,7015001,4.1
+678,Pardés H̱anna Karkur,32.4711,34.9675,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+679,Shefar‘am,32.8056,35.1694,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+680,Qiryat Moẕqin,32.8369,35.0775,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+681,Qiryat Bialik,32.8331,35.0664,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+682,Qiryat Yam,32.8331,35.0664,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+683,Qiryat Ono,32.0636,34.8553,Israel,Ben Gurion Airport,7015001,4.1
+684,Or Yehuda,32.0333,34.85,Israel,Ben Gurion Airport,"7015001, Israel",4.1
+685,Ma‘alot Tarshīḥā,33.0167,35.2708,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+686,Ẕefat,32.9658,35.4983,Israel,Haifa Airport,"Yulius Simon St, Haifa",4.1
+687,Dimona,31.07,35.03,Israel,Bar Yehuda Airfield,,
+688,Rome,41.8931,12.4828,Italy,Leonardo da Vinci International Airport,Fiumicino,4.1
+689,Milan,45.4669,9.19,Italy,Milan Linate Airport,"Viale Enrico Forlanini, Segrate",4.1
+690,Naples,40.8333,14.25,Italy,Naples International Airport,"Viale F. Ruffo di Calabria, Napoli",3.8
+691,Turin,45.0667,7.7,Italy,Torino Airport,"Strada Aeroporto, 12, Caselle Torinese",3.9
+692,Palermo,38.1111,13.3517,Italy,Palermo Airport,Cinisi,3.6
+693,Genoa,44.4072,8.934,Italy,Genova City Airport,"Via Pionieri e Aviatori d'Italia, 1, Genova",3.5
+694,Bologna,44.4939,11.3428,Italy,Bologna Guglielmo Marconi Airport,"Via del Triumvirato, 84, Bologna",3.4
+695,Florence,43.7714,11.2542,Italy,"Florence Airport, Peretola","Via del Termine, 11, Firenze",3.2
+696,Bari,41.1253,16.8667,Italy,Bari International Airport-Karol Wojtyla,"Viale Enzo Ferrari, Bari",4.1
+697,Catania,37.5027,15.0873,Italy,Catania Airport,"Via Fontanarossa, Catania",3.5
+698,Venice,45.4397,12.3319,Italy,Venice Marco Polo Airport,"Viale Galileo Galilei, 30, Venezia",3.8
+699,Verona,45.4386,10.9928,Italy,Valerio Catullo Airport,Caselle,3.5
+700,Messina,38.1936,15.5542,Italy,Reggio Calabria Airport,"Via Ravagnese, 11, Reggio Calabria",3.4
+701,Padova,45.4064,11.8778,Italy,Venice Marco Polo Airport,"Viale Galileo Galilei, 30, Venezia",3.8
+702,Trieste,45.6503,13.7703,Italy,Portorož Airport,"Sečovlje 19, Sečovlje",4.6
+703,Taranto,40.4181,17.2408,Italy,Taranto-Grottaglie Airport,"SP83, Grottaglie",4.3
+704,Brescia,45.5389,10.2203,Italy,Milan Bergamo Airport,24050 Province of Bergamo,3.9
+705,Parma,44.8015,10.328,Italy,Parma Airport,"Via Licinio Ferretti, 50 A, Parma",3.4
+706,Prato,43.8808,11.0966,Italy,"Florence Airport, Peretola","Via del Termine, 11, Firenze",3.2
+707,Modena,44.6458,10.9257,Italy,Bologna Guglielmo Marconi Airport,"Via del Triumvirato, 84, Bologna",3.4
+708,Reggio di Calabria,38.1144,15.65,Italy,Reggio Calabria Airport,"Via Ravagnese, 11, Reggio Calabria",3.4
+709,Reggio Emilia,44.7,10.6333,Italy,Parma Airport,"Via Licinio Ferretti, 50 A, Parma",3.4
+710,Perugia,43.1121,12.3888,Italy,San Francesco d'Assisi Airport,"Via dell'Aeroporto, snc, Perugia",3.9
+711,Ravenna,44.4161,12.2017,Italy,Federico Fellini International Airport,"Via Flaminia, 409, Rimini",3.6
+712,Livorno,43.55,10.3167,Italy,Pisa International Airport,"Piazzale D'Ascanio, 1, Pisa",3.3
+713,Cagliari,39.2167,9.1167,Italy,Cagliari Elmas Airport,"Via dei Trasvolatori, Elmas",4.0
+714,Foggia,41.4584,15.5519,Italy,Foggia Gino Lisa Airport,"Viale degli Aviatori, 1, Foggia",3.9
+715,Rimini,44.0594,12.5683,Italy,Federico Fellini International Airport,"Via Flaminia, 409, Rimini",3.6
+716,Salerno,40.6806,14.7597,Italy,Naples International Airport,"Viale F. Ruffo di Calabria, Napoli",3.8
+717,Ferrara,44.8353,11.6199,Italy,Bologna Guglielmo Marconi Airport,"Via del Triumvirato, 84, Bologna",3.4
+718,Latina,41.4676,12.9037,Italy,Giovan Battista Pastine International Airport,"Via Appia Nuova, 1651, Ciampino",3.3
+719,Giugliano in Campania,40.9319,14.1956,Italy,Naples International Airport,"Viale F. Ruffo di Calabria, Napoli",3.8
+720,Monza,45.5836,9.2736,Italy,Milan Linate Airport,"Viale Enrico Forlanini, Segrate",4.1
+721,Siracusa,37.0692,15.2875,Italy,Catania Airport,"Via Fontanarossa, Catania",3.5
+722,Bergamo,45.695,9.67,Italy,Milan Linate Airport,"Viale Enrico Forlanini, Segrate",4.1
+723,Pescara,42.4643,14.2142,Italy,Abruzzo Airport,"Strada Statale 5, KM 229/100, Via Tiburtina Valeria, km 229/100, Pescara",3.7
+724,Trento,46.0667,11.1167,Italy,Asiago Airport Romeo Sartori,"Via Cinque, Asiago",4.6
+725,Forlì,44.2225,12.0408,Italy,Federico Fellini International Airport,"Via Flaminia, 409, Rimini",3.6
+726,Sassari,40.7267,8.5592,Italy,Alghero Airport,"Strada Provinciale 44, Alghero",4.0
+727,Vicenza,45.55,11.55,Italy,Asiago Airport Romeo Sartori,"Via Cinque, Asiago",4.6
+728,Terni,42.5667,12.65,Italy,Rieti Airport,Rieti,3.7
+729,Bolzano,46.5,11.35,Italy,Bolzano Airport,"Via Aeroporto Francesco Baracca, 1, Bolzano",4.2
+730,Novara,45.45,8.6167,Italy,Malpensa Airport,Ferno,3.8
+731,Piacenza,45.05,9.7,Italy,Milan Linate Airport,"Viale Enrico Forlanini, Segrate",4.1
+732,Ancona,43.6167,13.5167,Italy,Ancona International Airport,"Piazzale Sordoni, Falconara Marittima",3.6
+733,Andria,41.2317,16.3083,Italy,Bari International Airport-Karol Wojtyla,"Viale Enzo Ferrari, Bari",4.1
+734,Udine,46.0667,13.2333,Italy,Trieste Airport,"Via Aquileia, 46, Ronchi dei Legionari",3.8
+735,Arezzo,43.4631,11.8781,Italy,Arezzo Airport,"Via Francesco Baracca, snc, Arezzo",4.4
+736,Cesena,44.1333,12.2333,Italy,Federico Fellini International Airport,"Via Flaminia, 409, Rimini",3.6
+737,Lecce,40.352,18.1691,Italy,Salento Airport,"Contrada Baroncino, Brindisi",4.1
+738,Luxembourg,49.6106,6.1328,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+739,Esch-sur-Alzette,49.4969,5.9806,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+740,Dudelange,49.4806,6.0875,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+741,Differdange,49.5242,5.8914,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+742,Belvaux,49.5167,5.9333,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+743,Rodange,49.5467,5.8397,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+744,Niedercorn,49.5333,5.9,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+745,Diekirch,49.8678,6.1558,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+746,Soleuvre,49.5333,5.9333,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+747,Bascharage,49.5667,5.9167,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+748,Kayl,49.4864,6.0392,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+749,Echternach,49.8117,6.4217,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+750,Steinfort,49.66,5.9156,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+751,Rumelange,49.4597,6.0306,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+752,Wiltz,49.9689,5.9319,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+753,Mondorf-les-Bains,49.5069,6.2806,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+754,Grevenmacher,49.6747,6.4419,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+755,Remich,49.5444,6.3667,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+756,Vianden,49.935,6.2089,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+757,Capellen,49.6444,5.9897,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+758,Clervaux,50.0547,6.0314,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+759,Mersch,49.7489,6.1061,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+760,Redange-sur-Attert,49.7656,5.8908,Luxembourg,Luxembourg Airport,Rue de Trèves,4.2
+761,Birkirkara,35.9,14.4667,Malta,Malta International Airport,Luqa,4.3
+762,Saint Paul’s Bay,35.9483,14.4017,Malta,Malta International Airport,Luqa,4.3
+763,Mosta,35.9,14.4333,Malta,Malta International Airport,Luqa,4.3
+764,Sliema,35.9122,14.5042,Malta,Malta International Airport,Luqa,4.3
+765,Qormi,35.8794,14.4722,Malta,Malta International Airport,Luqa,4.3
+766,Żabbar,35.8772,14.5381,Malta,Malta International Airport,Luqa,4.3
+767,Naxxar,35.915,14.4447,Malta,,,
+768,San Ġwann,35.9094,14.4786,Malta,Malta International Airport,Luqa,4.3
+769,Marsaskala,35.8625,14.5675,Malta,Malta International Airport,Luqa,4.3
+770,Żebbuġ,35.8733,14.4417,Malta,,,
+771,Fgura,35.8725,14.5228,Malta,,,
+772,Żejtun,35.8556,14.5333,Malta,Malta International Airport,Luqa,4.3
+773,Rabat,35.8817,14.3989,Malta,Malta International Airport,Luqa,4.3
+774,Attard,35.9,14.45,Malta,,,
+775,Żurrieq,35.8292,14.4744,Malta,Malta International Airport,Luqa,4.3
+776,Mellieħa,35.95,14.3667,Malta,Malta International Airport,Luqa,4.3
+777,Swieqi,35.9208,14.48,Malta,,,
+778,Birżebbuġa,35.8267,14.5278,Malta,Malta International Airport,Luqa,4.3
+779,Ħamrun,35.8861,14.4894,Malta,Malta International Airport,Luqa,4.3
+780,Tarxien,35.865,14.5111,Malta,Malta International Airport,Luqa,4.3
+781,Imsida,35.8978,14.4894,Malta,Malta International Airport,Luqa,4.3
+782,Siġġiewi,35.8542,14.4383,Malta,Malta International Airport,Luqa,4.3
+783,Gżira,35.905,14.4939,Malta,Malta International Airport,Luqa,4.3
+784,Paola,35.8728,14.5075,Malta,Malta International Airport,Luqa,4.3
+785,San Ġiljan,35.9186,14.49,Malta,Malta International Airport,Luqa,4.3
+786,Santa Venera,35.8903,14.4778,Malta,Malta International Airport,Luqa,4.3
+787,Victoria,36.05,14.25,Malta,Malta International Airport,Luqa,4.3
+788,Valletta,35.8978,14.5125,Malta,Malta International Airport,Luqa,4.3
+789,Luqa,35.8597,14.4892,Malta,Malta International Airport,Luqa,4.3
+790,Cospicua,35.8822,14.5222,Malta,Malta International Airport,Luqa,4.3
+791,Xagħra,36.0503,14.2675,Malta,Malta International Airport,Luqa,4.3
+792,Għaxaq,35.8483,14.5172,Malta,Malta International Airport,Luqa,4.3
+793,Nadur,36.0381,14.295,Malta,Malta International Airport,Luqa,4.3
+794,Marsa,35.8833,14.4947,Malta,Malta International Airport,Luqa,4.3
+795,Pietà,35.8833,14.4833,Malta,Malta International Airport,Luqa,4.3
+796,Balzan,35.8975,14.4533,Malta,Malta International Airport,Luqa,4.3
+797,Pembroke,35.9264,14.4808,Malta,Malta International Airport,Luqa,4.3
+798,Imġarr,35.9197,14.3664,Malta,Malta International Airport,Luqa,4.3
+799,Dingli,35.8603,14.3814,Malta,Malta International Airport,Luqa,4.3
+800,Marsaxlokk,35.8417,14.5447,Malta,Malta International Airport,Luqa,4.3
+801,Imqabba,35.8442,14.4669,Malta,,,
+802,Xewkija,36.0331,14.2583,Malta,Malta International Airport,Luqa,4.3
+803,Għajnsielem,36.0269,14.2903,Malta,Malta International Airport,Luqa,4.3
+804,Iklin,35.9042,14.4544,Malta,,,
+805,Lija,35.9014,14.4472,Malta,,,
+806,Kalkara,35.8892,14.5294,Malta,Malta International Airport,Luqa,4.3
+807,Gudja,35.8483,14.5025,Malta,Malta International Airport,Luqa,4.3
+808,Senglea,35.8878,14.5169,Malta,Malta International Airport,Luqa,4.3
+809,Għargħur,35.9241,14.4534,Malta,Malta International Airport,Luqa,4.3
+810,Qrendi,35.8342,14.4589,Malta,Malta International Airport,Luqa,4.3
+811,Mexico City,19.4333,-99.1333,Mexico,Mexico City International Airport,"Av. Capitán Carlos León S/N, Peñón de los Baños, Ciudad de México",4.3
+812,Guadalajara,20.6767,-103.3475,Mexico,Miguel Hidalgo y Costilla International Airport,Carr. Guadalajara - Chapala Km 17.5,4.4
+813,Tijuana,32.525,-117.0333,Mexico,San Diego International Airport,"3225 N Harbor Dr, San Diego",4.3
+814,Ecatepec,19.6097,-99.06,Mexico,Mexico City International Airport,"Av. Capitán Carlos León S/N, Peñón de los Baños, Ciudad de México",4.3
+815,León de los Aldama,21.1167,-101.6833,Mexico,Guanajuato International Airport,"Silao - Leon Km 5.5, Col. Nuevo México, Silao",4.4
+816,Puebla,19.0333,-98.1833,Mexico,Puebla International Airport (PBC),"Carr Federal México-Puebla Km 91.5, Huejotzingo",4.3
+817,Zapopan,20.7167,-103.4,Mexico,Miguel Hidalgo y Costilla International Airport,Carr. Guadalajara - Chapala Km 17.5,4.4
+818,Juárez,31.7386,-106.48700000000001,Mexico,El Paso International Airport,"6701 Convair Rd, El Paso",4.5
+819,Monterrey,25.6667,-100.3,Mexico,Monterrey International Airport,"Carr. Miguel Alemán Km 24, Cd Apodaca",4.4
+820,Ciudad Nezahualcóyotl,19.41,-99.03,Mexico,Mexico City International Airport,"Av. Capitán Carlos León S/N, Peñón de los Baños, Ciudad de México",4.3
+821,Nezahualcóyotl,19.4,-98.9889,Mexico,Mexico City International Airport,"Av. Capitán Carlos León S/N, Peñón de los Baños, Ciudad de México",4.3
+822,Mexicali,32.6633,-115.4678,Mexico,Calexico International Airport,"801 W 2nd St, Calexico",4.1
+823,Villahermosa,17.9892,-92.9281,Mexico,Carlos Rovirosa Pérez International Airport,"Ej. 2 Montes, Villahermosa",4.5
+824,Morelia,19.7683,-101.1894,Mexico,General Francisco Mujica International Airport,"Km. 27 Carretera Morelia-Zinapécuaro, Álvaro Obregón",4.2
+825,Aguascalientes,21.875999999999998,-102.296,Mexico,Aguascalientes International Airport,"Carr. Panamericana Km. 22, Buenavista de Peñuelas",4.3
+826,Naucalpan de Juárez,19.4753,-99.2378,Mexico,Mexico City International Airport,"Av. Capitán Carlos León S/N, Peñón de los Baños, Ciudad de México",4.3
+827,Mérida,20.97,-89.62,Mexico,Mérida International Airport,Mérida,4.5
+828,Cancún,21.1606,-86.8475,Mexico,Cancun International Airport,"Cancun - Chetumal Km 22, Cancún",4.2
+829,Chihuahua,28.6353,-106.0889,Mexico,Aeropuerto Internacional de Chihuahua General Roberto Fierro Villalobos,"Blvd. Juan Pablo II 14, Chihuahua",4.4
+830,Saltillo,25.4333,-101.0,Mexico,"Aeropuerto Internacional de Saltillo ""Plan de Guadalupe""","Carr. Monterrey - Saltillo, Aeropuerto Internacional Plan de Guadalupe, Ramos Arizpe",4.5
+831,Hermosillo,29.0989,-110.9542,Mexico,Hermosillo Airport,"Carr. Hermosillo Bahía Kino, Aeropuerto, Hermosillo",4.4
+832,Culiacán,24.8069,-107.3939,Mexico,Aeropuerto Internacional de Culiacán,"Carr. A Navolato, Aeropuerto Culiacan, Bachigualato, Culiacán Rosales",4.5
+833,Querétaro,20.5875,-100.3928,Mexico,Aeropuerto Internacional de Querétaro,"Carretera Estatal 200 Lote 22500, Tequisquiapan",4.3
+834,San Luis Potosí,22.1511,-100.9761,Mexico,San Luis Potosí International Airport,"Carr. a Matehuala Km 9.5, San Luis",4.2
+835,Tlajomulco de Zúñiga,20.4736,-103.4431,Mexico,Miguel Hidalgo y Costilla International Airport,Carr. Guadalajara - Chapala Km 17.5,4.4
+836,Torreón,25.5394,-103.4486,Mexico,Aeropuerto Internacional de Torreon,"Calle Carr. a San Pedro, Ejido Amp Allende, Torreón",4.4
+837,Guadalupe,25.6775,-100.2597,Mexico,Monterrey International Airport,"Carr. Miguel Alemán Km 24, Cd Apodaca",4.4
+838,Acapulco de Juárez,16.8636,-99.8825,Mexico,Acapulco International Airport,"Blvd. de las Naciones s/n, Plan de Los Amates, Acapulco de Juárez",4.4
+839,Tlaquepaque,20.6167,-103.3167,Mexico,Miguel Hidalgo y Costilla International Airport,Carr. Guadalajara - Chapala Km 17.5,4.4
+840,Mazatlán,23.2167,-106.4167,Mexico,Mazatlán International Airport,"Carretera Internacional al Sur S/N, Mazatlán",4.4
+841,Durango,24.0167,-104.6667,Mexico,Durango International Airport,Carretera Miguel Alemán 15.5,4.2
+842,Tlalnepantla,19.5367,-99.1947,Mexico,Mexico City International Airport,"Av. Capitán Carlos León S/N, Peñón de los Baños, Ciudad de México",4.3
+843,Chimalhuacán,19.4167,-98.9,Mexico,Mexico City International Airport,"Av. Capitán Carlos León S/N, Peñón de los Baños, Ciudad de México",4.3
+844,Tuxtla,16.7528,-93.1167,Mexico,Ángel Albino Corzo International Airport,"Km 12.48, Tramo Carretero Vergel Aeropuerto S/N, Francisco Sarabia",4.4
+845,Irapuato,20.6667,-101.35,Mexico,Guanajuato International Airport,"Silao - Leon Km 5.5, Col. Nuevo México, Silao",4.4
+846,Reynosa,26.0922,-98.2778,Mexico,South Texas International Airport At Edinburg,"1300 E Farm to Market Rd 490, Edinburg",4.6
+847,Tonalá,20.6167,-103.2333,Mexico,Miguel Hidalgo y Costilla International Airport,Carr. Guadalajara - Chapala Km 17.5,4.4
+848,Ensenada,31.8578,-116.6058,Mexico,Baja Avionics Electrónica,"Juan de La Barrera 5, El Cipres, Ensenada",5.0
+849,Heroica Matamoros,25.8797,-97.5042,Mexico,Aeropuerto Internacional General Servando Canales de Matamoros (MAM),"Frontera, Villa Hermosa, Heroica Matamoros",4.1
+850,Ciudad Apodaca,25.7833,-100.1833,Mexico,Monterrey International Airport,"Carr. Miguel Alemán Km 24, Cd Apodaca",4.4
+851,Tultitlán de Mariano Escobedo,19.645,-99.1694,Mexico,Mexico City International Airport,"Av. Capitán Carlos León S/N, Peñón de los Baños, Ciudad de México",4.3
+852,Ixtapaluca,19.3186,-98.8822,Mexico,Mexico City International Airport,"Av. Capitán Carlos León S/N, Peñón de los Baños, Ciudad de México",4.3
+853,Celaya,20.5222,-100.8122,Mexico,Aeródromo de Celaya,"Carretera Libre Celaya a Salamanca Km 6.5, Celaya",4.4
+854,Los Mochis,25.7835,-108.9937,Mexico,Los Mochis International Airport,"Carretera Los Mochis Topolobampo Km 12.5, Los Mochis",4.4
+855,Ciudad López Mateos,19.55,-99.2833,Mexico,Mexico City International Airport,"Av. Capitán Carlos León S/N, Peñón de los Baños, Ciudad de México",4.3
+856,San Nicolás de los Garza,25.75,-100.2833,Mexico,Monterrey International Airport,"Carr. Miguel Alemán Km 24, Cd Apodaca",4.4
+857,Veracruz,19.1903,-96.1533,Mexico,Veracruz International Airport,"Carr. Veracruz-Xalapa Km 13.5, Veracruz",4.5
+858,Xalapa,19.54,-96.9275,Mexico,viva aerobus,"91050, Manuel Herrera, Xalapa-Enríquez",1.0
+859,Nuevo Laredo,27.4861,-99.5069,Mexico,Laredo International Airport,"5210 Bob Bullock Loop, Laredo",4.3
+860,Tecámac,19.7131,-98.9683,Mexico,Mexico City International Airport,"Av. Capitán Carlos León S/N, Peñón de los Baños, Ciudad de México",4.3
+861,Amsterdam,52.3667,4.8833,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+862,Rotterdam,51.9225,4.4792,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+863,The Hague,52.08,4.31,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+864,Utrecht,52.0889,5.1156,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+865,Eindhoven,51.4344,5.4842,Netherlands,Eindhoven Airport,"Luchthavenweg 25, Eindhoven",3.7
+866,Tilburg,51.57,5.07,Netherlands,,,
+867,Almere,52.3758,5.2256,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+868,Groningen,53.2167,6.5667,Netherlands,Groningen Airport Eelde,"Machlaan 14A, Eelde",4.2
+869,Breda,51.5875,4.775,Netherlands,,,
+870,Nijmegen,51.8475,5.8625,Netherlands,Teuge Airport,"De Zanden 103, Teuge",4.6
+871,Haarlem,52.3803,4.6406,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+872,Apeldoorn,52.21,5.97,Netherlands,Teuge Airport,"De Zanden 103, Teuge",4.6
+873,Enschede,52.2236,6.8956,Netherlands,Stadtlohn-Vreden Airport,"Wenningfeld 41, Stadtlohn",4.5
+874,Amersfoort,52.15,5.38,Netherlands,,,
+875,Hoofddorp,52.3008,4.6653,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+876,Zaanstad,52.4697,4.7767,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+877,Arnhem,51.9833,5.9167,Netherlands,,,
+878,’s-Hertogenbosch,51.6833,5.3167,Netherlands,Eindhoven Airport,"Luchthavenweg 25, Eindhoven",3.7
+879,Zoetermeer,52.0611,4.4933,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+880,Zwolle,52.5167,6.1,Netherlands,Teuge Airport,"De Zanden 103, Teuge",4.6
+881,Leiden,52.1544,4.4947,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+882,Maastricht,50.8667,5.6833,Netherlands,Maastricht Aachen Airport B.V.,"Horsterweg 5, Maastricht Airport",4.1
+883,Dordrecht,51.81,4.67,Netherlands,Eindhoven Airport,"Luchthavenweg 25, Eindhoven",3.7
+884,Alphen aan den Rijn,52.1333,4.65,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+885,Alkmaar,52.6289,4.744,Netherlands,,,
+886,Emmen,52.7833,6.9,Netherlands,Groningen Airport Eelde,"Machlaan 14A, Eelde",4.2
+887,Delft,52.0119,4.3594,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+888,Deventer,52.25,6.2,Netherlands,Teuge Airport,"De Zanden 103, Teuge",4.6
+889,Amstelveen,52.3019,4.8581,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+890,Helmond,51.4797,5.6556,Netherlands,Eindhoven Airport,"Luchthavenweg 25, Eindhoven",3.7
+891,Oss,51.7667,5.5167,Netherlands,Eindhoven Airport,"Luchthavenweg 25, Eindhoven",3.7
+892,Hilversum,52.23,5.18,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+893,Heerlen,50.8833,5.9833,Netherlands,,,
+894,Hengelo,52.2656,6.7931,Netherlands,Stadtlohn-Vreden Airport,"Wenningfeld 41, Stadtlohn",4.5
+895,Purmerend,52.505,4.9639,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+896,Schiedam,51.9167,4.4,Netherlands,,,
+897,Lelystad,52.5167,5.4833,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+898,Roosendaal,51.5314,4.4556,Netherlands,Antwerp International Airport,"Luchthavenlei, Antwerpen",4.3
+899,Hoorn,52.6533,5.0733,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+900,Spijkenisse,51.8333,4.3167,Netherlands,Breda International Airport,"Pastoor van Breugelstraat 93, Bosschenhoofd",4.3
+901,Ede,52.0436,5.6667,Netherlands,Teuge Airport,"De Zanden 103, Teuge",4.6
+902,Almelo,52.3575,6.6667,Netherlands,Teuge Airport,"De Zanden 103, Teuge",4.6
+903,Vlaardingen,51.9167,4.35,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+904,Gouda,52.0181,4.7056,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+905,Zaandam,52.4417,4.8422,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+906,Velsen-Zuid,52.4667,4.6167,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+907,Assen,53.0,6.55,Netherlands,Groningen Airport Eelde,"Machlaan 14A, Eelde",4.2
+908,Bergen op Zoom,51.5,4.3,Netherlands,Antwerp International Airport,"Luchthavenlei, Antwerpen",4.3
+909,Capelle aan den IJssel,51.9357,4.5782,Netherlands,Amsterdam Airport Schiphol,"Evert van de Beekstraat 202, Schiphol",4.0
+910,Veenendaal,52.025,5.555,Netherlands,Teuge Airport,"De Zanden 103, Teuge",4.6
+911,Auckland,-36.85,174.7833,New Zealand,Auckland Airport,"Ray Emery Dr, Māngere, Auckland",3.9
+912,Wellington,-41.2889,174.7772,New Zealand,Wellington International Airport,"Stewart Duff Dr, Rongotai, Wellington",4.4
+913,Christchurch,-43.5309,172.6365,New Zealand,Christchurch International Airport,"30 Durey Rd, Harewood, Christchurch",4.3
+914,Manukau City,-37.0,174.885,New Zealand,Auckland Airport,"Ray Emery Dr, Māngere, Auckland",3.9
+915,Waitakere,-36.849000000000004,174.543,New Zealand,Auckland Airport,"Ray Emery Dr, Māngere, Auckland",3.9
+916,Northcote,-36.7913,174.7758,New Zealand,Auckland Airport,"Ray Emery Dr, Māngere, Auckland",3.9
+917,Hamilton,-37.7833,175.2833,New Zealand,Hamilton Airport,"Airport Rd, RD2, Hamilton",4.2
+918,Tauranga,-37.6858,176.1667,New Zealand,Rotorua Regional Airport,"837 Te Ngae Rd, Ōwhata, Rotorua",4.4
+919,Lower Hutt,-41.2167,174.9167,New Zealand,Wellington International Airport,"Stewart Duff Dr, Rongotai, Wellington",4.4
+920,Dunedin,-45.8742,170.5036,New Zealand,Dunedin International Airport,"25 Miller Rd, Momona",4.2
+921,Palmerston North,-40.3549,175.6095,New Zealand,,,
+922,Napier,-39.4833,176.9167,New Zealand,Hawke's Bay Airport,"111 Main N Rd, Napier",4.0
+923,Porirua,-41.1333,174.85,New Zealand,Wellington International Airport,"Stewart Duff Dr, Rongotai, Wellington",4.4
+924,Rotorua,-38.1378,176.2514,New Zealand,Rotorua Regional Airport,"837 Te Ngae Rd, Ōwhata, Rotorua",4.4
+925,New Plymouth,-39.0578,174.0742,New Zealand,New Plymouth Airport,"192 Airport Dr, New Plymouth Airport",4.5
+926,Whangarei,-35.725,174.3236,New Zealand,Whangarei Airport,"Handforth St, Onerahi, Whangārei",4.3
+927,Nelson,-41.2931,173.2381,New Zealand,Nelson Airport,"Trent Dr, Nelson",4.4
+928,Invercargill,-46.428999999999995,168.362,New Zealand,Invercargill Airport,"106 Airport Ave, Invercargill",4.3
+929,Upper Hutt,-41.1333,175.05,New Zealand,Wellington International Airport,"Stewart Duff Dr, Rongotai, Wellington",4.4
+930,Whanganui,-39.9333,175.05,New Zealand,Palmerston North Airport,"Airport Dr, Milson, Palmerston North",4.3
+931,Gisborne,-38.6625,178.0178,New Zealand,Gisborne Airport,"Aerodrome Rd, Awapuni, Gisborne",4.5
+932,Paraparaumu,-40.9167,175.0167,New Zealand,Wellington International Airport,"Stewart Duff Dr, Rongotai, Wellington",4.4
+933,Timaru,-44.3931,171.2508,New Zealand,Richard Pearse-Timaru-Levels Airport,"Falvey Rd, Timaru",4.3
+934,Blenheim,-41.5167,173.95,New Zealand,Marlborough Airport Blenheim,"1 Tancred Cres, Woodbourne, Blenheim",4.2
+935,Pukekohe East,-37.195,174.9481,New Zealand,Auckland Airport,"Ray Emery Dr, Māngere, Auckland",3.9
+936,Taupo,-38.69,176.08,New Zealand,Taupo Airport,"1105 Anzac Memorial Dr, Wharewaka, Taupō",4.5
+937,Masterton,-40.9667,175.65,New Zealand,Hood Aerodrome,"Solway, Masterton",4.8
+938,Cambridge,-37.8833,175.4667,New Zealand,Hamilton Airport,"Airport Rd, RD2, Hamilton",4.2
+939,Ashton,-44.033,171.77200000000002,New Zealand,Richard Pearse-Timaru-Levels Airport,"Falvey Rd, Timaru",4.3
+940,Levin,-40.625,175.2833,New Zealand,Palmerston North Airport,"Airport Dr, Milson, Palmerston North",4.3
+941,Macetown,-44.865,168.81900000000002,New Zealand,Queenstown Airport,"Sir Henry Wigley Dr, Frankton, Queenstown",4.2
+942,Rolleston,-43.596000000000004,172.38299999999998,New Zealand,Christchurch International Airport,"30 Durey Rd, Harewood, Christchurch",4.3
+943,Feilding,-40.225,175.565,New Zealand,,,
+944,Whakatane,-37.964,176.984,New Zealand,,,
+945,Richmond,-41.3333,173.1833,New Zealand,Nelson Airport,"Trent Dr, Nelson",4.4
+946,Havelock North,-39.6667,176.8833,New Zealand,,,
+947,Tokoroa,-38.22,175.872,New Zealand,Hamilton Airport,"Airport Rd, RD2, Hamilton",4.2
+948,Mosgiel,-45.875,170.34799999999998,New Zealand,Dunedin International Airport,"25 Miller Rd, Momona",4.2
+949,Te Awamutu,-38.0083,175.325,New Zealand,Hamilton Airport,"Airport Rd, RD2, Hamilton",4.2
+950,Waikanae,-40.876,175.06400000000002,New Zealand,Wellington International Airport,"Stewart Duff Dr, Rongotai, Wellington",4.4
+951,Hawera,-39.5833,174.2833,New Zealand,Hawera Aero Club,Hāwera,5.0
+952,Glencoe,-46.192,168.646,New Zealand,Invercargill Airport,"106 Airport Ave, Invercargill",4.3
+953,Waiuku,-37.25,174.7333,New Zealand,Auckland Airport,"Ray Emery Dr, Māngere, Auckland",3.9
+954,Wanaka,-44.7081,169.1239,New Zealand,Queenstown Airport,"Sir Henry Wigley Dr, Frankton, Queenstown",4.2
+955,Te Puke,-37.7833,176.3167,New Zealand,Rotorua Regional Airport,"837 Te Ngae Rd, Ōwhata, Rotorua",4.4
+956,Greymouth,-42.4667,171.2,New Zealand,,,
+957,Matamata,-37.8097,175.7733,New Zealand,Hamilton Airport,"Airport Rd, RD2, Hamilton",4.2
+958,Thames,-37.1383,175.5375,New Zealand,Whitiangā Airfield,Whitianga,4.7
+959,Kawerau,-38.0847,176.6996,New Zealand,,,
+960,Kerikeri,-35.2244,173.9514,New Zealand,,,
+961,Oslo,59.9111,10.7528,Norway,Oslo Airport,"Edvard Munchs veg, Gardermoen",4.2
+962,Bergen,60.3925,5.3233,Norway,Bergen Airport,"Flyplassvegen 555, Bergen",4.2
+963,Trondheim,63.44,10.4,Norway,Ørland Airport,"Djupdalsveien 155, Brekstad",4.1
+964,Stavanger,58.9701,5.7333,Norway,Stavanger Airport,"Flyplassvegen 230, Sola",4.3
+965,Kristiansand,58.1467,7.9956,Norway,Kristiansand Airport,Kjevik,3.9
+966,Drammen,59.7439,10.2045,Norway,Oslo Lufthavn Fornebu,"Martin Linges vei 25, Fornebu",4.2
+967,Fredrikstad,59.2167,10.95,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+968,Sandefjord,59.1288,10.2197,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+969,Asker,59.8331,10.4392,Norway,Oslo Airport,"Edvard Munchs veg, Gardermoen",4.2
+970,Nordre Fåle,59.75,10.8667,Norway,Oslo Airport,"Edvard Munchs veg, Gardermoen",4.2
+971,Sandnes,58.85,5.7333,Norway,Stavanger Airport,"Flyplassvegen 230, Sola",4.3
+972,Tønsberg,59.2981,10.4236,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+973,Skien,59.2081,9.5528,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+974,Sarpsborg,59.2839,11.1096,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+975,Bodø,67.2833,14.3833,Norway,Bodø Airport,"Olav V gate, Bodø",4.1
+976,Ålesund,62.4723,6.1549,Norway,"Ålesund Airport, Vigra",Vigra,4.1
+977,Moss,59.434,10.6577,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+978,Arendal,58.4667,8.7667,Norway,Kristiansand Airport,Kjevik,3.9
+979,Lørenskog,59.8989,10.9642,Norway,Oslo Airport,"Edvard Munchs veg, Gardermoen",4.2
+980,Tromsø,69.6546,18.9637,Norway,Tromsø Airport,"Flyplassvegen 31, Tromsø",3.9
+981,Haugesund,59.4102,5.2755,Norway,"Haugesund Airport, Karmøy","Helganesvegen 350, Avaldsnes",3.9
+982,Porsgrunn,59.1419,9.6568,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+983,Ringsaker,61.0242,10.8019,Norway,Dokka Airport,Dokka,4.2
+984,Molde,62.7333,7.1833,Norway,Molde Airport,"Molde lufthavn, Årø, Molde",3.8
+985,Halden,59.1264,11.4828,Norway,Strömstad-Näsinge flygplats,"Flygplats 1, Strömstad",4.5
+986,Ski,59.7419,10.8939,Norway,Oslo Lufthavn Fornebu,"Martin Linges vei 25, Fornebu",4.2
+987,Askøy,60.4667,5.15,Norway,Bergen Airport,"Flyplassvegen 555, Bergen",4.2
+988,Lillehammer,61.1146,10.4674,Norway,Dokka Airport,Dokka,4.2
+989,Hamar,60.7944,11.0678,Norway,Hamar Airport,"Stafsbergveien, Hamar Flyplass, Hamar",4.6
+990,Kongsberg,59.665,9.6464,Norway,Tønsberg Airport,Sem,4.7
+991,Sola,58.88,5.6286,Norway,Stavanger Airport,"Flyplassvegen 230, Sola",4.3
+992,Oppegård,59.7925,10.7903,Norway,Oslo Airport,"Edvard Munchs veg, Gardermoen",4.2
+993,Lier,59.8675,10.2142,Norway,Oslo Airport,"Edvard Munchs veg, Gardermoen",4.2
+994,Eidsvoll,60.3475,11.2508,Norway,Oslo Airport,"Edvard Munchs veg, Gardermoen",4.2
+995,Nedre Eiker,59.7647,10.0333,Norway,Oslo Lufthavn Fornebu,"Martin Linges vei 25, Fornebu",4.2
+996,Sand,59.1344,10.2283,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+997,Harstad,68.7988,16.5393,Norway,Harstad/Narvik Airport (EVE),"Harstad/Narvik lufthavn, Evenes",3.8
+998,Larvik,59.0532,10.0271,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+999,Nittedal,60.0731,10.8722,Norway,Oslo Airport,"Edvard Munchs veg, Gardermoen",4.2
+1000,Stjørdal,63.475,11.1708,Norway,"Trondheim Airport, Værnes",Stjørdal,4.2
+1001,Borre,59.3799,10.4539,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+1002,Røyken,59.7336,10.4289,Norway,Oslo Lufthavn Fornebu,"Martin Linges vei 25, Fornebu",4.2
+1003,Sem,59.28,10.3308,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+1004,Nøtterøy,59.2011,10.4078,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+1005,Elverum,60.8833,11.5667,Norway,Hamar Airport,"Stafsbergveien, Hamar Flyplass, Hamar",4.6
+1006,Stange,60.6494,11.3664,Norway,Oslo Airport,"Edvard Munchs veg, Gardermoen",4.2
+1007,Gjøvik,60.7957,10.6916,Norway,Dokka Airport,Dokka,4.2
+1008,Horten,59.4172,10.4834,Norway,Torp Sandefjord Airport,"Torpveien 130, Sandefjord",4.3
+1009,Ås,59.6603,10.7836,Norway,Oslo Lufthavn Fornebu,"Martin Linges vei 25, Fornebu",4.2
+1010,Kleppe,58.7772,5.5967,Norway,Stavanger Airport,"Flyplassvegen 230, Sola",4.3
+1011,Panama City,9.0,-79.5,Panama,Tocumen International Airport Panama,"Av. Domingo Díaz, Panamá",4.0
+1012,San Miguelito,9.033,-79.5,Panama,,,
+1013,Colón,9.365,-79.875,Panama,Aeropuerto Internacional Panama Pacifico (BLB),Av. Mulvehill,3.5
+1014,David,8.4333,-82.4333,Panama,Enrique Malek International Airport (DAV),"9HR9+HCJ, C. Enrique Malek, David",4.4
+1015,La Chorrera,8.8792,-79.7822,Panama,Tocumen International Airport Panama,"Av. Domingo Díaz, Panamá",4.0
+1016,Balboa Heights,8.95,-79.5667,Panama,Tocumen International Airport Panama,"Av. Domingo Díaz, Panamá",4.0
+1017,Pacora,9.08,-79.28,Panama,Tocumen International Airport Panama,"Av. Domingo Díaz, Panamá",4.0
+1018,Chitré,7.9667,-80.4333,Panama,,,
+1019,Santiago,8.1004,-80.9833,Panama,Ruben Cantu Airport,"33P3+6VQ, Santiago",4.3
+1020,Penonomé,8.51,-80.36,Panama,Scarlett Martinez International Airport (RIH),"9VP9+6GW, Rio Hato",4.1
+1021,Puerto Armuelles,8.2777,-82.8621,Panama,Enrique Malek International Airport (DAV),"9HR9+HCJ, C. Enrique Malek, David",4.4
+1022,Bocas del Toro,9.3403,-82.242,Panama,Changuinola-Captain Manuel Niño International Airport (CHX),"FF4M+465, Changuinola",4.4
+1023,Las Tablas,7.7604,-80.28,Panama,Aeropuerto Cap. Justiniano Montenegro,"HX4H+524, Purio",3.7
+1024,Guararé,7.7667,-80.2833,Panama,,,
+1025,Guabito,9.4949,-82.6117,Panama,Bocas del Toro Isla Colón José E. Hall International Airport,"Ave. E Bocas del Toro PA, 507",3.9
+1026,Almirante,9.3,-82.4,Panama,Changuinola-Captain Manuel Niño International Airport (CHX),"FF4M+465, Changuinola",4.4
+1027,La Palma,8.3982,-78.1402,Panama,Aeropuerto De El Real,"475F+862, El Real",3.5
+1028,Jaqué,7.519,-78.166,Panama,Juradó Airport,Juradó,4.0
+1029,Gaigirgordub,9.5583,-78.9483,Panama,Corazón de Jesús Airport,"CCWF+QQ4, Tupile",5.0
+1030,Buabidi,8.4746,-81.6983,Panama,,,
+1031,Sieyik,9.3832,-82.6521,Panama,Bocas del Toro Isla Colón José E. Hall International Airport,"Ave. E Bocas del Toro PA, 507",3.9
+1032,Unión Chocó,8.0778,-77.5583,Panama,Aeropuerto De El Real,"475F+862, El Real",3.5
+1033,Warsaw,52.23,21.0111,Poland,Warsaw Chopin Airport,"Żwirki i Wigury, Warszawa",4.1
+1034,Kraków,50.0614,19.9372,Poland,John Paul II Kraków-Balice International Airport,"Kapitana Mieczysława Medweckiego 1, Balice",4.0
+1035,Łódź,51.7769,19.4547,Poland,Lodz Airport,"Maczka 35, Łódź",3.8
+1036,Wrocław,51.11,17.0325,Poland,Wrocław Nicolaus Copernicus Airport,"Graniczna 190, Wrocław",4.4
+1037,Poznań,52.4083,16.9336,Poland,Poznań Airport,"Bukowska 285, Poznań",3.8
+1038,Gdańsk,54.3667,18.6333,Poland,Gdansk Lech Walesa Airport,"ul. Juliusza Słowackiego 200, Gdańsk",4.3
+1039,Szczecin,53.4247,14.5553,Poland,Lotnisko Szczecin-Dąbie,"Przestrzenna 10, Szczecin",4.7
+1040,Bydgoszcz,53.1167,18.0,Poland,Toruń Airport,Toruń,4.8
+1041,Lublin,51.2333,22.5667,Poland,Lublin Airport,"Króla, Jana III Sobieskiego 1, Świdnik",4.1
+1042,Białystok,53.1167,23.1667,Poland,Aeroklub Bialystok Krywlany,"Konstantego Ciołkowskiego 2, Białystok",4.2
+1043,Katowice,50.25,19.0,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1044,Gdynia,54.5189,18.5319,Poland,Gdansk Lech Walesa Airport,"ul. Juliusza Słowackiego 200, Gdańsk",4.3
+1045,Częstochowa,50.8096,19.1222,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1046,Radom,51.4036,21.1567,Poland,Port Lotniczy Warszawa-Radom im. Bohaterów Radomskiego Czerwca 1976,"Lubelska 158, Radom",3.6
+1047,Toruń,53.0167,18.6167,Poland,Toruń Airport,Toruń,4.8
+1048,Sosnowiec,50.3,19.1667,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1049,Kielce,50.8725,20.6319,Poland,Aeroklub Kielecki,"Jana Pawła II 9, Masłów Pierwszy",4.7
+1050,Rzeszów,50.05,22.0,Poland,Rzeszów-Jasionka Airport,"Jasionka 942, Jasionka",4.4
+1051,Gliwice,50.3011,18.6498,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1052,Zabrze,50.3,18.7833,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1053,Olsztyn,53.78,20.4942,Poland,Port Lotniczy Olsztyn Mazury,Szymany 150,4.1
+1054,Bielsko-Biała,49.8225,19.0444,Poland,Katowice-Muchowiec Airport,"Lotnisko 1, Katowice",4.3
+1055,Bytom,50.347,18.923,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1056,Rybnik,50.0833,18.5,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1057,Ruda Śląska,50.2701,18.8742,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1058,Zielona Góra,51.9397,15.505,Poland,,,
+1059,Tychy,50.1667,19.0,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1060,Opole,50.6722,17.9253,Poland,Opole Airport,"Lotnicza 5-7, Kamień Śląski",4.7
+1061,Gorzów Wielkopolski,52.7333,15.25,Poland,,,
+1062,Dąbrowa Górnicza,50.3239,19.1947,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1063,Płock,52.55,19.7,Poland,Aeroklub Włocławski im. Stanisława Skarżyńskiego,"Lotnisko, Szybowcowa 3, Kruszyn",4.7
+1064,Elbląg,54.1667,19.4,Poland,,,
+1065,Wałbrzych,50.7667,16.2833,Poland,Wrocław Nicolaus Copernicus Airport,"Graniczna 190, Wrocław",4.4
+1066,Tarnów,50.0125,20.9883,Poland,Lądowisko Kazimierza Mała,Gmina,4.8
+1067,Koszalin,54.1903,16.1817,Poland,,,
+1068,Chorzów,50.3,18.95,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1069,Kalisz,51.757,18.083,Poland,,,
+1070,Legnica,51.2101,16.1619,Poland,Wrocław Nicolaus Copernicus Airport,"Graniczna 190, Wrocław",4.4
+1071,Włocławek,52.65,19.05,Poland,Toruń Airport,Toruń,4.8
+1072,Grudziądz,53.4875,18.755,Poland,,,
+1073,Jaworzno,50.2,19.275,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1074,Jelenia Góra,50.9,15.7333,Poland,Broumov airport,"Letiště, Broumov",4.9
+1075,Siedlce,52.1833,22.2833,Poland,,,
+1076,Mysłowice,50.2333,19.1333,Poland,Katowice Airport,"Wolności 90, Ożarowice",3.5
+1077,Piotrków Trybunalski,51.4,19.6833,Poland,Lodz Airport,"Maczka 35, Łódź",3.8
+1078,Konin,52.2275,18.2614,Poland,,,
+1079,Inowrocław,52.7958,18.2611,Poland,Toruń Airport,Toruń,4.8
+1080,Ostrowiec Świętokrzyski,50.9333,21.4,Poland,Aeroklub Kielecki,"Jana Pawła II 9, Masłów Pierwszy",4.7
+1081,Suwałki,54.0833,22.9333,Poland,Lądowisko Makosieje EPEK,,
+1082,Gniezno,52.5333,17.6,Poland,Aero Club of Poznan Kobylnica,Lotnisko Kobylnica,4.2
+1083,Doha,25.3,51.5333,Qatar,Hamad International Airport,"7J67+9G4, Doha",4.6
+1084,Al Wakrah,25.18,51.61,Qatar,Hamad International Airport,"7J67+9G4, Doha",4.6
+1085,Ar Rayyān,25.2919,51.4244,Qatar,Hamad International Airport,"7J67+9G4, Doha",4.6
+1086,Al Khawr,25.6839,51.5058,Qatar,Hamad International Airport,"7J67+9G4, Doha",4.6
+1087,Umm Şalāl ‘Alī,25.4697,51.3975,Qatar,Hamad International Airport,"7J67+9G4, Doha",4.6
+1088,Ash Shīḩānīyah,25.3722,51.2047,Qatar,,,
+1089,Az̧ Z̧a‘āyin,25.5669,51.4847,Qatar,Hamad International Airport,"7J67+9G4, Doha",4.6
+1090,Madīnat ash Shamāl,26.14,51.22,Qatar,Umm Al-Shokhot Airfield,P927+G79، الدوحة,4.0
+1091,Riyadh,24.65,46.71,Saudi Arabia,King Khalid International Airport || مطار الملك خالد الدولي Terminal 2 - صالة 2,"Airport Road, Riyadh",4.3
+1092,Jeddah,21.5428,39.1728,Saudi Arabia,King Abdulaziz International Airport,Albwadi naer airport,4.3
+1093,Mecca,21.4225,39.8261,Saudi Arabia,Makkah Private Airport,"CXRW+8P6, Arafat Ash Sharaiyaa Rd, مكة",4.0
+1094,Medina,24.4667,39.6,Saudi Arabia,Prince Mohammed Bin Abdulaziz International Airport,"HP37+QR, Medina",4.5
+1095,Ad Dammām,26.4333,50.1,Saudi Arabia,King Fahd International Airport,"King Fahd Road, Dammam",4.4
+1096,Al Hufūf,25.3608,49.5997,Saudi Arabia,Al-Ahsa Airport,"7FVP+RW, Al Hofuf",3.8
+1097,Al Ḩillah,23.4895,46.7564,Saudi Arabia,,,
+1098,Aţ Ţā’if,21.2667,40.4167,Saudi Arabia,Taif International Airport,Taif,3.9
+1099,Tabūk,28.3838,36.555,Saudi Arabia,Prince Sultan Bin Abdulaziz International Airport,"الدولي, الامير سلطان بن عبدالعزيز، Tabuk",4.3
+1100,Buraydah,26.3333,43.9667,Saudi Arabia,Prince Nayef Bin Abdulaziz International Airport,المليداء,4.0
+1101,Ḩā’il,27.5236,41.7001,Saudi Arabia,Hail International Airport,Hail,4.1
+1102,Al Qaţīf,26.5196,50.0115,Saudi Arabia,King Fahd International Airport,"King Fahd Road, Dammam",4.4
+1103,Al Mubarraz,25.4416,49.6642,Saudi Arabia,Al-Ahsa Airport,"7FVP+RW, Al Hofuf",3.8
+1104,Al Kharj,24.1556,47.312,Saudi Arabia,,,
+1105,Yanbu‘,24.0943,38.0493,Saudi Arabia,مطار الأمير عبد المحسن بن عبد العزيز|Prince Abdul Mohsin Bin Abdulaziz international Airport,Yanbu,4.2
+1106,Ḩafr al Bāţin,28.4337,45.9601,Saudi Arabia,,,
+1107,Al Jubayl,27.0046,49.646,Saudi Arabia,Jubail Naval Airport,"29WX+297, Al Jubail",4.0
+1108,Abhā,18.2167,42.5,Saudi Arabia,Abha International Airport,"6MM5+W3, Abha",3.8
+1109,Al Khubar,26.3,50.2167,Saudi Arabia,King Fahd International Airport,"King Fahd Road, Dammam",4.4
+1110,Sakākā,30.0,40.1333,Saudi Arabia,,,
+1111,Jāzān,16.8892,42.5611,Saudi Arabia,,,
+1112,Khamīs Mushayţ,18.3,42.7333,Saudi Arabia,Abha International Airport,"6MM5+W3, Abha",3.8
+1113,Qal‘at Bīshah,20.0087,42.5987,Saudi Arabia,,,
+1114,Najrān,17.4917,44.1322,Saudi Arabia,Najran Regional Airport,JC89+XR7,4.5
+1115,Rafḩā,29.6202,43.4948,Saudi Arabia,,,
+1116,Al Wajh,26.2324,36.4636,Saudi Arabia,Al Wajh Domestic Airport,"6F4F+XW، 8392 - 3127, Al Wajh",4.0
+1117,Dhahran,26.2667,50.15,Saudi Arabia,King Fahd International Airport,"King Fahd Road, Dammam",4.4
+1118,Arar,30.9833,41.0167,Saudi Arabia,Arar Domestic Airport,"W43P+7W, Arar",4.2
+1119,As Sulayyil,20.4623,45.5722,Saudi Arabia,Wadi Al Dawasir Airport,"7HG7G52X+9C, Wadi ad-Dawasir",3.8
+1120,Dawmat al Jandal,29.8153,39.8664,Saudi Arabia,Al Jouf Domestic Airport,"Q4Q2+CR, Sakaka",4.0
+1121,Al Bāḩah,20.0129,41.4677,Saudi Arabia,King Saud Bin Abdulaziz Airport,Al Aqiq,3.8
+1122,Ad Dir‘īyah,24.7333,46.5756,Saudi Arabia,King Khalid International Airport || مطار الملك خالد الدولي Terminal 2 - صالة 2,"Airport Road, Riyadh",4.3
+1123,Al Ḩawīyah,21.4411,40.4975,Saudi Arabia,Taif International Airport,Taif,3.9
+1124,Al Majma‘ah,25.9039,45.3456,Saudi Arabia,,,
+1125,Ḑurumā,24.6173,46.2256,Saudi Arabia,King Khalid International Airport || مطار الملك خالد الدولي Terminal 2 - صالة 2,"Airport Road, Riyadh",4.3
+1126,Al Qurayyāt,31.3333,37.3333,Saudi Arabia,Gurayat Domestic Airport,"C75G+X3, Al Qurayyat",3.9
+1127,Al Quway‘īyah,24.0737,45.2806,Saudi Arabia,,,
+1128,Laylá,22.2833,46.7333,Saudi Arabia,,,
+1129,Turabah,21.2142,41.6331,Saudi Arabia,,,
+1130,Al Qunfudhah,19.1264,41.0789,Saudi Arabia,,,
+1131,Singapore,1.3,103.8,Singapore,Hang Nadim Airport,"Jl. Hang Nadim No.01, Batu Besar, Kota Batam",4.4
+1132,Bratislava,48.1447,17.1128,Slovakia,Vienna International Airport,Schwechat,4.1
+1133,Košice,48.7167,21.25,Slovakia,Košice International Airport,"Letecká 41, Košice",4.0
+1134,Petržalka,48.1333,17.1167,Slovakia,Vienna International Airport,Schwechat,4.1
+1135,Prešov,49.0,21.2333,Slovakia,Košice International Airport,"Letecká 41, Košice",4.0
+1136,Žilina,49.2167,18.7333,Slovakia,"Airport Zilina, Dolny Hricov",Dolný Hričov,4.6
+1137,Banská Bystrica,48.7353,19.1453,Slovakia,Sliač Airport,Sliač,4.4
+1138,Nitra,48.3147,18.0875,Slovakia,Piešťany Airport,"Žilinská cesta 597/81, Piešťany",4.4
+1139,Trnava,48.3777,17.5862,Slovakia,Bratislava Airport,"Ivanská cesta, Bratislava",4.0
+1140,Trenčín,48.8942,18.0406,Slovakia,"Airport Zilina, Dolny Hricov",Dolný Hričov,4.6
+1141,Martin,49.0636,18.9214,Slovakia,"Airport Zilina, Dolny Hricov",Dolný Hričov,4.6
+1142,Poprad,49.05,20.3,Slovakia,Poprad-Tatry Airport,"Na letisko 100, Poprad",4.4
+1143,Prievidza,48.7714,18.6242,Slovakia,Sliač Airport,Sliač,4.4
+1144,Zvolen,48.5831,19.1331,Slovakia,Sliač Airport,Sliač,4.4
+1145,Považská Bystrica,49.1167,18.45,Slovakia,"Airport Zilina, Dolny Hricov",Dolný Hričov,4.6
+1146,Michalovce,48.7575,21.9183,Slovakia,Uzhhorod International Airport,"Sobranets'ka St, 145, Uzhhorod",3.8
+1147,Nové Zámky,47.9831,18.1728,Slovakia,Aeroklub Nové Zámky,"Komárňanská cesta, Nové Zámky",4.4
+1148,Spišská Nová Ves,48.95,20.5667,Slovakia,Košice International Airport,"Letecká 41, Košice",4.0
+1149,Komárno,47.7633,18.1283,Slovakia,Gyor-Per Airport,"Pér, Reptéri u. 1",4.9
+1150,Humenné,48.9306,21.9122,Slovakia,Košice International Airport,"Letecká 41, Košice",4.0
+1151,Liptovský Mikuláš,49.0811,19.6181,Slovakia,Poprad-Tatry Airport,"Na letisko 100, Poprad",4.4
+1152,Bardejov,49.295,21.2758,Slovakia,Pod hruškou,Vranov nad Topľou,0.0
+1153,Levice,48.2136,18.6069,Slovakia,Sliač Airport,Sliač,4.4
+1154,Lučenec,48.3314,19.6708,Slovakia,Sliač Airport,Sliač,4.4
+1155,Piešťany,48.5833,17.8333,Slovakia,Bratislava Airport,"Ivanská cesta, Bratislava",4.0
+1156,Ružomberok,49.0786,19.3083,Slovakia,Sliač Airport,Sliač,4.4
+1157,Topoľčany,48.55,18.1833,Slovakia,Piešťany Airport,"Žilinská cesta 597/81, Piešťany",4.4
+1158,Pezinok,48.2667,17.2667,Slovakia,Bratislava Airport,"Ivanská cesta, Bratislava",4.0
+1159,Trebišov,48.6333,21.7167,Slovakia,Košice International Airport,"Letecká 41, Košice",4.0
+1160,Čadca,49.4386,18.7883,Slovakia,"Airport Zilina, Dolny Hricov",Dolný Hričov,4.6
+1161,Dubnica nad Váhom,48.9575,18.1658,Slovakia,"Airport Zilina, Dolny Hricov",Dolný Hričov,4.6
+1162,Rimavská Sobota,48.3814,20.02,Slovakia,Letisko Rimavská Seč,Zádor,0.0
+1163,Partizánske,48.6333,18.3667,Slovakia,Piešťany Airport,"Žilinská cesta 597/81, Piešťany",4.4
+1164,Dunajská Streda,47.9961,17.6147,Slovakia,Bratislava Airport,"Ivanská cesta, Bratislava",4.0
+1165,Vranov nad Topľou,48.8806,21.6731,Slovakia,Košice International Airport,"Letecká 41, Košice",4.0
+1166,Šaľa,48.15,17.8833,Slovakia,Bratislava Airport,"Ivanská cesta, Bratislava",4.0
+1167,Hlohovec,48.4311,17.8031,Slovakia,Bratislava Airport,"Ivanská cesta, Bratislava",4.0
+1168,Brezno,48.8036,19.6381,Slovakia,Poprad-Tatry Airport,"Na letisko 100, Poprad",4.4
+1169,Senica,48.6806,17.3667,Slovakia,Piešťany Airport,"Žilinská cesta 597/81, Piešťany",4.4
+1170,Senec,48.2189,17.3997,Slovakia,Bratislava Airport,"Ivanská cesta, Bratislava",4.0
+1171,Nové Mesto nad Váhom,48.7833,17.8333,Slovakia,Piešťany Airport,"Žilinská cesta 597/81, Piešťany",4.4
+1172,Snina,48.9881,22.1567,Slovakia,Uzhhorod International Airport,"Sobranets'ka St, 145, Uzhhorod",3.8
+1173,Rožňava,48.6586,20.5314,Slovakia,Poprad-Tatry Airport,"Na letisko 100, Poprad",4.4
+1174,Žiar nad Hronom,48.5919,18.8533,Slovakia,Sliač Airport,Sliač,4.4
+1175,Malacky,48.4381,17.0236,Slovakia,Vienna International Airport,Schwechat,4.1
+1176,Dolný Kubín,49.2117,19.2992,Slovakia,"Airport Zilina, Dolny Hricov",Dolný Hričov,4.6
+1177,Bánovce nad Bebravou,48.7186,18.2581,Slovakia,Piešťany Airport,"Žilinská cesta 597/81, Piešťany",4.4
+1178,Púchov,49.12,18.3306,Slovakia,"Airport Zilina, Dolny Hricov",Dolný Hričov,4.6
+1179,Handlová,48.7272,18.7619,Slovakia,Sliač Airport,Sliač,4.4
+1180,Kežmarok,49.1383,20.4292,Slovakia,Poprad-Tatry Airport,"Na letisko 100, Poprad",4.4
+1181,Stará Ľubovňa,49.3167,20.6833,Slovakia,Poprad-Tatry Airport,"Na letisko 100, Poprad",4.4
+1182,Madrid,40.4167,-3.7167,Spain,Adolfo Suárez Madrid–Barajas Airport,"Av de la Hispanidad, s/n, Madrid",4.0
+1183,Barcelona,41.3825,2.1769,Spain,Josep Tarradellas Barcelona-El Prat Airport,El Prat de Llobregat,4.0
+1184,Valencia,39.47,-0.3764,Spain,Valencia Airport,"Carretera del Aeropuerto, s/n, Manises",4.0
+1185,Sevilla,37.39,-5.99,Spain,Seville Airport,"A-4, Km. 532, Sevilla",3.7
+1186,Zaragoza,41.65,-0.8833,Spain,Zaragoza Airport,"Carretera del Aeropuerto s/n, Zaragoza",4.0
+1187,Málaga,36.7194,-4.42,Spain,Málaga-Costa del Sol Airport (AGP),"Av. del Comandante García Morato, s/n",4.0
+1188,Murcia,37.9861,-1.1303,Spain,Región de Murcia International Airport,"Av. de España, 101, Lo Jurado",4.1
+1189,Palma,39.5667,2.65,Spain,Palma de Mallorca Airport,Palma,4.2
+1190,Las Palmas,28.1272,-15.4314,Spain,Gran Canaria Airport,"GC-1, s/n, Las Palmas de Gran Canaria",4.2
+1191,Bilbao,43.2569,-2.9236,Spain,Bilbao Airport,"Bo. Gaztañaga, 633, Loiu",4.1
+1192,Alicante,38.3453,-0.4831,Spain,Alicante Airport,L'Altet,4.3
+1193,Córdoba,37.8845,-4.7796,Spain,Córdoba Airport,"Ctra. Nacional 437, Km. 5, 8, Córdoba",3.7
+1194,Valladolid,41.6528,-4.7236,Spain,Valladolid Airport,"Ctra. Adanero-Gijón, s/n, Villanubla",3.7
+1195,Vigo,42.2314,-8.7124,Spain,vigo spagna,"Av. de Ourense, 71, Cangas",0.0
+1196,Gijón,43.5333,-5.7,Spain,Asturias Airport (OVD),"AI-82, Santiago del Monte",4.0
+1197,Vitoria-Gasteiz,42.85,-2.6833,Spain,Logrono Agoncillo Airport,"Ctra. Logroño-Zaragoza (N-232), s/n, Agoncillo",3.4
+1198,A Coruña,43.3667,-8.3833,Spain,A Coruña Airport,"Av. Hermida, Rutis",4.1
+1199,Elche,38.2669,-0.6983,Spain,Alicante Airport,L'Altet,4.3
+1200,Granada,37.1781,-3.6008,Spain,Federico García Lorca Granada Airport,"Ctra. de Málaga, Chauchina",4.0
+1201,Tarrasa,41.5611,2.0081,Spain,Josep Tarradellas Barcelona-El Prat Airport,El Prat de Llobregat,4.0
+1202,Badalona,41.4333,2.2333,Spain,Josep Tarradellas Barcelona-El Prat Airport,El Prat de Llobregat,4.0
+1203,Oviedo,43.36,-5.845,Spain,Asturias Airport (OVD),"AI-82, Santiago del Monte",4.0
+1204,Cartagena,37.6,-0.9819,Spain,Región de Murcia International Airport,"Av. de España, 101, Lo Jurado",4.1
+1205,Sabadell,41.5483,2.1075,Spain,Josep Tarradellas Barcelona-El Prat Airport,El Prat de Llobregat,4.0
+1206,Jerez de la Frontera,36.6817,-6.1378,Spain,Jerez Airport,"Carretera N-IV, km. 628.5, Jerez de la Frontera",4.0
+1207,Móstoles,40.3333,-3.8667,Spain,Adolfo Suárez Madrid–Barajas Airport,"Av de la Hispanidad, s/n, Madrid",4.0
+1208,Santa Cruz,28.4667,-16.25,Spain,Tenerife Norte Airport,San Cristóbal de La Laguna,4.1
+1209,Pamplona,42.8167,-1.65,Spain,Pamplona Airport,"Carr. del Aeropuerto, Noáin",4.0
+1210,Almería,36.8403,-2.4681,Spain,Almería Airport,"Carretera Nijar - Alquián, Almería",4.2
+1211,Alcalá de Henares,40.4818,-3.3643,Spain,Adolfo Suárez Madrid–Barajas Airport,"Av de la Hispanidad, s/n, Madrid",4.0
+1212,Fuenlabrada,40.2833,-3.8,Spain,Adolfo Suárez Madrid–Barajas Airport,"Av de la Hispanidad, s/n, Madrid",4.0
+1213,Donostia,43.32,-1.98,Spain,San Sebastian Airport,"Gabarrari Kalea, 22, Hondarribia",3.9
+1214,Leganés,40.3281,-3.7644,Spain,Adolfo Suárez Madrid–Barajas Airport,"Av de la Hispanidad, s/n, Madrid",4.0
+1215,Getafe,40.3047,-3.7311,Spain,Adolfo Suárez Madrid–Barajas Airport,"Av de la Hispanidad, s/n, Madrid",4.0
+1216,Burgos,42.3408,-3.6997,Spain,Burgos Airport,"Ctra. de Logroño, 107, Burgos",4.1
+1217,Albacete,38.9956,-1.8558,Spain,Albacete Airport,"02006, Albacete",4.0
+1218,Castellón de la Plana,39.9831,-0.0331,Spain,Castellón–Costa Azahar Airport,"Carretera CV-13, Km. 2,4, Benlloch",3.7
+1219,Santander,43.4628,-3.805,Spain,Seve Ballesteros-Santander Airport,"C. Aeropuerto, s/n, Maliaño",4.2
+1220,Alcorcón,40.35,-3.8333,Spain,Adolfo Suárez Madrid–Barajas Airport,"Av de la Hispanidad, s/n, Madrid",4.0
+1221,La Laguna,28.4853,-16.3167,Spain,Tenerife Norte Airport,San Cristóbal de La Laguna,4.1
+1222,Logroño,42.465,-2.4456,Spain,Logrono Agoncillo Airport,"Ctra. Logroño-Zaragoza (N-232), s/n, Agoncillo",3.4
+1223,Badajoz,38.8803,-6.9753,Spain,Badajoz Airport,"Ctra. Badajoz-Balboa, s/n, Badajoz",4.1
+1224,Marbella,36.5167,-4.8833,Spain,Gibraltar International Airport,British Lines Road,4.3
+1225,Salamanca,40.9667,-5.6639,Spain,Salamanca Airport,"Ctra. Madrid, Km. 14, Matacán",4.0
+1226,Huelva,37.25,-6.95,Spain,,,
+1227,Lleida,41.6167,0.6333,Spain,Lleida–Alguaire Airport,"Carretera de l'Aeroport, s/n, Alguaire",3.9
+1228,Dos Hermanas,37.2836,-5.9222,Spain,Seville Airport,"A-4, Km. 532, Sevilla",3.7
+1229,Tarragona,41.1187,1.2453,Spain,Reus Airport,"Av. de Tarragona, s / n, Reus",3.9
+1230,Torrejón de Ardoz,40.4614,-3.4978,Spain,Adolfo Suárez Madrid–Barajas Airport,"Av de la Hispanidad, s/n, Madrid",4.0
+1231,Parla,40.2372,-3.7742,Spain,Adolfo Suárez Madrid–Barajas Airport,"Av de la Hispanidad, s/n, Madrid",4.0
+1232,Stockholm,59.3294,18.0686,Sweden,Stockholm Arlanda Airport,Stockholm-Arlanda,3.8
+1233,Gothenburg,57.6717,11.981,Sweden,Gothenburg-Landvetter Airport,Landvetter,4.2
+1234,Malmö,55.5833,13.0333,Sweden,Copenhagen Airport,"Lufthavnsboulevarden 6, Kastrup",4.1
+1235,Uppsala,59.8498,17.6389,Sweden,Stockholm Arlanda Airport,Stockholm-Arlanda,3.8
+1236,Uppsala,59.8601,17.64,Sweden,Stockholm Arlanda Airport,Stockholm-Arlanda,3.8
+1237,Västerås,59.6173,16.5422,Sweden,Eskilstuna flygplats,"Ö, Eskilstuna",4.8
+1238,Örebro,59.2669,15.1965,Sweden,Örebro Läns Flygplats AB,"FLYGFÄLTSVÄGEN 8, Örebro",4.3
+1239,Linköping,58.4094,15.6257,Sweden,Linköping City Airport,"Åkerbogatan 20, Linköping",4.3
+1240,Helsingborg,56.0424,12.720999999999998,Sweden,Copenhagen Airport,"Lufthavnsboulevarden 6, Kastrup",4.1
+1241,Umeå,63.8285,20.2706,Sweden,Umeå Airport,"Flygplatsvägen 32, Umeå",3.9
+1242,Jönköping,57.7833,14.1667,Sweden,Jönköping Airport,Jönköping,4.5
+1243,Norrköping,58.5919,16.1856,Sweden,Linköping City Airport,"Åkerbogatan 20, Linköping",4.3
+1244,Gävle,60.6748,17.1444,Sweden,Gävle-Sandviken Airport,"Flygfältsvägen 49, Valbo",4.8
+1245,Karlstad,59.3808,13.5016,Sweden,Karlstad Airport,"Våldalen 570, Karlstad",3.7
+1246,Sundsvall,62.3902,17.3067,Sweden,Sundsvall-Timrå Airport,"Unnamed Road, Sörberge",3.9
+1247,Borås,57.7304,12.92,Sweden,Gothenburg-Landvetter Airport,Landvetter,4.2
+1248,Växjö,56.8837,14.8167,Sweden,Smaland Airport,"Flygplatsvägen 2, Växjö",3.9
+1249,Halmstad,56.6754,12.8587,Sweden,Varberg Airport,Varberg,4.0
+1250,Luleå,65.5838,22.1915,Sweden,Luleå Airport,"Flygstationsvägen 4, Luleå",4.2
+1251,Östersund,63.1775,14.6414,Sweden,Åre Östersund Airport,Frösön,4.2
+1252,Trollhättan,58.2671,12.3,Sweden,Trollhättan–Vänersborg Airport,Västra Tunhem,4.4
+1253,Kalmar,56.6694,16.3218,Sweden,Kalmar Öland Airport,"Flygplatsvägen 32, Kalmar",3.9
+1254,Skövde,58.3995,13.8538,Sweden,Skovde Airport,"Flygplatsvägen 8, Skövde",4.2
+1255,Borlänge,60.4833,15.4167,Sweden,Ludvika Airport,"Flygfältsvägen 31, Ludvika",4.3
+1256,Mölndal,57.6542,12.0139,Sweden,Gothenburg-Landvetter Airport,Landvetter,4.2
+1257,Falun,60.613,15.647,Sweden,Dala Airport,"Överstevägen 50, Borlänge",4.4
+1258,Karlskrona,56.1611,15.5881,Sweden,Ronneby Airport,"Bredåkravägen 26, Kallinge",4.0
+1259,Nyköping,58.7582,17.0185,Sweden,Norrköping Airport AB,Norrköping,4.2
+1260,Kristianstad,56.0337,14.1333,Sweden,Kristianstad Airport AB,"Degebergavägen 327, Everöd",3.8
+1261,Skellefteå,64.65,20.85,Sweden,Skellefteå Airport,"SKELLEFTEÅ FLYGPLATS 1, Skellefteå",4.1
+1262,Örnsköldsvik,63.294,18.7122,Sweden,Örnsköldsvik Airport,"Västanå 100, Husum",4.3
+1263,Kiruna,67.8494,20.2544,Sweden,Kiruna Airport,"Flygfältsvägen, Kiruna",4.1
+1264,Visby,57.629,18.3071,Sweden,Visby Airport,Visby,4.1
+1265,Huskvarna,57.7919,14.2756,Sweden,Jönköping Airport,Jönköping,4.5
+1266,Vänersborg,58.363,12.33,Sweden,Trollhättan–Vänersborg Airport,Västra Tunhem,4.4
+1267,Härnösand,62.6323,17.9379,Sweden,Sundsvall-Timrå Airport,"Unnamed Road, Sörberge",3.9
+1268,Höganäs,56.196000000000005,12.5769,Sweden,Ängelholm–Helsingborg Airport,"Margretetorpsvägen 445, Ängelholm",3.9
+1269,Kinna,57.4954,12.6805,Sweden,Gothenburg-Landvetter Airport,Landvetter,4.2
+1270,Mariestad,58.705,13.828,Sweden,Skovde Airport,"Flygplatsvägen 8, Skövde",4.2
+1271,Mjölby,58.3321,15.1312,Sweden,Linköping City Airport,"Åkerbogatan 20, Linköping",4.3
+1272,Bollnäs,61.3484,16.3883,Sweden,Helsinge Airport,,
+1273,Mora,61.0096,14.5635,Sweden,Mora–Siljan Airport,"Flygplatsvägen 2, Mora",3.7
+1274,Ulricehamn,57.7917,13.4186,Sweden,Borås Airport,"Vindgatan 9, Borås",4.8
+1275,Tibro,58.419,14.158,Sweden,Skovde Airport,"Flygplatsvägen 8, Skövde",4.2
+1276,Habo,57.9066,14.0856,Sweden,Jönköping Airport,Jönköping,4.5
+1277,Tidaholm,58.1794,13.9599,Sweden,Skovde Airport,"Flygplatsvägen 8, Skövde",4.2
+1278,Strömstad,58.9441,11.1864,Sweden,Strömstad-Näsinge flygplats,"Flygplats 1, Strömstad",4.5
+1279,Haparanda,65.8342,24.116999999999997,Sweden,,,
+1280,Hjo,58.3044,14.2786,Sweden,Skovde Airport,"Flygplatsvägen 8, Skövde",4.2
+1281,Kungsör,59.4227,16.1059,Sweden,Eskilstuna flygplats,"Ö, Eskilstuna",4.8
+1282,Zürich,47.3744,8.5411,Switzerland,Zurich Airport,Kloten,4.4
+1283,Geneva,46.2,6.15,Switzerland,Geneva Airport,"Rte de l'Aéroport 21, Le Grand-Saconnex",3.7
+1284,Basel,47.5606,7.5906,Switzerland,EuroAirport Basel-Mulhouse-Freiburg,Saint-Louis,3.8
+1285,Lausanne,46.5333,6.6333,Switzerland,Geneva Airport,"Rte de l'Aéroport 21, Le Grand-Saconnex",3.7
+1286,Bern,46.948,7.4474,Switzerland,Bern Airport,"Flugplatzstrasse 31, Belp",4.5
+1287,Winterthur,47.4992,8.7267,Switzerland,Zurich Airport,Kloten,4.4
+1288,Lucerne,47.0523,8.3059,Switzerland,Zurich Airport,Kloten,4.4
+1289,Sankt Gallen,47.4233,9.3772,Switzerland,Bodensee Airport Friedrichshafen,"Am Flugpl. 64, Friedrichshafen",4.3
+1290,Lugano,46.0103,8.9625,Switzerland,Malpensa Airport,Ferno,3.8
+1291,Biel/Bienne,47.1372,7.2472,Switzerland,Bern Airport,"Flugplatzstrasse 31, Belp",4.5
+1292,Thun,46.75899999999999,7.63,Switzerland,Bern Airport,"Flugplatzstrasse 31, Belp",4.5
+1293,Bellinzona,46.1956,9.0238,Switzerland,Lugano Airport,"Via Aeroporto, Agno",4.3
+1294,Köniz,46.925,7.4153,Switzerland,Bern Airport,"Flugplatzstrasse 31, Belp",4.5
+1295,La Chaux-de-Fonds,47.0996,6.8296,Switzerland,Montbéliard Courcelles Airport,Courcelles-lès-Montbéliard,4.2
+1296,Fribourg,46.8,7.15,Switzerland,Bern Airport,"Flugplatzstrasse 31, Belp",4.5
+1297,Schaffhausen,47.6965,8.6339,Switzerland,Zurich Airport,Kloten,4.4
+1298,Vernier,46.2,6.1,Switzerland,Geneva Airport,"Rte de l'Aéroport 21, Le Grand-Saconnex",3.7
+1299,Chur,46.8521,9.5297,Switzerland,Samedan Airport,"Plazza Aviatica 2, Samedan",4.5
+1300,Sion,46.2304,7.3661,Switzerland,Sion Airport,"Rte de l'Aéroport, Sion",4.3
+1301,Uster,47.3492,8.7192,Switzerland,Zurich Airport,Kloten,4.4
+1302,Neuchâtel,46.9903,6.9306,Switzerland,Bern Airport,"Flugplatzstrasse 31, Belp",4.5
+1303,Landecy,46.1897,6.1158,Switzerland,Geneva Airport,"Rte de l'Aéroport 21, Le Grand-Saconnex",3.7
+1304,Zug,47.1681,8.5169,Switzerland,Zurich Airport,Kloten,4.4
+1305,Yverdon-les-Bains,46.7785,6.6408,Switzerland,Neuchâtel Airport,Aérodrome,4.6
+1306,Emmen,47.0772,8.3,Switzerland,Zurich Airport,Kloten,4.4
+1307,Dübendorf,47.3981,8.6194,Switzerland,Zurich Airport,Kloten,4.4
+1308,Kriens,47.0344,8.28,Switzerland,Zurich Airport,Kloten,4.4
+1309,Rapperswil-Jona,47.2286,8.8317,Switzerland,Zurich Airport,Kloten,4.4
+1310,Dietikon,47.4056,8.4039,Switzerland,Zurich Airport,Kloten,4.4
+1311,Montreux,46.4333,6.9167,Switzerland,Sion Airport,"Rte de l'Aéroport, Sion",4.3
+1312,Frauenfeld,47.5558,8.8964,Switzerland,Bodensee Airport Friedrichshafen,"Am Flugpl. 64, Friedrichshafen",4.3
+1313,Wetzikon,47.3208,8.7931,Switzerland,Zurich Airport,Kloten,4.4
+1314,Baar,47.1956,8.5264,Switzerland,Zurich Airport,Kloten,4.4
+1315,Meyrin,46.2322,6.0791,Switzerland,Geneva Airport,"Rte de l'Aéroport 21, Le Grand-Saconnex",3.7
+1316,Wil,47.4664,9.0497,Switzerland,Zurich Airport,Kloten,4.4
+1317,Bulle,46.6167,7.05,Switzerland,Sion Airport,"Rte de l'Aéroport, Sion",4.3
+1318,Horgen,47.2608,8.5975,Switzerland,Zurich Airport,Kloten,4.4
+1319,Carouge,46.1817,6.1404,Switzerland,Geneva Airport,"Rte de l'Aéroport 21, Le Grand-Saconnex",3.7
+1320,Kreuzlingen,47.6458,9.1783,Switzerland,Bodensee Airport Friedrichshafen,"Am Flugpl. 64, Friedrichshafen",4.3
+1321,Wädenswil,47.2303,8.6722,Switzerland,Zurich Airport,Kloten,4.4
+1322,Riehen,47.5794,7.6512,Switzerland,EuroAirport Basel-Mulhouse-Freiburg,Saint-Louis,3.8
+1323,Aarau,47.3923,8.0446,Switzerland,Zurich Airport,Kloten,4.4
+1324,Allschwil,47.5508,7.5358,Switzerland,EuroAirport Basel-Mulhouse-Freiburg,Saint-Louis,3.8
+1325,Renens,46.5353,6.5897,Switzerland,Geneva Airport,"Rte de l'Aéroport 21, Le Grand-Saconnex",3.7
+1326,Wettingen,47.4659,8.3267,Switzerland,Zurich Airport,Kloten,4.4
+1327,Nyon,46.382,6.2389,Switzerland,Geneva Airport,"Rte de l'Aéroport 21, Le Grand-Saconnex",3.7
+1328,Bülach,47.5189,8.5422,Switzerland,Zurich Airport,Kloten,4.4
+1329,Vevey,46.4667,6.85,Switzerland,,,
+1330,Opfikon,47.4331,8.5719,Switzerland,Zurich Airport,Kloten,4.4
+1331,Kloten,47.4481,8.5828,Switzerland,Zurich Airport,Kloten,4.4
+1332,Taichung,24.15,120.6667,Taiwan,Taichung International Airport,"No. 168號, Section 1, Zhonghang Rd, Shalu District",3.9
+1333,Kaohsiung,22.6167,120.3,Taiwan,Kaohsiung International Airport,"Zhongshan 4th Rd, Xiaogang District",4.3
+1334,Taipei,25.0478,121.5319,Taiwan,Taiwan Taoyuan International Airport,"No. 9, Hangzhan S Rd, Dayuan District",4.3
+1335,Tainan,22.9833,120.1833,Taiwan,Kaohsiung International Airport,"Zhongshan 4th Rd, Xiaogang District",4.3
+1336,Zhongli,24.965,121.2168,Taiwan,Taiwan Taoyuan International Airport,"No. 9, Hangzhan S Rd, Dayuan District",4.3
+1337,Changhua,24.0667,120.5333,Taiwan,Taichung International Airport,"No. 168號, Section 1, Zhonghang Rd, Shalu District",3.9
+1338,Pingtung,22.6761,120.4942,Taiwan,Kaohsiung International Airport,"Zhongshan 4th Rd, Xiaogang District",4.3
+1339,Hsinchu,24.8047,120.9714,Taiwan,Taiwan Taoyuan International Airport,"No. 9, Hangzhan S Rd, Dayuan District",4.3
+1340,Taoyuan District,24.9889,121.3111,Taiwan,Taiwan Taoyuan International Airport,"No. 9, Hangzhan S Rd, Dayuan District",4.3
+1341,Keelung,25.1283,121.7419,Taiwan,Taipei Songshan Airport,"No. 340-9, DunHua N Rd, Songshan District",4.4
+1342,Chiayi,23.48,120.4497,Taiwan,Chiayi Airport,"No. 1號, Rongdian Rd, Shuishang Township",4.1
+1343,Pingzhen,24.9439,121.2161,Taiwan,Taiwan Taoyuan International Airport,"No. 9, Hangzhan S Rd, Dayuan District",4.3
+1344,Zhubei,24.8333,121.0,Taiwan,Taiwan Taoyuan International Airport,"No. 9, Hangzhan S Rd, Dayuan District",4.3
+1345,Yangmei,24.9167,121.15,Taiwan,Taiwan Taoyuan International Airport,"No. 9, Hangzhan S Rd, Dayuan District",4.3
+1346,Bade,24.9575,121.2989,Taiwan,Taiwan Taoyuan International Airport,"No. 9, Hangzhan S Rd, Dayuan District",4.3
+1347,Yilan,24.75,121.75,Taiwan,Taipei Songshan Airport,"No. 340-9, DunHua N Rd, Songshan District",4.4
+1348,Hualien,23.9722,121.6064,Taiwan,Hualien Airport,"Xincheng Township, 機場巷1號",4.2
+1349,Taitung,22.7583,121.1444,Taiwan,天際航空股份有限公司,"Luye Township, Section 3, Zhonghua Rd, 399號955",0.0
+1350,Douliu,23.7075,120.5439,Taiwan,Chiayi Airport,"No. 1號, Rongdian Rd, Shuishang Township",4.1
+1351,Nantou,23.9167,120.6833,Taiwan,Taichung International Airport,"No. 168號, Section 1, Zhonghang Rd, Shalu District",3.9
+1352,Miaoli,24.57,120.82,Taiwan,Taichung International Airport,"No. 168號, Section 1, Zhonghang Rd, Shalu District",3.9
+1353,Magong,23.5667,119.5833,Taiwan,Wangan Airport,"Wang’an Township, 156號",4.2
+1354,Zhushan,23.6889,120.7289,Taiwan,Chiayi Airport,"No. 1號, Rongdian Rd, Shuishang Township",4.1
+1355,Pozi,23.4611,120.242,Taiwan,Chiayi Airport,"No. 1號, Rongdian Rd, Shuishang Township",4.1
+1356,Huatan,24.0316,120.55799999999999,Taiwan,Taichung International Airport,"No. 168號, Section 1, Zhonghang Rd, Shalu District",3.9
+1357,Beigang,23.5667,120.3,Taiwan,Chiayi Airport,"No. 1號, Rongdian Rd, Shuishang Township",4.1
+1358,Taibao,23.45,120.3333,Taiwan,Chiayi Airport,"No. 1號, Rongdian Rd, Shuishang Township",4.1
+1359,Yuanchang,23.642,120.323,Taiwan,Chiayi Airport,"No. 1號, Rongdian Rd, Shuishang Township",4.1
+1360,Ershui,23.8167,120.6167,Taiwan,Taichung International Airport,"No. 168號, Section 1, Zhonghang Rd, Shalu District",3.9
+1361,Nangan,26.1598,119.9432,Taiwan,Fuzhou Changle International Airport,"Changle District, Fuzhou",3.9
+1362,Banqiao,25.0143,121.4672,Taiwan,Taiwan Taoyuan International Airport,"No. 9, Hangzhan S Rd, Dayuan District",4.3
+1363,Jincheng,24.4167,118.3167,Taiwan,Xiamen Gaoqi International Airport,"Xiangyunyi Rd, Huli District, Xiamen",3.8
+1364,Dubai,25.2697,55.3094,United Arab Emirates,Dubai International Airport,Dubai,4.6
+1365,Abu Dhabi,24.4511,54.3969,United Arab Emirates,Abu Dhabi International Airport,Abu Dhabi,4.3
+1366,Sharjah,25.3575,55.3919,United Arab Emirates,Dubai International Airport,Dubai,4.6
+1367,Al ‘Ayn,24.2075,55.7447,United Arab Emirates,Al Ain International Airport,Al Ain International Airport - Abu Dhabi,4.3
+1368,‘Ajmān,25.3994,55.4797,United Arab Emirates,Dubai International Airport,Dubai,4.6
+1369,Ra’s al Khaymah,25.7851,55.9479,United Arab Emirates,Ras Al Khaimah International Airport,Al Mathloothah - Ras al Khaimah,3.9
+1370,Al Fujayrah,25.1308,56.3347,United Arab Emirates,Fujairah International Airport,Fujairah,4.0
+1371,Umm al Qaywayn,25.5653,55.5533,United Arab Emirates,Dubai International Airport,Dubai,4.6
+1372,Madīnat Zāyid,23.6522,53.6536,United Arab Emirates,,,
+1373,London,51.5072,-0.1275,United Kingdom,London City Airport,"Hartmann Rd, London",4.1
+1374,Birmingham,52.48,-1.9025,United Kingdom,Birmingham Airport,Birmingham,3.6
+1375,Leeds,53.7997,-1.5492,United Kingdom,Leeds Bradford Airport,"Whitehouse Ln, Yeadon, Leeds",3.2
+1376,Glasgow,55.8611,-4.25,United Kingdom,,,
+1377,Bristol,51.45,-2.5833,United Kingdom,Bristol Airport,Bristol,3.4
+1378,Manchester,53.4794,-2.2453,United Kingdom,Liverpool John Lennon Airport,"Speke Hall Ave, Speke, Liverpool",3.9
+1379,Sheffield,53.3808,-1.4703,United Kingdom,Crosland Moor Airfield,Huddersfield,4.8
+1380,Liverpool,53.4075,-2.9919,United Kingdom,Liverpool John Lennon Airport,"Speke Hall Ave, Speke, Liverpool",3.9
+1381,Edinburgh,55.953,-3.1889999999999996,United Kingdom,Edinburgh Airport,Edinburgh,3.6
+1382,Leicester,52.6344,-1.1319,United Kingdom,Birmingham Airport,Birmingham,3.6
+1383,Coventry,52.4081,-1.5106,United Kingdom,Birmingham Airport,Birmingham,3.6
+1384,Caerdydd,51.4817,-3.1792,United Kingdom,Cardiff Airport,"Rhoose, Barry",3.9
+1385,Belfast,54.5964,-5.93,United Kingdom,Belfast International Airport,"Airport Rd, Belfast, Crumlin",3.4
+1386,Newcastle,55.0077,-1.6578,United Kingdom,Newcastle International Airport,"Woolsington, Newcastle upon Tyne",3.9
+1387,Bradford,53.8,-1.75,United Kingdom,Leeds Bradford Airport,"Whitehouse Ln, Yeadon, Leeds",3.2
+1388,Ipswich,52.0594,1.1556,United Kingdom,Old Buckenham Aerodrome,"Abbey Rd, Old Buckenham",4.5
+1389,Nottingham,52.9533,-1.15,United Kingdom,East Midlands Airport,"Castle Donington, Derby",3.4
+1390,Bolton,53.578,-2.4290000000000003,United Kingdom,,,
+1391,Sunderland,54.906000000000006,-1.381,United Kingdom,Teesside International Airport,"Tees Valley, Darlington",4.0
+1392,Southampton,50.9025,-1.4042,United Kingdom,Bournemouth Airport,"Parley Ln, Christchurch",3.5
+1393,Plymouth,50.3714,-4.1422,United Kingdom,,,
+1394,Kingston upon Hull,53.7444,-0.3325,United Kingdom,Humberside Airport,"A18, Franklin Way, Ulceby",3.9
+1395,Derby,52.9217,-1.4769,United Kingdom,East Midlands Airport,"Castle Donington, Derby",3.4
+1396,Westminster,51.4947,-0.1353,United Kingdom,London City Airport,"Hartmann Rd, London",4.1
+1397,Wolverhampton,52.5833,-2.1333,United Kingdom,Birmingham Airport,Birmingham,3.6
+1398,Stoke-on-Trent,53.0,-2.1833,United Kingdom,Liverpool John Lennon Airport,"Speke Hall Ave, Speke, Liverpool",3.9
+1399,Portsmouth,50.8058,-1.0872,United Kingdom,,,
+1400,Abertawe,51.6167,-3.95,United Kingdom,Cardiff Airport,"Rhoose, Barry",3.9
+1401,Barnsley,53.5547,-1.4791,United Kingdom,Leeds Bradford Airport,"Whitehouse Ln, Yeadon, Leeds",3.2
+1402,Swindon,51.56,-1.78,United Kingdom,Oxford Airport (OXF),"Langford Ln, Kidlington",4.4
+1403,Luton,51.8783,-0.4147,United Kingdom,,,
+1404,Northampton,52.2304,-0.8938,United Kingdom,London Luton Airport,"Airport Way, Luton",3.0
+1405,Milton Keynes,52.04,-0.76,United Kingdom,London Luton Airport,"Airport Way, Luton",3.0
+1406,Solihull,52.413000000000004,-1.778,United Kingdom,Birmingham Airport,Birmingham,3.6
+1407,Aberdeen,57.15,-2.11,United Kingdom,Aberdeen International Airport,"Dyce, Aberdeen",3.6
+1408,Norwich,52.63,1.297,United Kingdom,Norwich Airport,"Norwich Airport Ltd, Amsterdam Way, Norwich",3.2
+1409,Peterborough,52.5725,-0.2431,United Kingdom,Cambridge City Airport,"Newmarket Rd, Cambridge",4.2
+1410,Bournemouth,50.72,-1.88,United Kingdom,Bournemouth Airport,"Parley Ln, Christchurch",3.5
+1411,Basildon,51.5761,0.4886,United Kingdom,London City Airport,"Hartmann Rd, London",4.1
+1412,York,53.9583,-1.0803,United Kingdom,Leeds Bradford Airport,"Whitehouse Ln, Yeadon, Leeds",3.2
+1413,Warrington,53.3917,-2.5972,United Kingdom,,,
+1414,Huddersfield,53.645,-1.7798,United Kingdom,Leeds Bradford Airport,"Whitehouse Ln, Yeadon, Leeds",3.2
+1415,Reading,51.4542,-0.9731,United Kingdom,Heathrow Airport,Longford,4.0
+1416,Southend,51.55,0.71,United Kingdom,London City Airport,"Hartmann Rd, London",4.1
+1417,Oxford,51.7519,-1.2578,United Kingdom,,,
+1418,Dundee,56.461999999999996,-2.9707,United Kingdom,Dundee Airport,"Riverside Dr, Dundee",4.5
+1419,West Bromwich,52.519,-1.995,United Kingdom,Birmingham Airport,Birmingham,3.6
+1420,Newport,51.5833,-3.0,United Kingdom,Cardiff Airport,"Rhoose, Barry",3.9
+1421,Gloucester,51.8644,-2.2444,United Kingdom,Gloucestershire Airport EGBJ / GLO,"Staverton, Cheltenham",4.7
+1422,Poole,50.7167,-1.9833,United Kingdom,Bournemouth Airport,"Parley Ln, Christchurch",3.5
+1423,New York,40.6943,-73.9249,United States,John F. Kennedy International Airport,Queens,4.0
+1424,Los Angeles,34.1139,-118.4068,United States,,,
+1425,Chicago,41.8373,-87.6862,United States,O'Hare International Airport,"10000 W Balmoral Ave, Chicago",4.0
+1426,Miami,25.7839,-80.2102,United States,Miami International Airport,"2100 NW 42nd Ave, Miami",4.0
+1427,Dallas,32.7936,-96.7662,United States,Dallas/Fort Worth International Airport,"2400 Aviation Dr, DFW Airport",4.1
+1428,Philadelphia,40.0077,-75.1339,United States,,,
+1429,Houston,29.7863,-95.3889,United States,IAH Airport,"Terminal E, 2800 N Terminal Rd, Houston",4.2
+1430,Atlanta,33.7627,-84.4224,United States,,,
+1431,Washington,38.9047,-77.0163,United States,,,
+1432,Boston,42.3188,-71.0846,United States,Boston Logan International Airport,Boston,4.1
+1433,Phoenix,33.5722,-112.0891,United States,Phoenix Sky Harbor International Airport,"3400 E Sky Harbor Blvd, Phoenix",4.2
+1434,Seattle,47.6211,-122.3244,United States,,,
+1435,San Francisco,37.7562,-122.443,United States,Oakland International Airport,"1 Airport Dr, Oakland",4.2
+1436,Detroit,42.3834,-83.1024,United States,Oakland County International Airport,"6500 Highland Rd, Waterford Twp",4.6
+1437,San Diego,32.8312,-117.1225,United States,San Diego International Airport,"3225 N Harbor Dr, San Diego",4.3
+1438,Minneapolis,44.9635,-93.2678,United States,,,
+1439,Tampa,27.9942,-82.4451,United States,Tampa International Airport,"4100 George J Bean Pkwy, Tampa",4.6
+1440,Denver,39.7621,-104.8759,United States,Denver International Airport,"8500 Peña Blvd, Denver",4.1
+1441,Brooklyn,40.6501,-73.9496,United States,John F. Kennedy International Airport,Queens,4.0
+1442,Queens,40.7498,-73.7976,United States,John F. Kennedy International Airport,Queens,4.0
+1443,Riverside,33.9381,-117.3948,United States,Ontario International Airport,Ontario,4.5
+1444,Baltimore,39.3051,-76.6144,United States,Baltimore/Washington International Thurgood Marshall Airport,"7050 Friendship Rd, Baltimore",4.3
+1445,Las Vegas,36.2333,-115.2654,United States,Harry Reid International Airport,"5757 Wayne Newton Blvd, Las Vegas",4.2
+1446,Portland,45.5372,-122.65,United States,Portland International Airport,"7000 NE Airport Way, Portland",4.5
+1447,San Antonio,29.4658,-98.5253,United States,San Antonio International Airport,"9800 Airport Blvd, San Antonio",4.1
+1448,St. Louis,38.6358,-90.2451,United States,,,
+1449,Sacramento,38.5667,-121.4683,United States,Sacramento International Airport,"6900 Airport Blvd, Sacramento",4.4
+1450,Orlando,28.4772,-81.3369,United States,Orlando International Airport,"1 Jeff Fuqua Blvd, Orlando",4.1
+1451,San Jose,37.3019,-121.8486,United States,Oakland International Airport,"1 Airport Dr, Oakland",4.2
+1452,Cleveland,41.4767,-81.6804,United States,Cleveland Hopkins International Airport,"5300 Riverside Dr, Cleveland",4.1
+1453,Pittsburgh,40.4396,-79.9762,United States,Pittsburgh International Airport,"1000 Airport Blvd, Pittsburgh",4.4
+1454,Austin,30.3004,-97.7522,United States,Austin-Bergstrom International Airport,"3600 Presidential Blvd, Austin",4.2
+1455,Cincinnati,39.1413,-84.5061,United States,Cincinnati/Northern Kentucky International Airport,"3087 Terminal Dr, Hebron",4.3
+1456,Kansas City,39.1239,-94.5541,United States,,,
+1457,Manhattan,40.7834,-73.9662,United States,John F. Kennedy International Airport,Queens,4.0
+1458,Indianapolis,39.7771,-86.1458,United States,Indianapolis International Airport,"7800 Col. H. Weir Cook Memorial Dr, Indianapolis",4.6
+1459,Columbus,39.9862,-82.985,United States,,,
+1460,Charlotte,35.208,-80.8304,United States,Charlotte Douglas International Airport,"5501 Josh Birmingham Pkwy, Charlotte",4.0
+1461,Virginia Beach,36.7335,-76.0435,United States,Norfolk International Airport,"2200 Norview Ave, Norfolk",4.3
+1462,Bronx,40.8501,-73.8662,United States,,,
+1463,Milwaukee,43.0642,-87.9673,United States,General Mitchell International Airport,"5300 S Howell Ave, Milwaukee",4.4
+1464,Providence,41.823,-71.4187,United States,Rhode Island T.F. Green International Airport,"2000 Post Rd, Warwick",4.4
+1465,Jacksonville,30.3322,-81.6749,United States,Jacksonville International Airport,"2400 Yankee Clipper Dr, Jacksonville",4.5
+1466,Salt Lake City,40.7777,-111.9306,United States,Salt Lake City International Airport,"W Terminal Dr, Salt Lake City",4.1
+1467,Nashville,36.1715,-86.7843,United States,Nashville International Airport,"1 Terminal Dr, Nashville",4.2
+1468,Richmond,37.5295,-77.4756,United States,Richmond International Airport,"1 Richard E Byrd Terminal Dr, Richmond",4.3
+1469,Memphis,35.1046,-89.9773,United States,Memphis International Airport,"2491 Winchester Rd, Memphis",4.0
+1470,Raleigh,35.8325,-78.6435,United States,,,
+1471,New Orleans,30.0687,-89.9288,United States,Louis Armstrong New Orleans International Airport,"1 Terminal Dr, Kenner",4.2
+1472,Louisville,38.1663,-85.6485,United States,Louisville International Airport,"600 Terminal Dr, Louisville",4.3
+1473,Montevideo,-34.8667,-56.1667,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1474,Salto,-31.3883,-57.9606,Uruguay,Nueva Hesperides International Airport,"H269+QJQ, Calle Pablo Guarino Picolini",4.2
+1475,Ciudad de la Costa,-34.8167,-55.95,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1476,Maldonado,-34.9088,-54.9581,Uruguay,Punta del Este International Airport,"4WQ2+JQX, Ruta 113, Maldonado",4.3
+1477,Paysandú,-32.32,-58.0756,Uruguay,Paysandu Airport,"JWQJ+4GF, Paysandú",4.2
+1478,Las Piedras,-34.7167,-56.2167,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1479,Rivera,-30.9025,-55.5506,Uruguay,,,
+1480,Tacuarembó,-31.7144,-55.9828,Uruguay,Tacuarembó Airport (TAW),63X9+8V6,4.6
+1481,Melo,-32.3667,-54.1833,Uruguay,Melo International Airport,MQ6G+6FH,3.9
+1482,Mercedes,-33.25,-58.0319,Uruguay,Ricardo Detomasi Airport,Mercedes,5.0
+1483,Artigas,-30.4028,-56.4704,Uruguay,Aeropuerto Internacional de Artigas,"55000, Artigas",4.5
+1484,Minas,-34.3667,-55.2333,Uruguay,,,
+1485,San José,-34.3333,-56.7167,Uruguay,Sucn Aero Club Canelones,"KM. 100.500,, 11, Canelones",4.6
+1486,Durazno,-33.3833,-56.5167,Uruguay,,,
+1487,Florida,-34.1,-56.2167,Uruguay,Sucn,"FPMQ+W9J, Paso Palomeque",4.0
+1488,Colonia del Sacramento,-34.4714,-57.8442,Uruguay,Laguna de los Patos International Airport,"G6XM+XGG, Cam. al Aeropuerto 2, Col Del Sacramento",4.5
+1489,Pando,-34.7167,-55.9583,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1490,Treinta y Tres,-33.2308,-54.3822,Uruguay,Treinta y Tres Airport,"Winston Churchill 1434, Treinta y Tres",4.4
+1491,Rocha,-34.4833,-54.35,Uruguay,,,
+1492,Fray Bentos,-33.1333,-58.3,Uruguay,Gualeguaychú Airport,Gualeguaychú,4.1
+1493,Trinidad,-33.5333,-56.8833,Uruguay,,,
+1494,Canelones,-34.5228,-56.2778,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1495,Bella Unión,-30.26,-57.5992,Uruguay,Monte Caseros Airport,"Hipólito Yrigoyen 757, Monte Caseros",3.5
+1496,Carmelo,-33.9999,-58.2847,Uruguay,Laguna de los Patos International Airport,"G6XM+XGG, Cam. al Aeropuerto 2, Col Del Sacramento",4.5
+1497,Santa Lucía,-34.4525,-56.3964,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1498,Progreso,-34.665,-56.2194,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1499,Dolores,-33.5333,-58.2167,Uruguay,Ricardo Detomasi Airport,Mercedes,5.0
+1500,Río Branco,-32.5969,-53.385,Uruguay,,,
+1501,Paso de los Toros,-32.8181,-56.5064,Uruguay,,,
+1502,Libertad,-34.6333,-56.6192,Uruguay,Ángel S. Adami Airport,"6P6Q+MGV, Montevideo",4.4
+1503,Nueva Helvecia,-34.2889,-57.2333,Uruguay,Laguna de los Patos International Airport,"G6XM+XGG, Cam. al Aeropuerto 2, Col Del Sacramento",4.5
+1504,Nueva Palmira,-33.87,-58.408,Uruguay,Martín García Island Airport,"Isla Martín García, El Jagüel",4.0
+1505,Chuy,-33.6987,-53.4638,Uruguay,,,
+1506,Rosario,-34.3139,-57.3525,Uruguay,Laguna de los Patos International Airport,"G6XM+XGG, Cam. al Aeropuerto 2, Col Del Sacramento",4.5
+1507,Punta del Este,-34.9786,-54.9331,Uruguay,Punta del Este International Airport,"4WQ2+JQX, Ruta 113, Maldonado",4.3
+1508,Piriápolis,-34.8661,-55.2747,Uruguay,Punta del Este International Airport,"4WQ2+JQX, Ruta 113, Maldonado",4.3
+1509,Salinas,-34.7751,-55.8402,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1510,Parque del Plata,-34.7667,-55.7167,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1511,Lascano,-33.6731,-54.2078,Uruguay,,,
+1512,Castillos,-34.1989,-53.8575,Uruguay,,,
+1513,Tranqueras,-31.1833,-55.7667,Uruguay,,,
+1514,Sarandí del Yi,-33.3442,-55.6313,Uruguay,,,
+1515,San Ramón,-34.2914,-55.9542,Uruguay,Sucn Aero Club Canelones,"KM. 100.500,, 11, Canelones",4.6
+1516,San Jacinto,-34.5444,-55.8719,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1517,Pan de Azúcar,-34.7757,-55.2247,Uruguay,Punta del Este International Airport,"4WQ2+JQX, Ruta 113, Maldonado",4.3
+1518,Joaquín Suárez,-34.7336,-56.0367,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1519,Sauce,-34.6469,-56.0628,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1520,Sarandí Grande,-33.725,-56.3303,Uruguay,Centro de Aviacion Civil de Florida,"WR67+P3J, Florida",4.5
+1521,Atlántida,-34.7701,-55.7613,Uruguay,Carrasco International Airport,"5X7M+5G8, Capitán Juan Antonio Artigas, Ciudad de la Costa",4.6
+1522,José Pedro Varela,-33.45,-54.5333,Uruguay,Treinta y Tres Airport,"Winston Churchill 1434, Treinta y Tres",4.4
