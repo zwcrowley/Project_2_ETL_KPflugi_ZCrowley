@@ -15,10 +15,10 @@ Google Places API (https://developers.google.com/maps/documentation/places/web-s
 
 OpenWeatherAPI (https://openweathermap.org/current)
 
-## Step 1
+## 1. Identify and Extract Data
 We identified a dataset we wanted to focus on, The World Happiness Score dataset. From there we came up with the question: how can we use this dataset to decide where to build a fictional resort. From here we decided important factors in determining where to build a resort would be proximity to airports and tourist attractions, as well as the typical weather. We noted that the World Happiness Score dataset only rates countries whereas the OpenWeatherAPI and Google Places API can drill down to cities. We then decided we needed to find another dataset that drilled down into city level data to maximize our search for the best location to build a resort. 
 
-## Step 2
+## 2. Transform data
 Having obtained our desired datasets and APIs, we began the process of transforming the data. 
 
 *World Happiness Score Dataset*
@@ -48,7 +48,7 @@ Having obtained our desired datasets and APIs, we began the process of transform
 - Write a for loop script to return weather stats for each city in the World Cities database
 - Export weather stats dataframe into a csv
 
-## Step 3
+## 3. Load Data
 We have seven tables to load into Postgres
    - Happiness 
    - Country (junction table)
