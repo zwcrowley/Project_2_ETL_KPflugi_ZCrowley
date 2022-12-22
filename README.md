@@ -58,8 +58,9 @@ We have seven tables to load into Postgres
    - Beaches Data
    - Weather Data
 
-- First Normal Form: there are no duplicate rows and each cell contains a single value. 
-- Second and Third Normal Form: During the loading process, we’ve eliminated any columns that contained non partial and non-mutually exclusive data. For example, originally our Top Cities table contained city_ID and city (name) however you would still be able to determine the latitude and longitude of a city either by its city_ID or its city. We then created another junction table that contained the city_IDs and the city (name). This eliminates transitive dependencies as all attributes within each table is dependent on the table’s unique primary key. 
+First Normal Form: there are no duplicate rows and each cell contains a single value. 
+
+Second and Third Normal Form: During the loading process, we’ve eliminated any columns that contained non partial and non-mutually exclusive data. For example, originally our Top Cities table contained city_ID and city (name) however you would still be able to determine the latitude and longitude of a city either by its city_ID or its city. We then created another junction table that contained the city_IDs and the city (name). This eliminates transitive dependencies as all attributes within each table is dependent on the table’s unique primary key. 
 
 ![project_2_ERD_2](https://user-images.githubusercontent.com/110507463/209033643-73d79298-3a22-4777-9985-403f7bc393b3.jpg)
 
