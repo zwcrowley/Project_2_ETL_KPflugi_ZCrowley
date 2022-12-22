@@ -67,5 +67,5 @@ Second and Third Normal Form: During the loading process, we’ve eliminated any
 
 ## Conclusion
 - Once all the data has been loaded into the database it can be used to find the best locations to build a resort based on desired parameters around airport access, nearby beaches, and overall weather
-If we were to do things differently next time
-- The historical aggregate weather data through OpenWeatherAPI is a paid subscription but the idea was to use historical weather data from the last year to get a summary of a city's typical weather
+
+- If we were to do things differently next time: The historical aggregate weather data through OpenWeatherAPI is a paid subscription but the idea was to use historical weather data from the last year to get a summary of a city's typical weather
